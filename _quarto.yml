@@ -40,9 +40,9 @@ website:
 comments:
   giscus:
     repo: "thelondonschoolofthirukkural/thelondonschoolofthirukkural.github.io"
-    repo-id: "705056532"
+    repo-id: "R_kgDOKgZPFA"
     category: "Resources"
-    category-id: "40405978"
+    category-id: "DIC_kwDOKgZPFM4CaIva"
     mapping: "pathname"
     reactions-enabled: true
     input-position: "bottom"
