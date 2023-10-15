@@ -2,13 +2,52 @@ project:
   type: website
 
 website:
-  title: "class-2023"
+  title: "இலண்டன் திருக்குறள் பள்ளி"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      background: primary
+      search: true
+      left:
+        - text: "Home"
+          file: index.qmd
+        - sidebar:batch1
+        - sidebar:batch2
+        - sidebar:batch3
 
+  sidebar:
+  - id: batch1
+    title: "Batch 1"
+    style: "docked"
+    background: light
+    collapse-level: 2
+    contents:
+      - batch1.qmd
+  
+  - id: batch2
+    title: "Batch 2"
+    style: "docked"
+    background: light
+    collapse-level: 2
+    contents:
+      - batch2.qmd
+
+  - id: batch3
+    title: "Batch 3"
+    style: "docked"
+    background: light
+    collapse-level: 2
+    contents:
+      - batch3.qmd
+comments:
+  giscus:
+    repo: "thelondonschoolofthirukkural/thelondonschoolofthirukkural.github.io"
+    repo-id: "705056532"
+    category: "Resources"
+    category-id: "40405978"
+    mapping: "pathname"
+    reactions-enabled: true
+    input-position: "bottom"
+    theme: "dark"
+    loading: "lazy"
 format:
   html:
     theme: cosmo
