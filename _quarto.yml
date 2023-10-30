@@ -21,6 +21,7 @@ website:
     collapse-level: 2
     contents:
       - batch1.qmd
+      - homework-batch1.qmd
   
   - id: batch2
     title: "Batch 2"

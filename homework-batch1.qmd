@@ -1,0 +1,76 @@
+---
+title: "Homework for Batch 1"
+format: html
+---
+
+## Class1
+
+### Assignment 1:  
+
+**Write the below words along with their meaning**
+
+- குணம்  
+- குற்றம்  
+- தீ புண்  
+- நா வடு  
+- முகம்  
+- அகம்  
+- நட்பு  
+- நாகாக்க  
+- சோகாக்க  
+
+## Class2
+
+### நாகாக்க  
+:::: {.columns}
+::: {.r-fit-text}
+- யாகவராயினும் **நாகாக்க** காவாக்கால்  
+சோகப்பர் சொல்லிழுக்குப் பட்டு. 127  
+:::
+::: {.column width="60%"}
+
+### Assignment 2:  
+
+- Talk to your parents about why the words are arranged in this order using the arrows in the graph.
+```{mermaid}
+flowchart TD
+A127("யாகாவாராயினும்") -->B127("நாகாக்க")
+A127 -->C127("காவாக்கால்")
+C127("காவாக்கால்") -->F127
+D127("சொல்") -->E127("இழுக்குப்பட்டுச்")
+E127("இழுக்குப்பட்டுச்") -->F127("சோகாப்பர்")
+```
+:::
+
+::: {.column width="40%"}
+
+### Assignment 3:  
+
+- Have a conversation about the words in this picture.
+
+![](/images/notes-batch1-class2.jpg)
+:::
+::: {.r-fit-text}
+### Assignment 4:  
+
+Write down the words in these 'kurals' with their meanings.
+
+- **குணம்**நாடிக் **குற்ற**மு**ம்** நாடி அவற்றுள்  
+மிகைநாடி **மிக்க** கொளல். 504  
+- **தீ**யினாற் சுட்ட **புண்** உள்ளாறும் ஆறாதே  
+**நா**வினாற் சுட்ட **வடு**. 128  
+- **முக**நக நட்பது நட்பன்று நெஞ்சத்து  
+**அக**நக நட்பது **நட்பு**. 786  
+- யாகவராயினும் **நாகாக்க** காவாக்கால்  
+சோகப்பர் சொல்லிழுக்குப் பட்டு. 127  
+
+:::
+::::
+
+## Class3
+
+## Class4
+
+## Class5
+
+## Class6
