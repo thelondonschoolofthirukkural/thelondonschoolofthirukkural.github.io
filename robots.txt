@@ -1,1 +1,1 @@
-Sitemap: https://thelondonschoolofthirukkural.github.io/sitemap.xml
+Sitemap: git@github.com-workkural:thelondonschoolofthirukkural/thelondonschoolofthirukkural.github.io.git/sitemap.xml
