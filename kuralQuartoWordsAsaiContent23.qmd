@@ -1,5 +1,5 @@
 ---
-title: "Thirukkural Word Formation"
+title: "Kural 23"
 format: revealjs
 ---
 

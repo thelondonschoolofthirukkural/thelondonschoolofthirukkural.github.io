@@ -1,0 +1,217 @@
+---
+title: "Thirukkural Words - Adverb"
+format:
+  revealjs:
+    theme: simple
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    smaller: true
+---
+
+# Thirukkural Words - Adverb
+
+## Introduction
+
+This lesson focuses on selected words from the Thirukkural, exploring their usage and cultural context.
+
+::: {.notes}
+Explain the importance of these words in understanding Thirukkural and Tamil literature.
+Highlight that each usage example is followed by its Kural number for reference.
+:::
+
+
+## Word Study: ஈண்டு (Eendu)
+
+- **Meaning:** Here
+- **Part of Speech:** Adverb
+- **Difficulty:** Medium
+- **Kural Number:** 23
+
+### Usage Examples:
+
+- வானோர்க்கும் ஈண்டுச் சிறப்போடு பூசனை செல்லாது (Kural 18)
+- ஈண்டு அறம் பூண்டார் பெருமை (Kural 23)
+- புத்தேள் உலகத்தும் ஈண்டும் (Kural 213)
+- செய்தவம் ஈண்டு முயலப்படும் (Kural 265)
+- துறந்த பின் ஈண்டு, இயற்பால பல (Kural 342)
+
+### Exercises:
+
+1. Fill in the blank: வானோர்க்கும் ______ச் சிறப்போடு பூசனை செல்லாது
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: முந்தி (Mundhi)
+
+- **Meaning:** In front
+- **Part of Speech:** Adverb
+- **Difficulty:** Medium
+- **Kural Number:** 67
+
+### Usage Examples:
+
+- அவையத்து முந்தி இருப்பச் செயல் (Kural 67)
+
+### Exercises:
+
+1. Fill in the blank: அவையத்து ______ இருப்பச் செயல்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: இன்றி (Indri)
+
+- **Meaning:** Without
+- **Part of Speech:** Adverb
+- **Difficulty:** Medium
+- **Kural Number:** 112
+
+### Usage Examples:
+
+- சிதைவு இன்றி எச்சத்திற்கு ஏமாப்பு உடைத்து (Kural 112)
+- உடுப்பதும் உண்பதும் இன்றிக் கெடும் (Kural 166)
+- நடுவு இன்றி நன்பொருள் வெஃகின் (Kural 171)
+- அரங்கு இன்றி வட்டு ஆடியற்று (Kural 401)
+- குளவளாக் கோடு இன்றி நீர் நிறைந்தற்று (Kural 523)
+
+### Exercises:
+
+1. Fill in the blank: சிதைவு ______ எச்சத்திற்கு ஏமாப்பு உடைத்து
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: என (Ena)
+
+- **Meaning:** That
+- **Part of Speech:** Adverb
+- **Difficulty:** Easy
+- **Kural Number:** 145
+
+### Usage Examples:
+
+- கற்றதனால் ஆய பயன் என் (Kural 2)
+- தான் அமிழ்தம் என்று உணரற்பாற்று (Kural 11)
+- புயல் என்னும் வாரி வளம் குன்றிக்கால் (Kural 14)
+- வானம் வழங்காது எனின் (Kural 19)
+- யார் யார்க்கும் நீர் இன்று உலகு அமையாது எனின் (Kural 20)
+
+### Exercises:
+
+1. Fill in the blank: கற்றதனால் ஆய பயன் ______்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: எஞ்ஞான்றும் (Engnjaandrum)
+
+- **Meaning:** Always
+- **Part of Speech:** Adverb
+- **Difficulty:** Hard
+- **Kural Number:** 145
+
+### Usage Examples:
+
+- வழி எஞ்ஞான்றும் எஞ்சல் இல் (Kural 44)
+- விளியாது எஞ்ஞான்றும் நிற்கும் பழி எய்தும் (Kural 145)
+- எஞ்ஞான்றும் யார்க்கும் எனைத்தானும் செய்யாமை தலை (Kural 317)
+- எல்லா உயிர்க்கும் எஞ்ஞான்றும் தவாஅப் பிறப்பு ஈனும்வித்து (Kural 361)
+- எஞ்ஞான்றும் தன்னை வியவற்க (Kural 439)
+
+### Exercises:
+
+1. Fill in the blank: வழி ______ எஞ்சல் இல்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அவ்வித்துத் (Avviththuth)
+
+- **Meaning:** In that way
+- **Part of Speech:** Adverb
+- **Difficulty:** Hard
+- **Kural Number:** 167
+
+### Usage Examples:
+
+- செய்யவள் அவ்வித்துத் தவ்வையைக் காட்டிவிடும் (Kural 167)
+
+### Exercises:
+
+1. Fill in the blank: செய்யவள் ______ தவ்வையைக் காட்டிவிடும்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அல்லால் (Allaal)
+
+- **Meaning:** Except
+- **Part of Speech:** Adverb
+- **Difficulty:** Medium
+- **Kural Number:** 234
+
+### Usage Examples:
+
+- தனக்கு உவமை இல்லாதான் தாள்சேர்ந்தார்க்கு அல்லால் (Kural 7)
+- அற ஆழி அந்தணன் தாள் சேர்ந்தார்க்கு அல்லால் (Kural 8)
+- விசும்பின் துளி வீழின் அல்லால் (Kural 16)
+- ஒன்றா உயர்ந்த புகழ் அல்லால் (Kural 233)
+- வித்தகர்க்கு அல்லால் அரிது (Kural 235)
+
+### Exercises:
+
+1. Fill in the blank: தனக்கு உவமை இல்லாதான் தாள்சேர்ந்தார்க்கு ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Conclusion
+
+- Review the words we've learned in this session.
+- Discuss how these words contribute to the themes and messages in Thirukkural.
+- Encourage students to use these words in their own sentences and writings.
+
+## Further Study
+
+1. Create a personal dictionary with these words and their contexts.
+2. Analyze how these words are used in other Tamil literary works.
+3. Reflect on how understanding these words deepens your appreciation of Tamil literature and culture.
+4. Look up the full kurals referenced in the usage examples for broader context.
+    

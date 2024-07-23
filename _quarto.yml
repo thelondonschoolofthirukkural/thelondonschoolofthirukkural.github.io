@@ -12,6 +12,7 @@ website:
         - sidebar:batch1
         - sidebar:batch2
         - sidebar:batch3
+        - sidebar:summer
 
   sidebar:
   - id: batch1
@@ -38,6 +39,15 @@ website:
     collapse-level: 2
     contents:
       - batch3.qmd
+
+  - id: summer
+    title: "Summer 2024"
+    style: "docked"
+    background: light
+    collapse-level: 2
+    contents:
+      - Summer.qmd
+
 comments:
   giscus:
     repo: "thelondonschoolofthirukkural/thelondonschoolofthirukkural.github.io"

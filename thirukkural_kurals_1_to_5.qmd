@@ -1,0 +1,1076 @@
+---
+title: "Thirukkural Words - Kurals 1-5"
+format:
+  revealjs:
+    theme: simple
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    smaller: true
+---
+
+# Thirukkural Words - Kurals 1-5
+
+## Introduction
+
+This lesson focuses on selected words from the Thirukkural, exploring their usage and cultural context.
+
+::: {.notes}
+Explain the importance of these words in understanding Thirukkural and Tamil literature.
+Highlight that each usage example is followed by its Kural number for reference.
+:::
+
+
+## Word Study: அகரம் (Akaram)
+
+- **Meaning:** The letter A
+- **Part of Speech:** Noun
+- **Difficulty:** Easy
+- **Kural Number:** 1
+
+### Usage Examples:
+
+- எழுத்து எல்லாம் அகரம் முதல (Kural 1)
+
+### Exercises:
+
+1. Fill in the blank: எழுத்து எல்லாம் ______ முதல
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: முதல (Mudhala)
+
+- **Meaning:** First
+- **Part of Speech:** Adjective
+- **Difficulty:** Easy
+- **Kural Number:** 1
+
+### Usage Examples:
+
+- எழுத்து எல்லாம் அகரம் முதல (Kural 1)
+- முதல் இலார்க்கு ஊதியம் இல்லை (Kural 449)
+- ஆக்கம் கருதி முதல் இழக்கும் செய்வினை (Kural 463)
+- முதலை நெடும்புனலுள் (பிற) வெல்லும் (Kural 495)
+- நூலோர் வளிமுதலா எண்ணிய மூன்று நோய் செய்யும் (Kural 941)
+
+### Exercises:
+
+1. Fill in the blank: எழுத்து எல்லாம் அகரம் ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: எழுத்து (Ezhuttu)
+
+- **Meaning:** Letter
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 1
+
+### Usage Examples:
+
+- எழுத்து எல்லாம் அகரம் முதல (Kural 1)
+- எண் என்ப ஏனை எழுத்து என்ப இவ்விரண்டும் (Kural 392)
+
+### Exercises:
+
+1. Fill in the blank: ______ எல்லாம் அகரம் முதல
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: எல்லாம் (Ellaam)
+
+- **Meaning:** All
+- **Part of Speech:** Pronoun
+- **Difficulty:** Easy
+- **Kural Number:** 1
+
+### Usage Examples:
+
+- எழுத்து எல்லாம் அகரம் முதல (Kural 1)
+- எல்லாம் மழை (Kural 15)
+- அறவினை ஓவாதே செல்லும்வாய் எல்லாம் செயல் (Kural 33)
+- மற்று எல்லாம் புறத்த (Kural 39)
+- முயல்வாருள் எல்லாம் தலை (Kural 47)
+
+### Exercises:
+
+1. Fill in the blank: எழுத்து ______ அகரம் முதல
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: ஆதி (Aadhi)
+
+- **Meaning:** Beginning
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 1
+
+### Usage Examples:
+
+- உலகு ஆதிபகவன் முதற்று (Kural 1)
+- அந்தணர் நூற்கும் அறத்திற்கும் ஆதியாய் நின்றது (Kural 543)
+
+### Exercises:
+
+1. Fill in the blank: உலகு ______பகவன் முதற்று
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: உலகு (Ulaku)
+
+- **Meaning:** World
+- **Part of Speech:** Noun
+- **Difficulty:** Easy
+- **Kural Number:** 1
+
+### Usage Examples:
+
+- உலகு ஆதிபகவன் முதற்று (Kural 1)
+- யார் யார்க்கும் நீர் இன்று உலகு அமையாது எனின் (Kural 20)
+- உலகு பிறங்கிற்று (Kural 23)
+- தெரிவான்கட்டே உலகு (Kural 27)
+- புத்தேளிர் வாழும் உலகு பெருஞ்சிறப்புப் பெறுவர் (Kural 58)
+
+### Exercises:
+
+1. Fill in the blank: ______ ஆதிபகவன் முதற்று
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: பகவன் (Bhagavan)
+
+- **Meaning:** Who transcends speech and mind
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 1
+
+### Usage Examples:
+
+- உலகு ஆதிபகவன் முதற்று (Kural 1)
+
+### Exercises:
+
+1. Fill in the blank: உலகு ஆதி______ முதற்று
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: முதற்று (Muthatru)
+
+- **Meaning:** Primary source
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 1
+
+### Usage Examples:
+
+- உலகு ஆதிபகவன் முதற்று (Kural 1)
+
+### Exercises:
+
+1. Fill in the blank: உலகு ஆதிபகவன் ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: துப்பார்க்குத் (Thuppaarkkuth)
+
+- **Meaning:** For those who eat
+- **Part of Speech:** Noun
+- **Difficulty:** Hard
+- **Kural Number:** 12
+
+### Usage Examples:
+
+- துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)
+- துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)
+
+### Exercises:
+
+1. Fill in the blank: ______ துப்பு ஆய துப்பு ஆக்கி
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: துப்பு (Thuppu)
+
+- **Meaning:** Food
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 12
+
+### Usage Examples:
+
+- துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)
+- துன்பத்தின் துப்பு ஆயார் நட்புத் துறவற்க (Kural 106)
+- துறந்தார்க்குத் துப்புரவு வேண்டித் தவம் மறந்தார்கொல் (Kural 263)
+- துப்புரவு இல்லார் துறப்பார் (Kural 378)
+- ஏதிலான் துப்பு என்பரியும் (Kural 862)
+
+### Exercises:
+
+1. Fill in the blank: துப்பார்க்குத் ______ ஆய ______ ஆக்கி
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: ஆய (Aaya)
+
+- **Meaning:** To become
+- **Part of Speech:** Verb
+- **Difficulty:** Medium
+- **Kural Number:** 12
+
+### Usage Examples:
+
+- கற்றதனால் ஆய பயன் என் (Kural 2)
+- துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)
+- வாழ்க்கை எனைமாட்சித்து ஆயினும் இல் (Kural 52)
+- துன்பத்தின் துப்பு ஆயார் நட்புத் துறவற்க (Kural 106)
+- எனைத்துணையர் ஆயினும் என்னாம் (Kural 144)
+
+### Exercises:
+
+1. Fill in the blank: கற்றதனால் ______ பயன் என்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: துப்பு (Thuppu)
+
+- **Meaning:** Food
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 12
+
+### Usage Examples:
+
+- துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)
+- துன்பத்தின் துப்பு ஆயார் நட்புத் துறவற்க (Kural 106)
+- துறந்தார்க்குத் துப்புரவு வேண்டித் தவம் மறந்தார்கொல் (Kural 263)
+- துப்புரவு இல்லார் துறப்பார் (Kural 378)
+- ஏதிலான் துப்பு என்பரியும் (Kural 862)
+
+### Exercises:
+
+1. Fill in the blank: துப்பார்க்குத் ______ ஆய ______ ஆக்கி
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: ஆக்கி (Aakki)
+
+- **Meaning:** Making
+- **Part of Speech:** Verb
+- **Difficulty:** Medium
+- **Kural Number:** 12
+
+### Usage Examples:
+
+- துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)
+- வினையான் வினை ஆக்கிக்கோடல் (Kural 678)
+- தான் பிறந்த இல்லாண்மை ஆக்கிக் கொளல் (Kural 1026)
+
+### Exercises:
+
+1. Fill in the blank: துப்பார்க்குத் துப்பு ஆய துப்பு ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: துப்பார்க்குத் (Thuppaarkkuth)
+
+- **Meaning:** For those who eat
+- **Part of Speech:** Noun
+- **Difficulty:** Hard
+- **Kural Number:** 12
+
+### Usage Examples:
+
+- துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)
+- துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)
+
+### Exercises:
+
+1. Fill in the blank: ______ துப்பு ஆய துப்பு ஆக்கி
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: துப்பு (Thuppu)
+
+- **Meaning:** Food
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 12
+
+### Usage Examples:
+
+- துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)
+- துன்பத்தின் துப்பு ஆயார் நட்புத் துறவற்க (Kural 106)
+- துறந்தார்க்குத் துப்புரவு வேண்டித் தவம் மறந்தார்கொல் (Kural 263)
+- துப்புரவு இல்லார் துறப்பார் (Kural 378)
+- ஏதிலான் துப்பு என்பரியும் (Kural 862)
+
+### Exercises:
+
+1. Fill in the blank: துப்பார்க்குத் ______ ஆய ______ ஆக்கி
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: ஆயதூஉம் (Aayadhooum)
+
+- **Meaning:** That which is
+- **Part of Speech:** Adjective
+- **Difficulty:** Hard
+- **Kural Number:** 12
+
+### Usage Examples:
+
+- துப்பார்க்குத் துப்பு ஆயதூஉம் மழை (Kural 12)
+
+### Exercises:
+
+1. Fill in the blank: துப்பார்க்குத் துப்பு ______ மழை
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: மழை (Mazhai)
+
+- **Meaning:** Rain
+- **Part of Speech:** Noun
+- **Difficulty:** Easy
+- **Kural Number:** 12
+
+### Usage Examples:
+
+- துப்பார்க்குத் துப்பு ஆயதூஉம் மழை (Kural 12)
+- எல்லாம் மழை (Kural 15)
+- பெய் எனப் பெய்யும் மழை (Kural 55)
+- பேதை பெருமழைக்கண் பசப்புற்ற (Kural 1239)
+
+### Exercises:
+
+1. Fill in the blank: துப்பார்க்குத் துப்பு ஆயதூஉம் ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: இருமை (Irumai)
+
+- **Meaning:** Duality
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 23
+
+### Usage Examples:
+
+- இருமை வகை தெரிந்து (Kural 23)
+
+### Exercises:
+
+1. Fill in the blank: ______ வகை தெரிந்து
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: வகை (Vagai)
+
+- **Meaning:** Type
+- **Part of Speech:** Noun
+- **Difficulty:** Easy
+- **Kural Number:** 23
+
+### Usage Examples:
+
+- இருமை வகை தெரிந்து (Kural 23)
+- சுவை ஒளி ஊறு ஓசை நாற்றம் என்ற ஐந்தின் வகை (Kural 27)
+- ஒல்லும் வகையான் (Kural 33)
+- நகையும் உவகையம் கொல்லும் சினத்தின (Kural 304)
+- வகுத்தான் வகுத்த வகையல்லா துய்த்தல் அரிது (Kural 377)
+
+### Exercises:
+
+1. Fill in the blank: இருமை ______ தெரிந்து
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: தெரிந்து (Therindhu)
+
+- **Meaning:** Knowing
+- **Part of Speech:** Verb
+- **Difficulty:** Medium
+- **Kural Number:** 23
+
+### Usage Examples:
+
+- இருமை வகை தெரிந்து (Kural 23)
+- தன் பழியுள்ளும் திறன் தெரிந்து கூறப்படும் (Kural 186)
+- நான்கின் திறம் தெரிந்து தேறப்படும் (Kural 501)
+- இடைதெரிந்து நன்கு உணர்ந்து சொல்லுக (Kural 712)
+- தெரிந்து உணரா நோக்கிய உண்கண் (Kural 1172)
+
+### Exercises:
+
+1. Fill in the blank: இருமை வகை ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: ஈண்டு (Eendu)
+
+- **Meaning:** Here
+- **Part of Speech:** Adverb
+- **Difficulty:** Medium
+- **Kural Number:** 23
+
+### Usage Examples:
+
+- வானோர்க்கும் ஈண்டுச் சிறப்போடு பூசனை செல்லாது (Kural 18)
+- ஈண்டு அறம் பூண்டார் பெருமை (Kural 23)
+- புத்தேள் உலகத்தும் ஈண்டும் (Kural 213)
+- செய்தவம் ஈண்டு முயலப்படும் (Kural 265)
+- துறந்த பின் ஈண்டு, இயற்பால பல (Kural 342)
+
+### Exercises:
+
+1. Fill in the blank: வானோர்க்கும் ______ச் சிறப்போடு பூசனை செல்லாது
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அறம் (Aram)
+
+- **Meaning:** Virtue
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 23
+
+### Usage Examples:
+
+- ஈண்டு அறம் பூண்டார் பெருமை (Kural 23)
+- நான்கும் இழுக்கா இயன்றது அறம் (Kural 35)
+- அன்று அறிவாம் என்னாது அறம் செய்க (Kural 36)
+- அன்பு இலதனை அறம் (Kural 77)
+- அகத்தான் ஆம் இன்சொலினதே அறம் (Kural 93)
+
+### Exercises:
+
+1. Fill in the blank: ஈண்டு ______ பூண்டார் பெருமை
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: பூண்டார் (Poondaar)
+
+- **Meaning:** Those who have undertaken
+- **Part of Speech:** Verb
+- **Difficulty:** Hard
+- **Kural Number:** 23
+
+### Usage Examples:
+
+- ஈண்டு அறம் பூண்டார் பெருமை (Kural 23)
+
+### Exercises:
+
+1. Fill in the blank: ஈண்டு அறம் ______ பெருமை
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: பெருமை (Perumai)
+
+- **Meaning:** Greatness
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 23
+
+### Usage Examples:
+
+- ஒழுக்கத்து நீத்தார் பெருமை (Kural 21)
+- துறந்தார் பெருமை துணைக் கூறின் (Kural 22)
+- ஈண்டு அறம் பூண்டார் பெருமை (Kural 23)
+- நிறைமொழி மாந்தர் பெருமை (Kural 28)
+- ஒருவன் நெருநல் உளன் இன்று இல்லை என்னும் பெருமை உடைத்து (Kural 336)
+
+### Exercises:
+
+1. Fill in the blank: ஒழுக்கத்து நீத்தார் ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: உலகு (Ulaku)
+
+- **Meaning:** World
+- **Part of Speech:** Noun
+- **Difficulty:** Easy
+- **Kural Number:** 1
+
+### Usage Examples:
+
+- உலகு ஆதிபகவன் முதற்று (Kural 1)
+- யார் யார்க்கும் நீர் இன்று உலகு அமையாது எனின் (Kural 20)
+- உலகு பிறங்கிற்று (Kural 23)
+- தெரிவான்கட்டே உலகு (Kural 27)
+- புத்தேளிர் வாழும் உலகு பெருஞ்சிறப்புப் பெறுவர் (Kural 58)
+
+### Exercises:
+
+1. Fill in the blank: ______ ஆதிபகவன் முதற்று
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: பிறங்கிற்று (Pirangittru)
+
+- **Meaning:** Shines
+- **Part of Speech:** Verb
+- **Difficulty:** Hard
+- **Kural Number:** 23
+
+### Usage Examples:
+
+- உலகு பிறங்கிற்று (Kural 23)
+
+### Exercises:
+
+1. Fill in the blank: உலகு ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: மனத்துக்கண் (Manathukkan)
+
+- **Meaning:** In the mind
+- **Part of Speech:** Noun
+- **Difficulty:** Hard
+- **Kural Number:** 34
+
+### Usage Examples:
+
+- மனத்துக்கண் மாசு இலன் ஆதல் (Kural 34)
+
+### Exercises:
+
+1. Fill in the blank: ______ மாசு இலன் ஆதல்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: மாசு (Maasu)
+
+- **Meaning:** Impurity
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 34
+
+### Usage Examples:
+
+- மனத்துக்கண் மாசு இலன் ஆதல் (Kural 34)
+- மாசு அற்றார் கேண்மை மறவற்க (Kural 106)
+- மருள் தீர்ந்த மாசுஅறு காட்சியவர் (Kural 199)
+- மாசு மனத்தது ஆக (Kural 278)
+- பிறர்க்கு இன்னா செய்யாமை மாசு அற்றார் கோள் (Kural 311)
+
+### Exercises:
+
+1. Fill in the blank: மனத்துக்கண் ______ இலன் ஆதல்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: இலன் (Ilan)
+
+- **Meaning:** Without
+- **Part of Speech:** Adjective
+- **Difficulty:** Medium
+- **Kural Number:** 34
+
+### Usage Examples:
+
+- மனத்துக்கண் மாசு இலன் ஆதல் (Kural 34)
+- நயன் இலன் என்பது சொல்லும் (Kural 193)
+- இலன் என்று தீயவை செய்யற்க (Kural 205)
+- இலன் என்னும் எவ்வம் உரையாமை (Kural 223)
+- அதனின் அதனின் நோதல் இலன் (Kural 341)
+
+### Exercises:
+
+1. Fill in the blank: மனத்துக்கண் மாசு ______ ஆதல்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: ஆதல் (Aadhal)
+
+- **Meaning:** Becoming
+- **Part of Speech:** Verb
+- **Difficulty:** Medium
+- **Kural Number:** 34
+
+### Usage Examples:
+
+- மனத்துக்கண் மாசு இலன் ஆதல் (Kural 34)
+- ஒருவர்க்கு அணி பணிவு உடையன் இன்சொலன் ஆதல் (Kural 95)
+- நயன் உடையான் நல்கூர்ந்தான்ஆதல் (Kural 219)
+- அருள் அற்றார் அற்றார் மற்று ஆதல் அரிது (Kural 248)
+- அருள் கருதி அன்பு உடையர் ஆதல் (Kural 285)
+
+### Exercises:
+
+1. Fill in the blank: மனத்துக்கண் மாசு இலன் ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அனைத்து (Anaithu)
+
+- **Meaning:** All
+- **Part of Speech:** Pronoun
+- **Difficulty:** Easy
+- **Kural Number:** 34
+
+### Usage Examples:
+
+- அனைத்து அறன் (Kural 34)
+- மணற்கேணி தொட்ட அனைத்து ஊறும் (Kural 396)
+- கீழ்ப்பிறந்தும் கற்றார் அனைத்துப் பாடு இலர் (Kural 409)
+- அழுத கண்ணீரும் அனைத்து (Kural 828)
+- காதலர் செய்யும் சிறப்பு அனைத்து அன்றோ (Kural 1208)
+
+### Exercises:
+
+1. Fill in the blank: ______ அறன்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அறன் (Aran)
+
+- **Meaning:** Virtue
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 34
+
+### Usage Examples:
+
+- அனைத்து அறன் (Kural 34)
+- ஆற்றின் ஒழுக்கி அறன் இழுக்கா இல்வாழ்க்கை (Kural 48)
+- அறன் எனப்பட்டது இல்வாழ்க்கை (Kural 49)
+- அறன்கடை நின்றாருள் எல்லாம் (Kural 142)
+- அறன் இயலான் இல்வாழ்வான் என்பான் (Kural 147)
+
+### Exercises:
+
+1. Fill in the blank: அனைத்து ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: பிற (Pira)
+
+- **Meaning:** Other
+- **Part of Speech:** Adjective
+- **Difficulty:** Easy
+- **Kural Number:** 34
+
+### Usage Examples:
+
+- பிற ஆழி நீந்தல் அரிது (Kural 8)
+- உலகு பிறங்கிற்று (Kural 23)
+- வரன் என்னும் வைப்பிற்கு ஓர் வித்து (Kural 24)
+- பிற ஆகுலநீர (Kural 34)
+- அஃதும் பிறன் பழிப்பது இல்லாயின் நன்று (Kural 49)
+
+### Exercises:
+
+1. Fill in the blank: ______ ஆழி நீந்தல் அரிது
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: ஆகுலநீர (Aagulaneer)
+
+- **Meaning:** Turbid water
+- **Part of Speech:** Adjective
+- **Difficulty:** Hard
+- **Kural Number:** 34
+
+### Usage Examples:
+
+- பிற ஆகுலநீர (Kural 34)
+
+### Exercises:
+
+1. Fill in the blank: பிற ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: இல்வாழ்க்கை (Ilvaazhkkai)
+
+- **Meaning:** Domestic life
+- **Part of Speech:** Noun
+- **Difficulty:** Hard
+- **Kural Number:** 45
+
+### Usage Examples:
+
+- இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் (Kural 45)
+- இல்வாழ்க்கை அறத்தாற்றின் ஆற்றின் (Kural 46)
+- ஆற்றின் ஒழுக்கி அறன் இழுக்கா இல்வாழ்க்கை (Kural 48)
+- அறன் எனப்பட்டது இல்வாழ்க்கை (Kural 49)
+
+### Exercises:
+
+1. Fill in the blank: ______ அன்பும் அறனும் உடைத்தாயின்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அன்பும் (Anbum)
+
+- **Meaning:** Love (and)
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 45
+
+### Usage Examples:
+
+- இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் (Kural 45)
+
+### Exercises:
+
+1. Fill in the blank: இல்வாழ்க்கை ______ அறனும் உடைத்தாயின்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அறனும் (Aranum)
+
+- **Meaning:** Virtue (and)
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 45
+
+### Usage Examples:
+
+- இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் (Kural 45)
+- அதனின் ஊங்கு அறனும் பொருளும் இல் (Kural 644)
+
+### Exercises:
+
+1. Fill in the blank: இல்வாழ்க்கை அன்பும் ______ உடைத்தாயின்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: உடைத்தாயின் (Udaitthayin)
+
+- **Meaning:** If it has
+- **Part of Speech:** Verb
+- **Difficulty:** Hard
+- **Kural Number:** 45
+
+### Usage Examples:
+
+- பழி அஞ்சிப் பாத்து ஊண் வாழ்க்கை உடைத்தாயின் (Kural 44)
+- இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் (Kural 45)
+
+### Exercises:
+
+1. Fill in the blank: பழி அஞ்சிப் பாத்து ஊண் வாழ்க்கை ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அது (Athu)
+
+- **Meaning:** That
+- **Part of Speech:** Pronoun
+- **Difficulty:** Easy
+- **Kural Number:** 45
+
+### Usage Examples:
+
+- அது பொன்றுங்கால் பொன்றாத் துணை (Kural 36)
+- அது பண்பும் பயனும் (Kural 45)
+- அது நண்பு என்னும் நாடாச் சிறப்பு ஈனும் (Kural 74)
+- அழுக்காறு உடையார்க்கு அது சாலும் (Kural 165)
+- அது அல்லது உயிர்க்கு ஊதியம் இல்லை (Kural 231)
+
+### Exercises:
+
+1. Fill in the blank: ______ பொன்றுங்கால் பொன்றாத் துணை
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: பண்பும் (Panbum)
+
+- **Meaning:** Quality (and)
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 45
+
+### Usage Examples:
+
+- அது பண்பும் பயனும் (Kural 45)
+- பழகிய செல்வமும் பண்பும் கெடுக்கும் (Kural 937)
+
+### Exercises:
+
+1. Fill in the blank: அது ______ பயனும்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: பயனும் (Payanum)
+
+- **Meaning:** Benefit (and)
+- **Part of Speech:** Noun
+- **Difficulty:** Medium
+- **Kural Number:** 45
+
+### Usage Examples:
+
+- அது பண்பும் பயனும் (Kural 45)
+- முற்றியாங்கு எய்தும் படுபயனும் (Kural 676)
+- வாய்ச் சொற்கள் என்ன பயனும் இல (Kural 1100)
+
+### Exercises:
+
+1. Fill in the blank: அது பண்பும் ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Conclusion
+
+- Review the words we've learned in this session.
+- Discuss how these words contribute to the themes and messages in Thirukkural.
+- Encourage students to use these words in their own sentences and writings.
+
+## Further Study
+
+1. Create a personal dictionary with these words and their contexts.
+2. Analyze how these words are used in other Tamil literary works.
+3. Reflect on how understanding these words deepens your appreciation of Tamil literature and culture.
+4. Look up the full kurals referenced in the usage examples for broader context.
+    

@@ -1,0 +1,63 @@
+---
+title: "Thirukkural Words - Postposition"
+format:
+  revealjs:
+    theme: simple
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    smaller: true
+---
+
+# Thirukkural Words - Postposition
+
+## Introduction
+
+This lesson focuses on selected words from the Thirukkural, exploring their usage and cultural context.
+
+::: {.notes}
+Explain the importance of these words in understanding Thirukkural and Tamil literature.
+Highlight that each usage example is followed by its Kural number for reference.
+:::
+
+
+## Word Study: பொருட்டு (Poruttu)
+
+- **Meaning:** For the sake of
+- **Part of Speech:** Postposition
+- **Difficulty:** Medium
+- **Kural Number:** 212
+
+### Usage Examples:
+
+- விருந்து ஓம்பி வேளாண்மை செய்தற் பொருட்டு (Kural 81)
+- வேளாண்மை செய்தற் பொருட்டு (Kural 212)
+- தினற் பொருட்டு உலகு கொல்லாது எனின் (Kural 256)
+- அவை அஞ்சா மாற்றம் கொடுத்தற்பொருட்டு (Kural 725)
+- மிகுதிக்கண் மேற்சென்று இடித்தல் பொருட்டு (Kural 784)
+
+### Exercises:
+
+1. Fill in the blank: விருந்து ஓம்பி வேளாண்மை செய்தற் ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Conclusion
+
+- Review the words we've learned in this session.
+- Discuss how these words contribute to the themes and messages in Thirukkural.
+- Encourage students to use these words in their own sentences and writings.
+
+## Further Study
+
+1. Create a personal dictionary with these words and their contexts.
+2. Analyze how these words are used in other Tamil literary works.
+3. Reflect on how understanding these words deepens your appreciation of Tamil literature and culture.
+4. Look up the full kurals referenced in the usage examples for broader context.
+    

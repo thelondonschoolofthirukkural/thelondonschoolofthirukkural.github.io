@@ -1,0 +1,28 @@
+---
+title: "Summer"
+format: html
+---
+
+# Summer Class
+
+[Class 1 - Kurals 1, 12, 23, 34, 45](thirukkural_kurals_1_to_5.qmd)  
+[Class 2 - Kurals 56, 67, 78, 89, 100](thirukkural_kurals_6_to_10.qmd)  
+[Class 3 - Kurals 101, 112, 123, 134, 145](thirukkural_kurals_11_to_15.qmd)  
+[Class 4 - Kurals 156, 167, 178, 189, 200](thirukkural_kurals_16_to_20.qmd)  
+[Class 5 - Kurals 201, 212, 223, 234, 245](thirukkural_kurals_21_to_25.qmd)  
+
+# Words Reading with Asai
+
+In Class 1, we will learn the syllables in all words in [Kural 1](kuralQuartoWordsAsaiContent1.qmd), [Kural 12](kuralQuartoWordsAsaiContent12.qmd), [Kural 23](kuralQuartoWordsAsaiContent23.qmd), [Kural 34](kuralQuartoWordsAsaiContent34.qmd), [Kural 45](kuralQuartoWordsAsaiContent45.qmd)  
+
+In Class 2, we will learn the syllables in all words in [Kural 56](kuralQuartoWordsAsaiContent56.qmd), 
+[Kural 67](kuralQuartoWordsAsaiContent67.qmd), [Kural 78](kuralQuartoWordsAsaiContent78.qmd), [Kural 89](kuralQuartoWordsAsaiContent89.qmd), [Kural 100](kuralQuartoWordsAsaiContent100.qmd)  
+
+# Learning words based on POS
+
+[Nouns](thirukkural_noun_words.qmd)  
+[Verbs](thirukkural_verb_words.qmd)  
+[Adjectives](thirukkural_adjective_words.qmd)  
+[Adverbs](thirukkural_adverb_words.qmd)  
+[Postposition](thirukkural_postposition_words.qmd)  
+[Pronoun](thirukkural_pronoun_words.qmd)  
