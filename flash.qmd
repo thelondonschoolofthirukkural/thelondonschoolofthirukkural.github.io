@@ -1,0 +1,149 @@
+---
+title: "Thirukkural Flashcards"
+format: revealjs
+editor: visual
+---
+
+# 14. Kural 421
+
+## Original Kural
+அறிவற்றங் காக்குங் கருவி செறுவார்க்கும்  
+உள்ளழிக்க லாகா அரண்.
+
+## Word Meanings
+- **அறிவற்ற**: Intelligence
+- **அங் காக்கும்**: protects
+- **கருவி**: tool
+- **செறுவார்க்கும்**: against enemies
+- **உள்ளழிக்க**: to destroy
+- **ஆகா**: impossible
+- **அரண்**: fortress
+
+## Explanation
+"Intelligence is a tool that protects one from adversaries and serves as an indestructible fortress."
+
+---
+
+# 15. Kural 422
+
+## Original Kural
+சென்ற இடத்தால் செலவிடா தீதொரீஇ  
+நன்றின்பால் உய்ப்ப தறிவு.
+
+## Word Meanings
+- **சென்ற**: Going
+- **இடத்தால்**: based on the situation
+- **செலவிடா**: not spending
+- **தீது**: bad
+- **ஒரீஇ**: avoiding
+- **நன்றின்**: good
+- **பால்**: side
+- **உய்ப்ப**: cultivate
+- **அறிவு**: intelligence
+
+## Explanation
+"Intelligence is avoiding unnecessary actions in difficult situations and always working towards the good."
+
+---
+
+# 16. Kural 435
+
+## Original Kural
+வருமுன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர்  
+வைத்தூறு போலக் கெடும்.
+
+## Word Meanings
+- **வருமுன்னர்**: before it arrives
+- **காவாதான்**: does not protect
+- **வாழ்க்கை**: life
+- **எரிமுன்னர்**: before the fire
+- **வைத்தூறு**: placed
+- **போல**: like
+- **கெடும்**: perishes
+
+## Explanation
+"A life that does not guard against future dangers will perish like straw before fire."
+
+---
+
+# 17. Kural 647
+
+## Original Kural
+சொலல்வல்லன் சோர்விலன் அஞ்சான் அவனை  
+இகல்வெல்லல் யார்க்கும் அரிது.
+
+## Word Meanings
+- **சொலல்**: speaking
+- **வல்லன்**: skillful
+- **சோர்விலன்**: tireless
+- **அஞ்சான்**: fearless
+- **அவனை**: him
+- **இகல்**: enmity
+- **வெல்லல்**: to defeat
+- **யார்க்கும்**: to anyone
+- **அரிது**: difficult
+
+## Explanation
+"It is difficult for anyone to defeat a person who is skillful in speaking, tireless, and fearless."
+
+---
+
+# 18. Kural 659
+
+## Original Kural
+அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும்  
+பிற்பயக்கும் நற்பா லவை.
+
+## Word Meanings
+- **அழக்கொண்ட**: if destroyed
+- **எல்லாம்**: all
+- **அழப்போம்**: will not perish
+- **இழப்பினும்**: even if lost
+- **பிற்பயக்கும்**: will give benefits later
+- **நற்பா**: good things
+- **லவை**: are
+
+## Explanation
+"Good deeds and virtuous actions will continue to yield benefits even if everything else is destroyed."
+
+---
+
+# 19. Kural 672
+
+## Original Kural
+தூங்குக தூங்கிச் செயற்பால தூங்கற்க  
+தூங்காது செய்யும் வினை.
+
+## Word Meanings
+- **தூங்குக**: sleep
+- **தூங்கி**: after resting
+- **செயற்பால**: in activities
+- **தூங்கற்க**: do not sleep
+- **தூங்காது**: without rest
+- **செய்யும்**: done
+- **வினை**: work
+
+## Explanation
+"Rest well before starting activities; do not work without sufficient rest."
+
+---
+
+# 20. Kural 701
+
+## Original Kural
+கூறாமை நோக்கிக் குறிப்பறிவான் எஞ்ஞான்றும்  
+மாறாநீர் வையக் கணி.
+
+## Word Meanings
+- **கூறாமை**: silence
+- **நோக்கி**: observing
+- **குறிப்பு**: signals
+- **அறிவான்**: understands
+- **எஞ்ஞான்றும்**: always
+- **மாறா**: unchanging
+- **நீர்**: water
+- **வையம்**: world
+- **கணி**: jewel
+
+## Explanation
+"One who understands signals without words is like a jewel in the world, unchanging and pure."
