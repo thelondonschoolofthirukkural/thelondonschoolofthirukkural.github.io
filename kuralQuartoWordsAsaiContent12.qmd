@@ -1,0 +1,210 @@
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 12
+
+# துப்பார்க்குத்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  துப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துப்/&nbsp;பார்க்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துப்/&nbsp;பார்க்/&nbsp;குத்
+
+:::
+
+<br>
+
+::::
+
+# துப்பாய
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  துப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துப்/&nbsp;பா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துப்/&nbsp;பா/&nbsp;ய
+
+:::
+
+<br>
+
+::::
+
+# துப்பாக்கித்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  துப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துப்/&nbsp;பாக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துப்/&nbsp;பாக்/&nbsp;கித்
+
+:::
+
+<br>
+
+::::
+
+# துப்பார்க்குத்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  துப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துப்/&nbsp;பார்க்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துப்/&nbsp;பார்க்/&nbsp;குத்
+
+:::
+
+<br>
+
+::::
+
+# துப்பாய
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  துப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துப்/&nbsp;பா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துப்/&nbsp;பா/&nbsp;ய
+
+:::
+
+<br>
+
+::::
+
+# தூஉம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தூ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தூ/&nbsp;உம்
+
+:::
+
+<br>
+
+::::
+
+# மழை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  மழை
+
+:::
+
+<br>
+
+::::

@@ -1,0 +1,201 @@
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 89
+
+# உடைமையுள்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உடை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உடை/&nbsp;மை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உடை/&nbsp;மை/&nbsp;யுள்
+
+:::
+
+<br>
+
+::::
+
+# இன்மை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  இன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இன்/&nbsp;மை
+
+:::
+
+<br>
+
+::::
+
+# விருந்தோம்பல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  விருந்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  விருந்/&nbsp;தோம்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  விருந்/&nbsp;தோம்/&nbsp;பல்
+
+:::
+
+<br>
+
+::::
+
+# ஓம்பா
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஓம்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஓம்/&nbsp;பா
+
+:::
+
+<br>
+
+::::
+
+# மடமை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  மட
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மட/&nbsp;மை
+
+:::
+
+<br>
+
+::::
+
+# மடவார்கண்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  மட
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மட/&nbsp;வார்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மட/&nbsp;வார்/&nbsp;கண்
+
+:::
+
+<br>
+
+::::
+
+# உண்டு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உண்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உண்/&nbsp;டு
+
+:::
+
+<br>
+
+::::

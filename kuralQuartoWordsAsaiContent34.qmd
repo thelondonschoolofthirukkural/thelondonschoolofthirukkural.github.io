@@ -1,0 +1,174 @@
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 34
+
+# மனத்துக்கண்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  மனத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மனத்/&nbsp;துக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மனத்/&nbsp;துக்/&nbsp;கண்
+
+:::
+
+<br>
+
+::::
+
+# மாசிலன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  மா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மா/&nbsp;சிலன்
+
+:::
+
+<br>
+
+::::
+
+# ஆதல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆ/&nbsp;தல்
+
+:::
+
+<br>
+
+::::
+
+# அனைத்தறன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அனைத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அனைத்/&nbsp;தறன்
+
+:::
+
+<br>
+
+::::
+
+# ஆகுல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆ/&nbsp;குல
+
+:::
+
+<br>
+
+::::
+
+# நீர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  நீ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  நீ/&nbsp;ர
+
+:::
+
+<br>
+
+::::
+
+# பிற
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பிற
+
+:::
+
+<br>
+
+::::

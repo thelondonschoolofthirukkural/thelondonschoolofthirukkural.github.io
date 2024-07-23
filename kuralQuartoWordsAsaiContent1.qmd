@@ -1,0 +1,2463 @@
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+css: custom.css
+---
+
+# குறள் 1
+
+:::: {.incremental}
+
+## அகர
+
+::: {.incremental}
+
+:::: {.fragment}
+
+அக
+
+::::
+
+:::: {.fragment}
+
+அக ர
+
+::::
+
+:::
+
+## முதல
+
+::: {.incremental}
+
+:::: {.fragment}
+
+முத
+
+::::
+
+:::: {.fragment}
+
+முத ல
+
+::::
+
+:::
+
+## எழுத்தெல்லாம்
+
+::: {.incremental}
+
+:::: {.fragment}
+
+எழுத்
+
+::::
+
+:::: {.fragment}
+
+எழுத் தெல்
+
+::::
+
+:::: {.fragment}
+
+எழுத் தெல் லாம்
+
+::::
+
+:::
+
+## ஆதி
+
+::: {.incremental}
+
+:::: {.fragment}
+
+ஆ
+
+::::
+
+:::: {.fragment}
+
+ஆ தி
+
+::::
+
+:::
+
+## பகவன்
+
+::: {.incremental}
+
+:::: {.fragment}
+
+பக
+
+::::
+
+:::: {.fragment}
+
+பக வன்
+
+::::
+
+:::
+
+## முதற்றே
+
+::: {.incremental}
+
+:::: {.fragment}
+
+முதற்
+
+::::
+
+:::: {.fragment}
+
+முதற் றே
+
+::::
+
+:::
+
+## உலகு
+
+::: {.incremental}
+
+:::: {.fragment}
+
+உல
+
+::::
+
+:::: {.fragment}
+
+உல கு
+
+::::
+
+:::
+
+::::
+
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+அக
+
+:::
+
+::: {.fragment}
+
+அக ர
+
+:::
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முத
+
+:::
+
+::: {.fragment}
+
+முத ல
+
+:::
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+எழுத்
+
+:::
+
+::: {.fragment}
+
+எழுத் தெல்
+
+:::
+
+::: {.fragment}
+
+எழுத் தெல் லாம்
+
+:::
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+ஆ
+
+:::
+
+::: {.fragment}
+
+ஆ தி
+
+:::
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+பக
+
+:::
+
+::: {.fragment}
+
+பக வன்
+
+:::
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முதற்
+
+:::
+
+::: {.fragment}
+
+முதற் றே
+
+:::
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+உல
+
+:::
+
+::: {.fragment}
+
+உல கு
+
+:::
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+அக
+
+:::
+
+::: {.fragment}
+
+அக ர
+
+:::
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முத
+
+:::
+
+::: {.fragment}
+
+முத ல
+
+:::
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+எழுத்
+
+:::
+
+::: {.fragment}
+
+எழுத் தெல்
+
+:::
+
+::: {.fragment}
+
+எழுத் தெல் லாம்
+
+:::
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+ஆ
+
+:::
+
+::: {.fragment}
+
+ஆ தி
+
+:::
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+பக
+
+:::
+
+::: {.fragment}
+
+பக வன்
+
+:::
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முதற்
+
+:::
+
+::: {.fragment}
+
+முதற் றே
+
+:::
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+உல
+
+:::
+
+::: {.fragment}
+
+உல கு
+
+:::
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+அக
+
+:::
+
+::: {.fragment}
+
+அக ர
+
+:::
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முத
+
+:::
+
+::: {.fragment}
+
+முத ல
+
+:::
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+எழுத்
+
+:::
+
+::: {.fragment}
+
+எழுத் தெல்
+
+:::
+
+::: {.fragment}
+
+எழுத் தெல் லாம்
+
+:::
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+ஆ
+
+:::
+
+::: {.fragment}
+
+ஆ தி
+
+:::
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+பக
+
+:::
+
+::: {.fragment}
+
+பக வன்
+
+:::
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முதற்
+
+:::
+
+::: {.fragment}
+
+முதற் றே
+
+:::
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+உல
+
+:::
+
+::: {.fragment}
+
+உல கு
+
+:::
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+அக
+
+:::
+
+::: {.fragment}
+
+அக ர
+
+:::
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முத
+
+:::
+
+::: {.fragment}
+
+முத ல
+
+:::
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+எழுத்
+
+:::
+
+::: {.fragment}
+
+எழுத் தெல்
+
+:::
+
+::: {.fragment}
+
+எழுத் தெல் லாம்
+
+:::
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+ஆ
+
+:::
+
+::: {.fragment}
+
+ஆ தி
+
+:::
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+பக
+
+:::
+
+::: {.fragment}
+
+பக வன்
+
+:::
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முதற்
+
+:::
+
+::: {.fragment}
+
+முதற் றே
+
+:::
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+உல
+
+:::
+
+::: {.fragment}
+
+உல கு
+
+:::
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+அக
+
+:::
+
+::: {.fragment}
+
+அக ர
+
+:::
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முத
+
+:::
+
+::: {.fragment}
+
+முத ல
+
+:::
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+எழுத்
+
+:::
+
+::: {.fragment}
+
+எழுத் தெல்
+
+:::
+
+::: {.fragment}
+
+எழுத் தெல் லாம்
+
+:::
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+ஆ
+
+:::
+
+::: {.fragment}
+
+ஆ தி
+
+:::
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+பக
+
+:::
+
+::: {.fragment}
+
+பக வன்
+
+:::
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முதற்
+
+:::
+
+::: {.fragment}
+
+முதற் றே
+
+:::
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+உல
+
+:::
+
+::: {.fragment}
+
+உல கு
+
+:::
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+அக
+
+:::
+
+::: {.fragment}
+
+அக-ர
+
+:::
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முத
+
+:::
+
+::: {.fragment}
+
+முத-ல
+
+:::
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+எழுத்
+
+:::
+
+::: {.fragment}
+
+எழுத்-தெல்
+
+:::
+
+::: {.fragment}
+
+எழுத்-தெல்-லாம்
+
+:::
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+ஆ
+
+:::
+
+::: {.fragment}
+
+ஆ-தி
+
+:::
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+பக
+
+:::
+
+::: {.fragment}
+
+பக-வன்
+
+:::
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முதற்
+
+:::
+
+::: {.fragment}
+
+முதற்-றே
+
+:::
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+உல
+
+:::
+
+::: {.fragment}
+
+உல-கு
+
+:::
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+அக
+
+:::
+
+::: {.fragment}
+
+அக/ர
+
+:::
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முத
+
+:::
+
+::: {.fragment}
+
+முத/ல
+
+:::
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+எழுத்
+
+:::
+
+::: {.fragment}
+
+எழுத்/தெல்
+
+:::
+
+::: {.fragment}
+
+எழுத்/தெல்/லாம்
+
+:::
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+ஆ
+
+:::
+
+::: {.fragment}
+
+ஆ/தி
+
+:::
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+பக
+
+:::
+
+::: {.fragment}
+
+பக/வன்
+
+:::
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முதற்
+
+:::
+
+::: {.fragment}
+
+முதற்/றே
+
+:::
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+உல
+
+:::
+
+::: {.fragment}
+
+உல/கு
+
+:::
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+அக
+
+:::
+
+::: {.fragment}
+
+அக/
+ர
+
+:::
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முத
+
+:::
+
+::: {.fragment}
+
+முத/
+ல
+
+:::
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+எழுத்
+
+:::
+
+::: {.fragment}
+
+எழுத்/
+தெல்
+
+:::
+
+::: {.fragment}
+
+எழுத்/
+தெல்/
+லாம்
+
+:::
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+ஆ
+
+:::
+
+::: {.fragment}
+
+ஆ/
+தி
+
+:::
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+பக
+
+:::
+
+::: {.fragment}
+
+பக/
+வன்
+
+:::
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முதற்
+
+:::
+
+::: {.fragment}
+
+முதற்/
+றே
+
+:::
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+உல
+
+:::
+
+::: {.fragment}
+
+உல/
+கு
+
+:::
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+அக
+
+:::
+
+::: {.fragment}
+
+அக/&nbsp;ர
+
+:::
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முத
+
+:::
+
+::: {.fragment}
+
+முத/&nbsp;ல
+
+:::
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+எழுத்
+
+:::
+
+::: {.fragment}
+
+எழுத்/&nbsp;தெல்
+
+:::
+
+::: {.fragment}
+
+எழுத்/&nbsp;தெல்/&nbsp;லாம்
+
+:::
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+ஆ
+
+:::
+
+::: {.fragment}
+
+ஆ/&nbsp;தி
+
+:::
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+பக
+
+:::
+
+::: {.fragment}
+
+பக/&nbsp;வன்
+
+:::
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+முதற்
+
+:::
+
+::: {.fragment}
+
+முதற்/&nbsp;றே
+
+:::
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+உல
+
+:::
+
+::: {.fragment}
+
+உல/&nbsp;கு
+
+:::
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அக
+
+:::
+
+::: {.fragment}
+
+
+  அக/&nbsp;ர
+
+:::
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முத
+
+:::
+
+::: {.fragment}
+
+
+  முத/&nbsp;ல
+
+:::
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  எழுத்
+
+:::
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்
+
+:::
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்/&nbsp;லாம்
+
+:::
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆ
+
+:::
+
+::: {.fragment}
+
+
+  ஆ/&nbsp;தி
+
+:::
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பக
+
+:::
+
+::: {.fragment}
+
+
+  பக/&nbsp;வன்
+
+:::
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முதற்
+
+:::
+
+::: {.fragment}
+
+
+  முதற்/&nbsp;றே
+
+:::
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உல
+
+:::
+
+::: {.fragment}
+
+
+  உல/&nbsp;கு
+
+:::
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+## அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அக/&nbsp;ர
+
+:::
+
+<br>
+
+::::
+
+## முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முத
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முத/&nbsp;ல
+
+:::
+
+<br>
+
+::::
+
+## எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  எழுத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்/&nbsp;லாம்
+
+:::
+
+<br>
+
+::::
+
+## ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆ/&nbsp;தி
+
+:::
+
+<br>
+
+::::
+
+## பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பக/&nbsp;வன்
+
+:::
+
+<br>
+
+::::
+
+## முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முதற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முதற்/&nbsp;றே
+
+:::
+
+<br>
+
+::::
+
+## உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உல/&nbsp;கு
+
+:::
+
+<br>
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+# அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அக/&nbsp;ர
+
+:::
+
+<br>
+
+::::
+
+# முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முத
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முத/&nbsp;ல
+
+:::
+
+<br>
+
+::::
+
+# எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  எழுத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்/&nbsp;லாம்
+
+:::
+
+<br>
+
+::::
+
+# ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆ/&nbsp;தி
+
+:::
+
+<br>
+
+::::
+
+# பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பக/&nbsp;வன்
+
+:::
+
+<br>
+
+::::
+
+# முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முதற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முதற்/&nbsp;றே
+
+:::
+
+<br>
+
+::::
+
+# உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உல/&nbsp;கு
+
+:::
+
+<br>
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+# அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அக/&nbsp;ர
+
+:::
+
+<br>
+
+::::
+
+# முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முத
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முத/&nbsp;ல
+
+:::
+
+<br>
+
+::::
+
+# எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  எழுத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்/&nbsp;லாம்
+
+:::
+
+<br>
+
+::::
+
+# ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆ/&nbsp;தி
+
+:::
+
+<br>
+
+::::
+
+# பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பக/&nbsp;வன்
+
+:::
+
+<br>
+
+::::
+
+# முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முதற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முதற்/&nbsp;றே
+
+:::
+
+<br>
+
+::::
+
+# உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உல/&nbsp;கு
+
+:::
+
+<br>
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+# அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அக/&nbsp;ர
+
+:::
+
+<br>
+
+::::
+
+# முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முத
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முத/&nbsp;ல
+
+:::
+
+<br>
+
+::::
+
+# எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  எழுத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்/&nbsp;லாம்
+
+:::
+
+<br>
+
+::::
+
+# ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆ/&nbsp;தி
+
+:::
+
+<br>
+
+::::
+
+# பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பக/&nbsp;வன்
+
+:::
+
+<br>
+
+::::
+
+# முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முதற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முதற்/&nbsp;றே
+
+:::
+
+<br>
+
+::::
+
+# உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உல/&nbsp;கு
+
+:::
+
+<br>
+
+::::
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 1
+
+# அகர
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அக/&nbsp;ர
+
+:::
+
+<br>
+
+::::
+
+# முதல
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முத
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முத/&nbsp;ல
+
+:::
+
+<br>
+
+::::
+
+# எழுத்தெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  எழுத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எழுத்/&nbsp;தெல்/&nbsp;லாம்
+
+:::
+
+<br>
+
+::::
+
+# ஆதி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆ/&nbsp;தி
+
+:::
+
+<br>
+
+::::
+
+# பகவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பக/&nbsp;வன்
+
+:::
+
+<br>
+
+::::
+
+# முதற்றே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முதற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முதற்/&nbsp;றே
+
+:::
+
+<br>
+
+::::
+
+# உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உல/&nbsp;கு
+
+:::
+
+<br>
+
+::::

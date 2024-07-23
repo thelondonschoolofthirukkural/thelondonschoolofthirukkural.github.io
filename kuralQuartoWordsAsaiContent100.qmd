@@ -1,0 +1,201 @@
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 100
+
+# இனிய
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  இனி
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இனி/&nbsp;ய
+
+:::
+
+<br>
+
+::::
+
+# உளவாக
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உள
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உள/&nbsp;வா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உள/&nbsp;வா/&nbsp;க
+
+:::
+
+<br>
+
+::::
+
+# இன்னாத
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  இன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இன்/&nbsp;னா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இன்/&nbsp;னா/&nbsp;த
+
+:::
+
+<br>
+
+::::
+
+# கூறல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  கூ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  கூ/&nbsp;றல்
+
+:::
+
+<br>
+
+::::
+
+# கனிஇருப்பக்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  கனி
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  கனி/&nbsp;இருப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  கனி/&nbsp;இருப்/&nbsp;பக்
+
+:::
+
+<br>
+
+::::
+
+# காய்கவர்ந்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  காய்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  காய்/&nbsp;கவர்ந்
+
+:::
+
+<br>
+
+::::
+
+# தற்று
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தற்/&nbsp;று
+
+:::
+
+<br>
+
+::::

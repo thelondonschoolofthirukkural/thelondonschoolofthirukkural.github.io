@@ -1,0 +1,183 @@
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 67
+
+# தந்தை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தந்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தந்/&nbsp;தை
+
+:::
+
+<br>
+
+::::
+
+# மகற்காற்று
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  மகற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மகற்/&nbsp;காற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மகற்/&nbsp;காற்/&nbsp;று
+
+:::
+
+<br>
+
+::::
+
+# நன்றி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  நன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  நன்/&nbsp;றி
+
+:::
+
+<br>
+
+::::
+
+# அவையத்து
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அவை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அவை/&nbsp;யத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அவை/&nbsp;யத்/&nbsp;து
+
+:::
+
+<br>
+
+::::
+
+# முந்தி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  முந்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  முந்/&nbsp;தி
+
+:::
+
+<br>
+
+::::
+
+# இருப்பச்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  இருப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இருப்/&nbsp;பச்
+
+:::
+
+<br>
+
+::::
+
+# செயல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  செயல்
+
+:::
+
+<br>
+
+::::

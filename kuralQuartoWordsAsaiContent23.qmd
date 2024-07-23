@@ -1,0 +1,201 @@
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 23
+
+# இருமை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  இரு
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இரு/&nbsp;மை
+
+:::
+
+<br>
+
+::::
+
+# வகைதெரிந்து
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  வகை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வகை/&nbsp;தெரிந்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வகை/&nbsp;தெரிந்/&nbsp;து
+
+:::
+
+<br>
+
+::::
+
+# ஈண்டுஅறம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஈண்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஈண்/&nbsp;டுஅ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஈண்/&nbsp;டுஅ/&nbsp;றம்
+
+:::
+
+<br>
+
+::::
+
+# பூண்டார்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பூண்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பூண்/&nbsp;டார்
+
+:::
+
+<br>
+
+::::
+
+# பெருமை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பெரு
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பெரு/&nbsp;மை
+
+:::
+
+<br>
+
+::::
+
+# பிறங்கிற்று
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பிறங்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பிறங்/&nbsp;கிற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பிறங்/&nbsp;கிற்/&nbsp;று
+
+:::
+
+<br>
+
+::::
+
+# உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உல/&nbsp;கு
+
+:::
+
+<br>
+
+::::

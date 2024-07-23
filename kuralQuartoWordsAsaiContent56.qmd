@@ -1,0 +1,201 @@
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 56
+
+# தற்காத்துத்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தற்/&nbsp;காத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தற்/&nbsp;காத்/&nbsp;துத்
+
+:::
+
+<br>
+
+::::
+
+# தற்கொண்டாற்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தற்/&nbsp;கொண்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தற்/&nbsp;கொண்/&nbsp;டாற்
+
+:::
+
+<br>
+
+::::
+
+# பேணித்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பே
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பே/&nbsp;ணித்
+
+:::
+
+<br>
+
+::::
+
+# தகைசான்ற
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தகை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தகை/&nbsp;சான்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தகை/&nbsp;சான்/&nbsp;ற
+
+:::
+
+<br>
+
+::::
+
+# சொற்காத்துச்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  சொற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சொற்/&nbsp;காத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சொற்/&nbsp;காத்/&nbsp;துச்
+
+:::
+
+<br>
+
+::::
+
+# சோர்விலாள்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  சோர்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சோர்/&nbsp;விலாள்
+
+:::
+
+<br>
+
+::::
+
+# பெண்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பெண்
+
+:::
+
+<br>
+
+::::

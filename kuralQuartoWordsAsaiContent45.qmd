@@ -1,0 +1,183 @@
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 45
+
+# அன்பும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அன்/&nbsp;பும்
+
+:::
+
+<br>
+
+::::
+
+# அறனும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அற
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அற/&nbsp;னும்
+
+:::
+
+<br>
+
+::::
+
+# உடைத்தாயின்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உடைத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உடைத்/&nbsp;தா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உடைத்/&nbsp;தா/&nbsp;யின்
+
+:::
+
+<br>
+
+::::
+
+# இல்வாழ்க்கை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  இல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இல்/&nbsp;வாழ்க்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இல்/&nbsp;வாழ்க்/&nbsp;கை
+
+:::
+
+<br>
+
+::::
+
+# பண்பும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பண்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பண்/&nbsp;பும்
+
+:::
+
+<br>
+
+::::
+
+# பயனும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பய
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பய/&nbsp;னும்
+
+:::
+
+<br>
+
+::::
+
+# அது
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அது
+
+:::
+
+<br>
+
+::::

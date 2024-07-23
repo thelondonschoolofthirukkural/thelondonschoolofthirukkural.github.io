@@ -1,0 +1,192 @@
+---
+title: "Thirukkural Word Formation"
+format: revealjs
+---
+
+# குறள் 78
+
+# அன்பகத்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அன்/&nbsp;பகத்
+
+:::
+
+<br>
+
+::::
+
+# தில்லா
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தில்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தில்/&nbsp;லா
+
+:::
+
+<br>
+
+::::
+
+# உயிர்வாழ்க்கை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உயிர்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உயிர்/&nbsp;வாழ்க்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உயிர்/&nbsp;வாழ்க்/&nbsp;கை
+
+:::
+
+<br>
+
+::::
+
+# வன்பாற்கண்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  வன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வன்/&nbsp;பாற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வன்/&nbsp;பாற்/&nbsp;கண்
+
+:::
+
+<br>
+
+::::
+
+# வற்றல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  வற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வற்/&nbsp;றல்
+
+:::
+
+<br>
+
+::::
+
+# மரந்தளிர்த்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  மரந்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மரந்/&nbsp;தளிர்த்
+
+:::
+
+<br>
+
+::::
+
+# தற்று
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தற்/&nbsp;று
+
+:::
+
+<br>
+
+::::
