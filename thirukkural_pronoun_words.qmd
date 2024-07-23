@@ -1,0 +1,275 @@
+---
+title: "Thirukkural Words - Pronoun"
+format:
+  revealjs:
+    theme: simple
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    smaller: true
+---
+
+# Thirukkural Words - Pronoun
+
+## Introduction
+
+This lesson focuses on selected words from the Thirukkural, exploring their usage and cultural context.
+
+::: {.notes}
+Explain the importance of these words in understanding Thirukkural and Tamil literature.
+Highlight that each usage example is followed by its Kural number for reference.
+:::
+
+
+## Word Study: எல்லாம் (Ellaam)
+
+- **Meaning:** All
+- **Part of Speech:** Pronoun
+- **Difficulty:** Easy
+- **Kural Number:** 1
+
+### Usage Examples:
+
+- எழுத்து எல்லாம் அகரம் முதல (Kural 1)
+- எல்லாம் மழை (Kural 15)
+- அறவினை ஓவாதே செல்லும்வாய் எல்லாம் செயல் (Kural 33)
+- மற்று எல்லாம் புறத்த (Kural 39)
+- முயல்வாருள் எல்லாம் தலை (Kural 47)
+
+### Exercises:
+
+1. Fill in the blank: எழுத்து ______ அகரம் முதல
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அனைத்து (Anaithu)
+
+- **Meaning:** All
+- **Part of Speech:** Pronoun
+- **Difficulty:** Easy
+- **Kural Number:** 34
+
+### Usage Examples:
+
+- அனைத்து அறன் (Kural 34)
+- மணற்கேணி தொட்ட அனைத்து ஊறும் (Kural 396)
+- கீழ்ப்பிறந்தும் கற்றார் அனைத்துப் பாடு இலர் (Kural 409)
+- அழுத கண்ணீரும் அனைத்து (Kural 828)
+- காதலர் செய்யும் சிறப்பு அனைத்து அன்றோ (Kural 1208)
+
+### Exercises:
+
+1. Fill in the blank: ______ அறன்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அது (Athu)
+
+- **Meaning:** That
+- **Part of Speech:** Pronoun
+- **Difficulty:** Easy
+- **Kural Number:** 45
+
+### Usage Examples:
+
+- அது பொன்றுங்கால் பொன்றாத் துணை (Kural 36)
+- அது பண்பும் பயனும் (Kural 45)
+- அது நண்பு என்னும் நாடாச் சிறப்பு ஈனும் (Kural 74)
+- அழுக்காறு உடையார்க்கு அது சாலும் (Kural 165)
+- அது அல்லது உயிர்க்கு ஊதியம் இல்லை (Kural 231)
+
+### Exercises:
+
+1. Fill in the blank: ______ பொன்றுங்கால் பொன்றாத் துணை
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: தன் (Than)
+
+- **Meaning:** Self
+- **Part of Speech:** Pronoun
+- **Difficulty:** Easy
+- **Kural Number:** 56
+
+### Usage Examples:
+
+- நெடுங்கடலும் தன் நீர்மை குன்றும் (Kural 17)
+- எவ்வுயிர்க்கும் செந்தன்மை பூண்டு ஒழுகலான் (Kural 30)
+- மனைத் தக்க மாண்பு உடையளாகித் தன் கொண்டான் வளத்தக்காள் (Kural 51)
+- தன் காத்துத் தன் கொண்டான் பேணி (Kural 56)
+- அதன் நன்கலன் (என்ப) நன்மக்கட்பேறு (Kural 60)
+
+### Exercises:
+
+1. Fill in the blank: நெடுங்கடலும் ______ நீர்மை குன்றும்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: யாதெனின் (Yaadhenin)
+
+- **Meaning:** What is
+- **Part of Speech:** Pronoun
+- **Difficulty:** Medium
+- **Kural Number:** 178
+
+### Usage Examples:
+
+- செல்வத்திற்கு அஃகாமை யாதெனின் (Kural 178)
+- அல்லது (யாதெனின்) கோறல் (Kural 254)
+- நட்பிற்கு வீற்றிருக்கை யாதெனின் (Kural 789)
+
+### Exercises:
+
+1. Fill in the blank: செல்வத்திற்கு அஃகாமை ______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: பிறர் (Pirar)
+
+- **Meaning:** Others
+- **Part of Speech:** Pronoun
+- **Difficulty:** Medium
+- **Kural Number:** 178
+
+### Usage Examples:
+
+- அன்புடையார் என்பும் பிறர்க்கு உரியர் (Kural 72)
+- பிறர்க்கு உரியாள் தோள் தோயாதார் (Kural 149)
+- திறன் அல்ல தன் பிறர் செய்யினும் (Kural 157)
+- பிறர் சொல்லும் இன்னாச் சொல் நோற்பாரின் பின் (Kural 160)
+- பிறர் வேண்டும் கைப்பொருள் வெஃகாமை (Kural 178)
+
+### Exercises:
+
+1. Fill in the blank: அன்புடையார் என்பும் ______க்கு உரியர்
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: தான் (Thaan)
+
+- **Meaning:** Self
+- **Part of Speech:** Pronoun
+- **Difficulty:** Easy
+- **Kural Number:** 212
+
+### Usage Examples:
+
+- பொறி வாயில் ஐந்து அவித்தான் (Kural 6)
+- தனக்கு உவமை இல்லாதான் தாள்சேர்ந்தார்க்கு அல்லால் (Kural 7)
+- எண் குணத்தான் தாளை வணங்காத்தலை (Kural 9)
+- தான் அமிழ்தம் என்று உணரற்பாற்று (Kural 11)
+- எழிலி தான் தடிந்து நல்காது ஆகிவிடின் (Kural 17)
+
+### Exercises:
+
+1. Fill in the blank: பொறி வாயில் ஐந்து அவித்______
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: ஒன்று (Ondru)
+
+- **Meaning:** One thing
+- **Part of Speech:** Pronoun
+- **Difficulty:** Easy
+- **Kural Number:** 234
+
+### Usage Examples:
+
+- வேள்விப்பயன் இனைத்துணைத்து என்பது ஒன்று இல்லை (Kural 87)
+- அவர் செய்த நன்று ஒன்று உள்ளக் கெடும் (Kural 109)
+- தீவினைப்பால் எனைத்து ஒன்றும் துன்னற்க (Kural 209)
+- வறியார்க்கு ஒன்று ஈவதே ஈகை (Kural 221)
+- இரப்பார்க்கு ஒன்று ஈவார் மேல் நிற்கும் புகழ் (Kural 232)
+
+### Exercises:
+
+1. Fill in the blank: வேள்விப்பயன் இனைத்துணைத்து என்பது ______ இல்லை
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Word Study: அஃதே (Aqdhe)
+
+- **Meaning:** That itself
+- **Part of Speech:** Pronoun
+- **Difficulty:** Hard
+- **Kural Number:** 245
+
+### Usage Examples:
+
+- மறத்திற்கும் அஃதே துணை (Kural 76)
+- தெரிந்த ஓம்பித் தேரினும் துணை அஃதே (Kural 132)
+- பல ஆற்றான் தேரினும் துணை அஃதே (Kural 242)
+
+### Exercises:
+
+1. Fill in the blank: மறத்திற்கும் ______ துணை
+2. Translate one of the usage examples.
+3. Create your own phrase using this word.
+
+::: {.notes}
+Discuss the cultural context of these phrases.
+Highlight any collocations or common word pairings.
+Encourage students to look up the full kurals for more context.
+:::
+    
+## Conclusion
+
+- Review the words we've learned in this session.
+- Discuss how these words contribute to the themes and messages in Thirukkural.
+- Encourage students to use these words in their own sentences and writings.
+
+## Further Study
+
+1. Create a personal dictionary with these words and their contexts.
+2. Analyze how these words are used in other Tamil literary works.
+3. Reflect on how understanding these words deepens your appreciation of Tamil literature and culture.
+4. Look up the full kurals referenced in the usage examples for broader context.
+    
