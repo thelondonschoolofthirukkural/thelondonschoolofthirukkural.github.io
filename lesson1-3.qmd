@@ -1,0 +1,121 @@
+---
+title: "Lesson 3: Human Qualities and Emotions"
+format: 
+  revealjs:
+    theme: night
+    transition: slide
+---
+
+## Vocabulary Introduction: Positive Qualities
+
+::: {.columns}
+::: {.column width="50%"}
+- அன்பு (anbu) - love
+- இனிய (iniya) - sweet/pleasant
+- பண்பும் (panbum) - character (and)
+- செப்பம் (seppam) - correctness
+:::
+::: {.column width="50%"}
+- சீர்மை (seermai) - excellence
+- பெருமை (perumai) - greatness
+- உடையர் (udaiyar) - possessor
+- வேட்ட (vetta) - desired
+:::
+:::
+
+## Vocabulary Introduction: Negative Qualities
+
+::: {.columns}
+::: {.column width="50%"}
+- செருக்கு (serukku) - arrogance
+- மடமை (madamai) - foolishness
+- சோர்வு (sorvu) - fatigue
+- எவ்வம் (evvam) - sorrow
+:::
+::: {.column width="50%"}
+- இன்மை (inmai) - lack/poverty
+- அழுக்காறு (azhukkaru) - envy
+- ஏமாப்பு (emaappu) - carelessness
+- இளிவு (ilivu) - disgrace
+:::
+:::
+
+## Vocabulary Introduction: Other Concepts
+
+::: {.columns}
+::: {.column width="50%"}
+- இன்பம் (inbam) - pleasure
+- அரிது (aridhu) - rare/difficult
+- நகுப (naguba) - laughable
+:::
+::: {.column width="50%"}
+- பொய்க்காய்வு (poikkaaivu) - false anger
+- எனைத் (enaith) - how much
+- பிணி (pini) - disease/bondage
+:::
+:::
+
+## Activity 1: Emotion Charades
+
+1. Divide the class into teams
+2. One student acts out an emotion or quality without speaking
+3. Team members guess the Tamil word
+4. Points awarded for correct guesses
+
+::: {.notes}
+Instructor: Prepare cards with the Tamil words and their meanings. Encourage students to use facial expressions and body language to convey the emotions.
+:::
+
+## Activity 2: Antonym Matching
+
+Match the opposites:
+
+1. அன்பு (love) ↔ ?
+2. இனிய (pleasant) ↔ ?
+3. பெருமை (greatness) ↔ ?
+4. இன்பம் (pleasure) ↔ ?
+
+::: {.notes}
+Instructor: Discuss the antonyms and help students understand the relationships between opposite concepts. Encourage them to create sentences using both the word and its antonym.
+:::
+
+## Activity 3: Situational Role-play
+
+1. Create scenarios that involve different emotions and qualities
+2. Students act out the situations using the new vocabulary
+3. Class discusses the appropriate use of words in context
+
+Example Scenario:
+A student shows சோர்வு (fatigue) after a long day of studying, but their friend encourages them with அன்பு (love) and இனிய (pleasant) words.
+
+::: {.notes}
+Instructor: Prepare a variety of scenarios beforehand. Encourage students to be creative and use as many new words as possible in their role-plays.
+:::
+
+## Practice Time!
+
+In small groups, create a short story using at least 7 words from today's lesson.
+
+Example:
+செருக்கு உடையர் பெருமை பேசினார். அவரது மடமை நகுப ஆனது. இன்பம் இன்மை ஆனது.
+(The arrogant person spoke of greatness. Their foolishness became laughable. Pleasure became lacking.)
+
+## Recap
+
+We learned:  
+1. Vocabulary for positive and negative human qualities  
+2. Words related to emotions and states of being  
+3. How to use these words in context through role-play and storytelling  
+
+## Homework
+
+1. Write a paragraph describing a personal experience using at least 10 new words
+2. Create a mind map of the emotions and qualities learned, grouping them by positive, negative, and neutral
+3. Find 5 new words related to human qualities or emotions and share their meanings
+
+## Next Lesson Preview
+
+We'll explore:  
+- Verbs associated with emotions and qualities  
+- Compound words using today's vocabulary  
+- More complex sentence structures expressing feelings and character traits  

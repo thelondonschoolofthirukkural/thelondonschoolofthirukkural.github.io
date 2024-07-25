@@ -1,0 +1,108 @@
+---
+title: "Lesson 5: Virtues and Ethics"
+format: 
+  revealjs:
+    theme: night
+    transition: slide
+---
+
+## Vocabulary Introduction: Virtues and Ethical Concepts
+
+::: {.columns}
+::: {.column width="50%"}
+- அறன் (aran) - virtue/dharma  
+- அறம் (aram) - righteousness  
+- ஆதிபகவன் (aadhipagavan) - the primordial lord  
+- நாடிஅருள் (naadiyarul) - seek and grace  
+- பூண்டார் (poondaar) - those who have undertaken  
+:::
+::: {.column width="50%"}
+- உதவிக்கு (udhavikku) - for help  
+- வேளாண்மை (velaanmai) - agriculture/service  
+- காத்து (kaathu) - protecting  
+- பொறை (porai) - patience/burden  
+- நன்றி (nandri) - gratitude  
+:::
+:::
+
+## More Vocabulary: Ethical Actions and Qualities
+
+::: {.columns}
+::: {.column width="50%"}
+- ஒறுத்தார்க்கு (oruthaarkku) - to those who punished  
+- அஞ்சார் (anjaar) - fearless ones  
+- பயனில்லாச் (payanillaa) - useless  
+- ஆள்க (aalka) - may (you) rule  
+- அஃகாமை (ahkaamai) - not diminishing  
+:::
+::: {.column width="50%"}
+- சான்ற (saandra) - virtuous/great  
+- பொறுத்தார்க்குப் (poruthaarkup) - to those who forgave  
+- நல் (nal) - good  
+- இல்லா (illaa) - without  
+- அறனும் (aranum) - even virtue  
+:::
+:::
+
+## Activity 1: Proverb Matching
+
+Match the Tamil words with their English equivalents in common proverbs:
+
+1. அறம் செய விரும்பு (Desire to do _____)  
+2. நன்றி மறவாதே (Don't forget _____)  
+3. பொறுத்தார் பூமி ஆள்வார் (Those who _____ will rule the earth)  
+4. அஞ்சாமை ஆண்மை (Fearlessness is _____)  
+
+::: {.notes}
+Instructor: Discuss the meanings of these proverbs and how they relate to Tamil ethical values. Encourage students to share similar proverbs from their own cultures.  
+:::
+
+## Activity 2: Ethical Dilemma Discussions
+
+Present ethical dilemmas and discuss using new vocabulary:
+
+1. A friend asks for help cheating on a test (உதவிக்கு vs. அறம்)  
+2. Witnessing bullying at school (அஞ்சார் vs. பொறை)  
+3. Choosing between personal gain and helping others (வேளாண்மை vs. பயனில்லாச்)  
+
+::: {.notes}
+Instructor: Prepare scenarios beforehand. Guide the discussion to use the new vocabulary in context. Encourage students to express their opinions using the Tamil words they've learned.  
+:::
+
+## Activity 3: Story Creation with Moral Lessons
+
+In small groups, create a short story incorporating at least 6 words from today's lesson, with a clear moral lesson.
+
+Example:
+ஆதிபகவன் ஒரு மனிதனைப் பார்த்து, "நீ அறன் செய்யவேண்டும்" என்றார். மனிதன் நல் செயல்களைப் பூண்டார். அவன் பொறை காத்து, பிறருக்கு உதவிக்கு சென்றான். இறுதியில், அவன் சான்ற மனிதனாக மாறினான்.  
+
+(The primordial lord looked at a man and said, "You should perform virtuous deeds." The man undertook good actions. He maintained patience and went to help others. Finally, he became a virtuous man.)  
+
+::: {.notes}
+Instructor: Help students construct grammatically correct sentences. Discuss the moral lessons in each group's story and how they relate to Tamil ethical values.  
+:::
+
+## Practice Time!
+
+Individually, write a paragraph about a personal experience where you practiced one of the virtues we learned today. Use at least 5 new words from the lesson.
+
+## Recap
+
+We learned:  
+1. Vocabulary related to virtues and ethical concepts  
+2. How to use these words in proverbs and ethical discussions  
+3. The importance of moral values in Tamil culture  
+4. How to create stories with moral lessons using new vocabulary  
+
+## Homework
+
+1. Write an essay on the importance of one virtue (e.g., நன்றி or பொறை) in society  
+2. Create a mind map of the virtues learned, showing how they relate to each other  
+3. Find and translate 3 Tamil proverbs related to ethics and virtues  
+
+## Next Lesson Preview
+
+We'll explore:  
+- Verbs associated with virtuous actions  
+- More complex ethical concepts in Tamil literature  
+- The role of ethics in Tamil history and governance

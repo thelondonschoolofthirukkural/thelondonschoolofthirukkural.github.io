@@ -1,0 +1,84 @@
+---
+title: "Let's Learn Tamil Words with same roots!"
+format: 
+  revealjs:
+    theme: simple
+    transition: slide
+    background-transition: fade
+    auto-animate: true
+---
+
+# Tamil Focus Words with Same Roots
+
+## 1. செய் (do/make) Root:
+   - செய்தற் (to do)
+   - செய்யவள் (she who does)
+   - செய்த (done)
+   - செய்யாமல் (without doing)
+
+## 2. சொல் (word) Root:
+   - சொல்லற்க (don't say)
+   - சொல்லுக (say)
+   - சொல்லில் (in words)
+
+## 3. அறி (know) Root:
+   - அறிந்து (having known)
+   - அறிவு (knowledge)
+
+## 4. நோக்கு (look) Root:
+   - நோக்கி (having looked)
+   - நோக்கிப் (having looked and)
+
+## 5. பயன் (use/benefit) Root:
+   - பயனும் (benefit also)
+   - பயனில்லாச் (useless)
+   - பயக்கும் (will yield)
+
+## 6. பொருள் (thing/wealth) Root:
+   - கைப்பொருள் (property in hand)
+   - பொருட்டு (for the sake of)
+
+## 7. அன்பு (love) Root:
+   - அன்பும் (love also)
+
+## 8. உலகு (world) Root:
+   - உலகத்துப் (in the world)
+   - வையம் (earth)
+   - வையகமும் (world also)
+
+## 9. அறம் (virtue/dharma) Root:
+   - அறன் (virtue/dharma)
+   - அறனும் (virtue also)
+
+## 10. தந்தை (father) Root:
+    - தந்த (given/father)
+
+## 11. காத்து (having protected) Root:
+    - காத்துத் (having protected and)
+
+## 12. உடை (have) Root:
+    - உடைய (having)
+    - உடையான் (one who has)
+    - உடைமையுள் (within possession)
+
+## 13. ஆக்கு (create) Root:
+    - ஆக்கி (having created)
+    - ஆக்கம் (creation/prosperity)
+
+## 14. இல் (house/not) Root:
+    - இல்லா (without)
+    - இல்வாழ்க்கை (domestic life)
+    - இலன் (he doesn't have)
+    - இலாள் (she doesn't have)
+
+## 15. வாழ் (live) Root:
+    - வாழ்க்கை (life)
+    - இல்வாழ்க்கை (domestic life)
+
+## 16. எல்லாம் (all) Root:
+    - அனைத்து (all)
+
+## 17. தன் (self) Root:
+    - தான் (self)
+
+Note: Some words like எஞ்ஞான்றும் (always) and தளிர்த்தற்று (sprouted) appear to be compound words or inflected forms, but their root words are not present in the given focus word list.

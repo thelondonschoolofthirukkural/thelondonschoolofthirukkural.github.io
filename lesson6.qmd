@@ -1,0 +1,170 @@
+---
+title: "Let's Learn Tamil Words!"
+format: 
+  revealjs:
+    theme: simple
+    transition: slide
+    background-transition: fade
+    auto-animate: true
+---
+
+# Organized Tamil Focus Words
+
+## 1. Fundamental Concepts
+
+### Numbers and Basic Concepts
+1. ஒன்று (one)
+2. எண் (number)
+3. பல (many)
+
+### Essential Verbs
+1. செய் (do)
+2. ஆகு (become)
+3. உண் (eat)
+4. வா (come)
+5. போ (go)
+
+### Time-related
+1. காலை (morning)
+2. மாலை (evening)
+3. நாள் (day)
+4. பொழுது (time)
+
+## 2. Human and Life
+
+### Family and Relationships
+1. மகற்கு (to the son)
+2. தந்தை (father)
+3. தாய் (mother)
+4. குடும்பம் (family)
+
+### Body and Self
+1. உடல் (body)
+2. உயிர் (life)
+3. மனம் (mind)
+4. நெஞ்சம் (heart)
+5. கண் (eye)
+
+### Actions and States
+1. உற (experience/relate)
+2. உறங்கு (sleep)
+3. எழு (rise)
+4. நோக்கு (look)
+5. பேணு (nurture)
+
+## 3. Society and Interactions
+
+### Communication
+1. சொல் (word)
+2. மொழி (language)
+3. கேள் (listen/ask)
+4. கூறு (say)
+
+### Social Concepts
+1. நட்பு (friendship)
+2. துணை (companionship/help)
+3. பகை (enmity)
+4. ஊர் (village/town)
+
+### Qualities and Character
+1. நல்ல (good)
+2. தீய (bad)
+3. பண்பு (quality/character)
+4. செருக்கு (pride)
+5. அன்பு (love)
+
+## 4. Knowledge and Wisdom
+
+### Learning and Understanding
+1. அறி (know)
+2. கல் (learn)
+3. ஓது (study)
+4. தெரி (understand)
+5. அறிவு (knowledge)
+
+### Wisdom and Virtue
+1. அறம் (virtue/dharma)
+2. நூல் (book/scripture)
+3. புலமை (scholarship)
+
+## 5. Material World
+
+### Objects and Possessions
+1. பொருள் (thing/object/wealth)
+2. கை (hand)
+3. வேல் (spear)
+4. பொன் (gold)
+
+### Nature and Environment
+1. நிலம் (land)
+2. நீர் (water)
+3. உலகு (world)
+4. மலை (mountain)
+
+## 6. Actions and Processes
+
+### Creation and Change
+1. ஆக்கு (create)
+2. செய் (make/do)
+3. தரு (give)
+4. பெறு (get/obtain)
+
+### Movement and Direction
+1. செல் (go)
+2. வா (come)
+3. எய் (reach)
+4. நீங்கு (leave/depart)
+
+### Destruction and Ending
+1. அழி (destroy)
+2. கெடு (ruin)
+3. மாய் (vanish)
+
+## 7. Abstract Concepts
+
+### States and Conditions
+1. வாழ்க்கை (life/lifestyle)
+2. நிலை (state/condition)
+3. தகு (be fit/suitable)
+
+### Benefits and Results
+1. பயன் (benefit/use)
+2. நன்மை (goodness/benefit)
+3. தீமை (evil/harm)
+
+### Emotions and Feelings
+1. இன்பம் (pleasure)
+2. துன்பம் (sorrow)
+3. அச்சம் (fear)
+
+## 8. Qualities and Measurements
+
+### Size and Quantity
+1. பெரிய (big/great)
+2. சிறிய (small)
+3. மிகு (excessive)
+
+### Other Qualities
+1. நல்ல (good)
+2. தீய (bad)
+3. வலி (strong)
+
+## 9. Time and Change
+
+### Time Concepts
+1. காலம் (time/season)
+2. முன் (before)
+3. பின் (after)
+
+### Change and Continuity
+1. நிலை (stay/remain)
+2. மாறு (change)
+3. தொடர் (continue)
+
+## 10. Miscellaneous Important Concepts
+
+1. வேண்டு (want/need)
+2. ஆள் (rule/use)
+3. காண் (see)
+4. கொள் (take/have)
+5. விடு (leave/let go)
