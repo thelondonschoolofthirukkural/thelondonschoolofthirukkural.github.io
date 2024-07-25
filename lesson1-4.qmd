@@ -1,0 +1,118 @@
+---
+title: "Lesson 4: People and Relationships"
+format: 
+  revealjs:
+    theme: night
+    transition: slide
+---
+
+## Vocabulary Introduction: Family Members
+
+::: {.columns}
+::: {.column width="50%"}
+- மகற்கு (magarku) - to the son
+- பெண் (pen) - woman/girl
+- தந்த (thantha) - given
+- தந்தை (thanthai) - father
+:::
+::: {.column width="50%"}
+- பார்ப்பான் (paarpaan) - Brahmin/priest
+- மடவார்கண் (madavaarkan) - in the eyes of the innocent
+- தவ்வையைக் (thavvaiyaik) - younger paternal aunt (accusative)
+:::
+:::
+
+## Vocabulary Introduction: Relationships and Body Parts
+
+::: {.columns}
+::: {.column width="50%"}
+- உடையான்கண்ணே (udaiyaankanae) - in the eyes of the possessor
+- விருந்தோம்பல் (virunthombal) - hospitality
+- குலன் (kulan) - family/lineage
+:::
+::: {.column width="50%"}
+- வாயினர் (vaayinar) - those with mouths
+- கண்ணோடு (kannodu) - with the eye
+- மார்பு (maarbu) - chest
+:::
+:::
+
+## Vocabulary Introduction: Pronouns and Others
+
+::: {.columns}
+::: {.column width="50%"}
+- பிறர் (pirar) - others
+- அவனை (avanai) - him (accusative)
+:::
+::: {.column width="50%"}
+- அல்லார் (allaar) - those who are not
+:::
+:::
+
+## Activity 1: Family Tree Creation
+
+1. Introduce a template family tree with Tamil labels
+2. Students create their own family trees using Tamil words
+3. Present family trees to the class, practicing pronunciation
+
+::: {.notes}
+Instructor: Prepare a template family tree beforehand. Encourage students to add additional relationships they know in Tamil. Help with pronunciation and usage of case markers like -க்கு (ku) in மகற்கு.
+:::
+
+## Activity 2: Relationship Dialogue Practice
+
+Create and practice dialogues using the new vocabulary:
+
+1. Introducing family members
+2. Describing relationships
+3. Practicing hospitality scenarios
+
+Example:
+A: உங்கள் தந்தை எங்கே? (Where is your father?)
+B: என் தந்தை வீட்டில் இருக்கிறார். அவர் விருந்தோம்பல் செய்கிறார். (My father is at home. He is practicing hospitality.)
+
+::: {.notes}
+Instructor: Prepare dialogue templates. Encourage students to modify and expand on them. Focus on proper use of pronouns and relationship terms.
+:::
+
+## Activity 3: Cultural Context Discussion
+
+Discuss the cultural significance of:
+
+1. விருந்தோம்பல் (hospitality) in Tamil culture
+2. குலன் (family/lineage) and its importance
+3. The role of பார்ப்பான் (Brahmin/priest) in society
+4. The concept of கண்ணோடு (with the eye) in Tamil literature
+
+::: {.notes}
+Instructor: Prepare brief cultural notes on each topic. Encourage students to share their own cultural perspectives and compare with Tamil culture.
+:::
+
+## Practice Time!
+
+In pairs, create a short story or dialogue incorporating at least 8 words from today's lesson, focusing on family relationships and cultural aspects.
+
+Example:
+தந்தை மகற்கு கூறினார், "நம் குலன் விருந்தோம்பல் செய்வது முக்கியம். பிறர் உதவி செய்." 
+(The father said to the son, "It's important for our family to practice hospitality. Help others.")
+
+## Recap
+
+We learned:  
+1. Vocabulary for family members and relationships  
+2. Words related to body parts and social interactions  
+3. Cultural context of family and hospitality in Tamil society  
+4. How to use these words in dialogues and stories  
+
+## Homework
+
+1. Write a paragraph describing your family using the new vocabulary  
+2. Create a dialogue between family members planning a விருந்தோம்பல் (hospitality) event  
+3. Research and write a short note on the importance of குலன் (family/lineage) in Tamil culture  
+
+## Next Lesson Preview
+
+We'll explore:  
+- Verbs associated with family interactions and relationships  
+- More complex sentence structures for describing people and their roles  
+- Proverbs and sayings related to family and relationships in Tamil  

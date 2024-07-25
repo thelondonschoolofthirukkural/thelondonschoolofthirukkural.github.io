@@ -1,0 +1,112 @@
+---
+title: "Lesson 7: Life and Existence"
+format: 
+  revealjs:
+    theme: night
+    transition: slide
+---
+
+## Vocabulary Introduction: Life and Living
+
+::: {.columns}
+::: {.column width="50%"}
+- வாழ்க்கை (vaazhkkai) - life  
+- இல்வாழ்க்கை (ilvaazhkkai) - domestic life  
+- உயிர் (uyir) - life/soul  
+- இறப்பான் (irappaan) - he who will die  
+- ஒழுக்கம் (ozhukkam) - conduct/behavior  
+:::
+::: {.column width="50%"}
+- பொன்றாது (ponraathu) - not perishing  
+- இருப்பச் (iruppa) - to be (infinitive)  
+- இருப்பக் (iruppa) - to be (infinitive, alternate form)  
+- உளவாக (ulavaa) - to exist  
+- செல்லும் (sellum) - will go  
+:::
+:::
+
+## More Vocabulary: Existence and Philosophical Concepts
+
+::: {.columns}
+::: {.column width="50%"}
+- இந்நான்கின் (innaangin) - of these four  
+- உலகத்தும் (ulagatthum) - in the world also  
+- குடங்கருள் (kudanarul) - within the pot  
+- தீண்டலால் (theendalaal) - by touching  
+- நீக்கின் (neekin) - if removed  
+:::
+::: {.column width="50%"}
+- செலல் (selal) - going  
+- ஒன்றியார்கண் (onriyaarkan) - in those who are united  
+- உழந்து (uzhandhu) - suffering/striving  
+- உற்றுக் (utruk) - experiencing intensely  
+:::
+:::
+
+## Activity 1: Life Cycle Diagram
+
+Create a diagram of the life cycle using new vocabulary:
+
+1. பிறப்பு (birth) → வாழ்க்கை (life) → இறப்பான் (death)  
+2. Add stages: இல்வாழ்க்கை (domestic life), ஒழுக்கம் (conduct)  
+3. Discuss concepts like உயிர் (soul) and பொன்றாது (not perishing)  
+
+::: {.notes}
+Instructor: Prepare a template diagram. Guide students in adding stages and discussing the philosophical implications of each stage. Encourage them to think about the cyclical nature of life in Tamil philosophy.  
+:::
+
+## Activity 2: Daily Routine Description
+
+Describe a typical day using the new vocabulary:
+
+1. காலையில் எழுந்து (Wake up in the morning)  
+2. இல்வாழ்க்கை கடமைகள் (Domestic life duties)  
+3. ஒழுக்கம் கடைப்பிடித்தல் (Following proper conduct)  
+4. உலகத்தும் செல்லும் (Going out into the world)  
+5. இரவில் உறங்க செல்லல் (Going to sleep at night)  
+
+::: {.notes}
+Instructor: Help students construct grammatically correct sentences. Discuss how daily routines reflect larger life patterns and philosophical concepts in Tamil culture.  
+:::
+
+## Activity 3: Philosophical Debate on Existence
+
+Divide the class into groups for a structured debate:
+
+1. உயிர் பொன்றாது (The soul does not perish) - discuss  
+2. வாழ்க்கை உளவாக வேண்டியதன் நோக்கம் (The purpose of existence) - debate  
+3. இந்நான்கின் முக்கியத்துவம்: பிறப்பு, வாழ்க்கை, இறப்பு, மறுபிறப்பு (The importance of these four: birth, life, death, rebirth) - analyze  
+
+::: {.notes}
+Instructor: Provide guiding questions for each topic. Encourage students to use as many new words as possible in their discussions. Have groups present their conclusions to the class.  
+:::
+
+## Practice Time!
+
+Individually, write a short paragraph about your philosophy of life, using at least 8 new words from today's lesson.
+
+Example:  
+என் வாழ்க்கை நோக்கம் நல்ல ஒழுக்கம் கடைப்பிடிப்பது. இல்வாழ்க்கையில் அன்பும் பொறுப்பும் முக்கியம். உயிர் பொன்றாது என்பதை நம்புகிறேன். நாம் உலகத்தும் நல்லதை செய்ய வேண்டும். சில நேரங்களில் உழந்து போனாலும், அது வாழ்க்கையின் ஒரு பகுதி. இறப்பான் என்பதை அறிந்து, ஒவ்வொரு நாளும் அர்த்தமுள்ளதாக வாழ வேண்டும்.  
+
+(The purpose of my life is to follow good conduct. Love and responsibility are important in domestic life. I believe that the soul does not perish. We should do good in the world. Even if we suffer sometimes, it's a part of life. Knowing that one will die, we should live each day meaningfully.)  
+
+## Recap
+
+We learned:  
+1. Vocabulary related to life, existence, and philosophical concepts  
+2. How to describe life cycles and daily routines in Tamil  
+3. The importance of conduct (ஒழுக்கம்) in Tamil philosophy  
+4. How to discuss abstract concepts of existence using new vocabulary  
+
+## Homework
+
+1. Write an essay on the topic: "என் வாழ்க்கை இலட்சியம்" (My Life's Ideal)  
+2. Create a mind map of the concepts learned, showing how they interconnect  
+3. Find and explain 3 Tamil proverbs or quotes about life and existence  
+
+## Next Lesson Preview
+
+We'll explore:  
+- Verbs associated with various life stages  
+- More complex philosophical concepts in Tamil literature  
+- The role of spirituality in Tamil culture and daily life

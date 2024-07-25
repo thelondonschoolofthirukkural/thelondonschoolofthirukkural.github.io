@@ -1,0 +1,111 @@
+---
+title: Lesson 1 - Fundamental Concepts and Basic Verbs in Tamil
+format: revealjs
+---
+
+## Vocabulary Introduction
+
+- ஒன்று (onru) - one
+- செய் (sei) - do
+- ஆய (aaya) - become
+- உண்டு (undu) - exist
+- நிற்கும் (nirkum) - will stand
+
+---
+
+## More Vocabulary
+
+- எய்தும் (eidhum) - will reach
+- ஆற்றும் (aatrum) - will be able to
+- காய் (kaai) - fruit/to dry
+- ஆற்றல் (aatral) - ability
+- செய்தற் (seidhar) - having done
+
+---
+
+## Action Verbs
+
+- தெரிந்து (therinthu) - knowing
+- அறிந்து (arinthu) - having known
+- உடைய (udaiya) - having
+- நோக்கி (nokki) - looking at
+- ஈண்டு (eendu) - here
+
+---
+
+## More Action Verbs
+
+- ஆக்கி (aakki) - having made
+- பேணி (peni) - nurturing
+- ஓம்பா (omba) - not protecting
+- விளியாது (viliyaadhu) - without perishing
+- எஞ்ஞான்றும் (enjnaandrum) - always
+
+---
+
+## Activity 1: Visual Vocabulary
+
+<div style="display: flex; justify-content: space-around;">
+    <div>
+        <img src="/api/placeholder/300/200" alt="ஒன்று">
+        <p>ஒன்று (onru)</p>
+    </div>
+    <div>
+        <img src="/api/placeholder/300/200" alt="செய்">
+        <p>செய் (sei)</p>
+    </div>
+</div>
+
+---
+
+## Activity 2: Action-Based Learning
+
+1. Stand up: நிற்கும் (nirkum)
+2. Look around: நோக்கி (nokki)
+3. Make a fist: ஆக்கி (aakki)
+4. Point here: ஈண்டு (eendu)
+
+---
+
+## Activity 3: Simple Sentence Construction
+
+1. நான் ஒன்று செய் (I do one thing)
+2. அவன் நோக்கி நிற்கும் (He will stand looking)
+3. நாங்கள் ஈண்டு உண்டு (We exist here)
+
+---
+
+## Practice Time!
+
+Create your own sentences using:
+
+- ஆற்றல் (ability)
+- தெரிந்து (knowing)
+- பேணி (nurturing)
+
+---
+
+## Recap
+
+We learned:  
+1. Basic nouns and numbers  
+2. Action verbs  
+3. Existence and state verbs  
+4. Simple sentence structures  
+
+---
+
+## homework
+
+1. Write 5 sentences using today's vocabulary  
+2. Draw pictures for 5 words from the lesson  
+3. Practice saying each word 3 times  
+
+---
+
+## Next Lesson Preview
+
+We'll explore:  
+- More complex verbs  
+- Adjectives  
+- Question words  

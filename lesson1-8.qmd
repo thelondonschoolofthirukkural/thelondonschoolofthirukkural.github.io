@@ -1,0 +1,118 @@
+---
+title: "Lesson 8: World and Nature"
+format: 
+  revealjs:
+    theme: night
+    transition: slide
+---
+
+## Vocabulary Introduction: World and Universe
+
+::: {.columns}
+::: {.column width="50%"}
+- உலகத்துப் (ulagatthup) - of the world  
+- உலகு (ulagu) - world  
+- வையம் (vaiyam) - earth/world  
+- வையகமும் (vaiyagamum) - the world and  
+- வானகமும் (vaanagamum) - the sky/heaven and  
+:::
+::: {.column width="50%"}
+- பருவத்துக் (paruvathuk) - of the season  
+- தினைத்துணையாம் (thinaitthunaiyaam) - as small as a millet seed  
+- இயல்பினான் (iyalpinaan) - by nature  
+- இருமை (irumai) - duality/two states  
+:::
+:::
+
+## More Vocabulary: Nature and Environmental Concepts
+
+::: {.columns}
+::: {.column width="50%"}
+- வறக்குமேல் (varakkumael) - if it dries up  
+- மயிர (mayira) - hair-like  
+- கெளவையால் (kauvayaal) - by clamor/noise  
+:::
+::: {.column width="50%"}
+- களித்தானை (kalithaanai) - the one who rejoiced  
+- சூழ்ந்து (soozhndhu) - surrounding/considering  
+:::
+:::
+
+## Activity 1: Nature Vocabulary Pictionary
+
+Play a game of Pictionary using the new vocabulary:
+
+1. Divide the class into teams  
+2. One student draws a concept (e.g., உலகு, வானகமும்)  
+3. Team members guess the Tamil word  
+4. Discuss the meaning and usage after each round  
+
+::: {.notes}
+Instructor: Prepare cards with the Tamil words and their meanings. Encourage students to think creatively about how to represent abstract concepts visually. Discuss the cultural and environmental significance of each term.  
+:::
+
+## Activity 2: Seasons Description
+
+Describe the seasons (பருவங்கள்) in Tamil:
+
+1. கோடை (Summer)  
+2. குளிர்காலம் (Winter)  
+3. மழைக்காலம் (Rainy season)  
+4. இலையுதிர்காலம் (Autumn)  
+
+Use new vocabulary to discuss how nature changes with seasons:
+- வறக்குமேல் in summer  
+- இயல்பினான் changes in nature  
+- தினைத்துணையாம் to describe small changes  
+
+::: {.notes}
+Instructor: Help students construct grammatically correct sentences. Discuss how seasons are perceived in Tamil culture and literature. Encourage students to compare with seasons in their own countries.  
+:::
+
+## Activity 3: Environmental Awareness Discussion
+
+Conduct a group discussion on environmental issues:
+
+1. உலகு warming (Global warming)  
+2. வையம் pollution (Earth pollution)  
+3. வானகமும் protection (Sky/atmosphere protection)  
+4. Natural resource conservation  
+
+Use new vocabulary in the discussion:
+- சூழ்ந்து to talk about considering environmental issues  
+- கெளவையால் to discuss noise pollution  
+- இருமை to explore the duality of development and conservation  
+
+::: {.notes}
+Instructor: Provide guiding questions for each topic. Encourage students to use as many new words as possible in their discussions. Have groups present their conclusions to the class.  
+:::
+
+## Practice Time!
+
+Individually, write a short paragraph about your favorite aspect of nature, using at least 6 new words from today's lesson.
+
+Example:  
+என் உலகத்துப் பிடித்த இயற்கை காட்சி கடற்கரை. வையகமும் வானகமும் சந்திக்கும் இடம் அது. கடலின் அலைகள் கெளவையால் ஓசையிடும். மணல் தினைத்துணையாம் சிறியதாக இருக்கும். சூழ்ந்து பார்க்கும்போது, இயற்கையின் இயல்பினான் அழகை உணரலாம். நாம் இந்த அழகை பாதுகாக்க வேண்டும்.  
+
+(My favorite natural scene in the world is the beach. It's where the earth and sky meet. The waves of the sea make noise with their clamor. The sand is as small as a millet seed. When we consider it, we can feel the natural beauty. We should protect this beauty.)  
+
+## Recap
+
+We learned:  
+1. Vocabulary related to the world, nature, and environmental concepts  
+2. How to describe seasons and natural phenomena in Tamil  
+3. The importance of environmental awareness in Tamil culture  
+4. How to discuss nature and environmental issues using new vocabulary  
+
+## Homework
+
+1. Write an essay on the topic: "இயற்கையை பாதுகாப்பதன் முக்கியத்துவம்" (The Importance of Protecting Nature)  
+2. Create a poster about an environmental issue using the new Tamil vocabulary  
+3. Find and explain 3 Tamil proverbs or sayings about nature and the environment  
+
+## Next Lesson Preview
+
+We'll explore:  
+- Verbs associated with natural processes and environmental actions  
+- More complex ecological concepts in Tamil literature  
+- The role of nature in Tamil philosophy and spirituality

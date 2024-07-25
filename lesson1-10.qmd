@@ -1,0 +1,114 @@
+---
+title: "Lesson 10: Miscellaneous and Review"
+format: 
+  revealjs:
+    theme: night
+    transition: slide
+---
+
+## Vocabulary Review and New Words
+
+::: {.columns}
+::: {.column width="50%"}
+- நாணால் (naanaal) - by shame  
+- மேற்கொள்பவர்க்கு (merkkolpavarkku) - for those who undertake  
+- செய்வினை (seivinai) - action done  
+- ஊறுபாடு (urupadu) - injury/damage  
+- தருஉம் (taroom) - will give  
+- செறப்பட்டவர் (serappattavar) - those who are confined  
+- கூறிவிடும (koorivituma) - will tell and leave  
+- உலகத்துப் (ulagathup) - of the world  
+- துப்பார்க்குத் (thuppaarkuth) - for those who eat  
+- கொளலாகும் (kolalaagum) - can be taken  
+:::
+::: {.column width="50%"}
+- இல் (il) - house/in  
+- இலன் (ilan) - he who does not have  
+- தக்கார்க்கு (thakkaarkku) - for the worthy  
+- காத்துத் (kaathuth) - protecting and  
+- நிற்பது (nirpathu) - that which stands  
+- இன்றி (inri) - without  
+- உடைத்தாயின் (udaithaayin) - if it possesses  
+- மனத்துக்கண் (manathukkan) - in the mind  
+- ஆற்றின் (aatrin) - if capable/in the way  
+- அடங்கப் (adangap) - to be contained  
+:::
+:::
+
+## Activity 1: Word Association Game
+
+1. Divide the class into teams  
+2. Display a word from the vocabulary list  
+3. Teams take turns saying associated words (can be from previous lessons)  
+4. Points for valid associations and using words in sentences  
+
+Example:
+Word: உலகத்துப் (of the world)
+Associations: வையம் (earth), வாழ்க்கை (life), இயற்கை (nature)
+
+::: {.notes}
+Instructor: Encourage students to explain their associations. This helps reinforce connections between concepts across all lessons.  
+:::
+
+## Activity 2: Sentence Completion Exercise
+
+Provide sentences with blanks to be filled with appropriate words:
+
+1. அவன் ______ காரணமாக பேசவில்லை. (நாணால்)  
+2. நல்ல செயல்களை ______ நன்மை கிடைக்கும். (மேற்கொள்பவர்க்கு)  
+3. உண்மையை ______ நண்பர்கள் சிறந்தவர்கள். (கூறிவிடும)  
+4. ______ வாழ்பவர்கள் மகிழ்ச்சியாக இருப்பார்கள். (இன்றி - பொறாமை)  
+
+::: {.notes}
+Instructor: Provide context for each sentence. Discuss various possible answers and why certain words fit better than others.  
+:::
+
+## Activity 3: Comprehensive Vocabulary Review Quiz
+
+Create a quiz covering vocabulary from all lessons:
+
+1. Multiple choice questions  
+2. Matching words to definitions  
+3. Fill in the blanks in paragraphs  
+4. Translate short phrases from English to Tamil  
+
+Example Question:
+"_______ என்றால் என்ன?" (What does ஆக்கம் mean?)
+a) destruction  b) creation  c) blame  d) praise  
+
+::: {.notes}
+Instructor: Ensure the quiz covers a wide range of vocabulary from all previous lessons. Discuss answers after the quiz to reinforce learning.  
+:::
+
+## Practice Time!
+
+Write a short story or dialogue using at least 10 words from today's list and 5 words from previous lessons.
+
+Example:  
+உலகத்துப் பல இடங்களில் நான் பயணம் செய்தேன். ஒவ்வொரு நாட்டிலும் துப்பார்க்குத் தனி சுவை உண்டு. சில இடங்களில் நாணால் பேச முடியவில்லை, ஆனால் மக்களின் அன்பு என்னை வரவேற்றது. பயணம் செய்வினை மூலம் நான் பல பாடங்கள் கற்றேன். இப்போது என் மனத்துக்கண் அந்த அனுபவங்கள் நிறைந்துள்ளன. பயணம் எனக்கு புதிய அறிவைத் தருஉம் என்பதை உணர்ந்தேன்.  
+
+(I traveled to many places in the world. Each country has a unique taste for those who eat. In some places, I couldn't speak due to shame, but people's love welcomed me. Through the action of traveling, I learned many lessons. Now those experiences are filled in my mind. I realized that travel will give me new knowledge.)  
+
+## Recap
+
+We reviewed:  
+1. Vocabulary from all previous lessons  
+2. How to use words in various contexts  
+3. Associations between different concepts  
+4. Sentence construction and story writing skills  
+
+## Final Assignment
+
+1. Write an essay using at least 30 words learned throughout the course  
+2. Create a mind map connecting concepts from all lessons  
+3. Prepare a 5-minute presentation in Tamil on any topic of your choice, using vocabulary from the course  
+
+## Course Conclusion
+
+Congratulations on completing the Tamil vocabulary course!  
+Remember:  
+- Continue practicing regularly  
+- Read Tamil literature to reinforce and expand your vocabulary  
+- Engage in conversations to apply what you've learned  
+
+Next steps: Consider advanced Tamil courses focusing on grammar, literature, or conversational skills.

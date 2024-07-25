@@ -1,0 +1,130 @@
+---
+title: "Tamil Lesson: Verb Forms and Sentence Structures"
+format:
+  html:
+    code-fold: true
+    code-summary: "Show the code"
+---
+
+## Introduction to Tamil Verb Forms and Sentence Structures
+
+In this lesson, we'll explore basic Tamil verb forms and sentence structures using the core words we learned in the previous lesson. We'll focus on present, past, and future tenses, as well as simple sentence patterns.
+
+### Review of Core Words
+
+Let's start by reviewing some of the core words from our previous lesson:
+
+
+mindmap
+  root((Tamil Words))
+    Nouns
+      பொருள் (thing)
+      உலகு (world)
+      உயிர் (life)
+      வாழ்க்கை (lifestyle)
+    Abstract Concepts
+      அறம் (virtue)
+      அன்பு (love)
+    Actions
+      செயல் (action)
+      உதவி (help)
+
+
+```{mermaid}
+graph TD
+    root["Tamil Words"] --> Nouns["Nouns"]
+    root --> Abstract_Concepts["Abstract_Concepts"]
+    root --> Actions["Actions"]
+    Nouns --> A["பொருள்"]
+    Nouns --> B["உலகு"]
+    Nouns --> C["உயிர்"]
+    Nouns --> D["வாழ்க்கை"]
+    Abstract_Concepts --> E["அறம்"]
+    Abstract_Concepts --> F["அன்பு"]
+    Actions --> G["செயல்"]
+    Actions --> H["உதவி"]
+ ```
+
+## Basic Verb Forms
+
+In Tamil, verbs change based on tense (past, present, future) and the subject (I, you, he, she, it, we, they). Let's look at some examples using the verb "செய்" (to do):
+
+```{mermaid}
+graph TD
+    A["செய் - to do"] --> B["Present: செய்கிறேன் - I do"]
+    A --> C["Past: செய்தேன் - I did"]
+    A --> D["Future: செய்வேன் - I will do"]
+    B --> E["செய்கிறார் - He/She does"]
+    C --> F["செய்தார் - He/She did"]
+    D --> G["செய்வார் - He/She will do"]
+```
+
+## Sentence Structures
+
+Now, let's look at some basic sentence structures using our core words and verb forms:
+
+1. Subject + Object + Verb
+   Example: நான் அறம் செய்கிறேன். (I do virtuous deeds.)
+
+2. Subject + Adverb + Verb
+   Example: அவர் அன்புடன் உதவுகிறார். (He/She helps with love.)
+
+3. Subject + Object + Time + Verb
+   Example: நாங்கள் உலகை இப்போது பாதுகாக்கிறோம். (We protect the world now.)
+
+## Practice Exercises
+
+### 1. Conjugate the Verb
+
+Conjugate the verb "காப்பாற்று" (to save/protect) for different subjects:
+
+- I protect: ____________________  
+- You protect: ____________________  
+- He/She protects: ____________________  
+- We protect: ____________________  
+- They protect: ____________________  
+
+### 2. Complete the Sentences
+
+Fill in the blanks with the correct verb form:
+
+1. நான் என் வாழ்க்கையில் அறம் ____________. (செய் - do, present tense)
+2. அவர்கள் நேற்று உதவி ____________. (செய் - do, past tense)
+3. நாங்கள் நாளை உலகைக் ____________. (காப்பாற்று - save, future tense)
+
+### 3. Translate to Tamil
+
+Translate the following sentences to Tamil:
+
+1. I will help with love.
+2. They protected life yesterday.
+3. We are doing good things now.
+
+## Sentence Pattern Visualization
+
+Let's visualize a common sentence pattern in Tamil:
+
+```{mermaid}
+sequenceDiagram
+    participant Subject
+    participant Time
+    participant Object
+    participant Verb
+    Subject->>Time: நான் (I)
+    Time->>Object: இப்போது (now)
+    Object->>Verb: அன்பை (love)
+    Verb->>Subject: காட்டுகிறேன் (show)
+    Note over Subject,Verb: நான் இப்போது அன்பை காட்டுகிறேன்<br>(I show love now)
+```
+
+## Reflection and Discussion
+
+1. How does the verb change for different subjects in Tamil?
+2. What are the challenges you face in forming Tamil sentences?
+3. Can you think of more sentences using our core words and the verb forms we learned?
+
+## Conclusion
+
+In this lesson, we explored basic Tamil verb forms and sentence structures. We practiced conjugating verbs, completing sentences, and translating simple phrases. Remember, consistent practice is key to mastering these concepts.
+
+Next lesson, we'll delve into more complex sentence structures and introduce new vocabulary related to daily life.

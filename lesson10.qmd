@@ -1,0 +1,110 @@
+---  
+title: "Let's Learn Ordered Tamil Words with English meanings!"  
+format:   
+  revealjs:  
+    theme: simple  
+    transition: slide  
+    background-transition: fade  
+    auto-animate: true  
+---  
+  
+# Lesson Plan: 186 Tamil Focus Words  
+  
+## Objective  
+By the end of this series of lessons, students will be able to recognize, understand, and use 186 key Tamil words in context.  
+  
+## Overall Structure  
+- 10 lessons, each covering a thematic group of words  
+- Each lesson is designed for a 90-minute session  
+  
+## Lesson Breakdown  
+  
+## Lesson 1: Fundamental Concepts and Basic Verbs (20 words)  
+Words: ஒன்று, செய், ஆய, உண்டு, நிற்கும், எய்தும், ஆற்றும், காய், ஆற்றல், செய்தற், தெரிந்து, அறிந்து, உடைய, நோக்கி, ஈண்டு, ஆக்கி, பேணி, ஓம்பா, விளியாது, எஞ்ஞான்றும்  
+  
+Activities:  
+1. Vocabulary introduction with visual aids  
+2. Action-based learning for verbs  
+3. Simple sentence construction  
+  
+## Lesson 2: Nouns and Objects (18 words)  
+Words: பொருள், கைப்பொருள், பயன், மரம், கனி, துப்பு, எழுத்து, சொல், புன்சொல், அகரம், மழை, வற்றல், பொன்னும், துணை, தளிர்த்தற்று, மாசு, வகை, பிற  
+  
+Activities:  
+1. Object identification game  
+2. Word categorization exercise  
+3. Descriptive sentence formation  
+  
+## Lesson 3: Human Qualities and Emotions (22 words)  
+Words: செருக்கு, அன்பு, இனிய, மடமை, சோர்வு, எவ்வம், இன்பம், இன்மை, அழுக்காறு, பண்பும், செப்பம், சீர்மை, பெருமை, அரிது, ஏமாப்பு, இளிவு, நகுப, உடையர், வேட்ட, பொய்க்காய்வு, எனைத், பிணி  
+  
+Activities:  
+1. Emotion charades  
+2. Antonym matching  
+3. Situational role-play  
+  
+## Lesson 4: People and Relationships (16 words)  
+Words: மகற்கு, பெண், தந்த, தந்தை, பார்ப்பான், மடவார்கண், பிறர், தவ்வையைக், உடையான்கண்ணே, விருந்தோம்பல், குலன், வாயினர், கண்ணோடு, மார்பு, அவனை, அல்லார்  
+  
+Activities:  
+1. Family tree creation  
+2. Relationship dialogue practice  
+3. Cultural context discussion  
+  
+## Lesson 5: Virtues and Ethics (20 words)  
+Words: அறன், அறம், ஆதிபகவன், நாடிஅருள், பூண்டார், உதவிக்கு, வேளாண்மை, காத்து, பொறை, நன்றி, ஒறுத்தார்க்கு, அஞ்சார், பயனில்லாச், ஆள்க, அஃகாமை, சான்ற, பொறுத்தார்க்குப், நல், இல்லா, அறனும்  
+  
+Activities:  
+1. Proverb matching  
+2. Ethical dilemma discussions  
+3. Story creation with moral lessons  
+  
+## Lesson 6: Knowledge and Understanding (18 words)  
+Words: அறிவு, ஓத்து, உரைப்பான், தெருளாதான், உணராப், அறிய, ஒழுக்கி, உரையாமை, ஆதல், பிறப்பு, சிதைவு, முதற்று, தீவினை, வெஃகாமை, இன்னாத, புறன், கொண்டான், பொருட்டு  
+  
+Activities:  
+1. Knowledge quiz  
+2. Concept mapping  
+3. Guided group discussions  
+  
+## Lesson 7: Life and Existence (19 words)  
+Words: வாழ்க்கை, இல்வாழ்க்கை, உயிர், இறப்பான், ஒழுக்கம், பொன்றாது, இருப்பச், இருப்பக், உளவாக, செல்லும், இந்நான்கின், உலகத்தும், குடங்கருள், தீண்டலால், நீக்கின், செலல், ஒன்றியார்கண், உழந்து, உற்றுக்  
+  
+Activities:  
+1. Life cycle diagram  
+2. Daily routine description  
+3. Philosophical debate on existence  
+  
+## Lesson 8: World and Nature (14 words)  
+Words: உலகத்துப், உலகு, வையம், வையகமும், வானகமும், பருவத்துக், தினைத்துணையாம், இயல்பினான், வறக்குமேல், மயிர, கெளவையால், களித்தானை, சூழ்ந்து, இருமை  
+  
+Activities:  
+1. Nature vocabulary pictionary  
+2. Seasons description  
+3. Environmental awareness discussion  
+  
+## Lesson 9: Abstract Concepts and States (19 words)  
+Words: ஆக்கம், செறிவு, தகை, பழி, புகழ், ஒருநாளை, எல்லாம், அனைத்து, முதல, தான், என, அது, கெடும், தீவினையார், சொல்லில், அவ்வித்துத், ஆகுலநீர, விழுமியார், இலாள்  
+  
+Activities:  
+1. Abstract word visualization  
+2. Concept explanation game  
+3. Metaphor creation exercise  
+  
+## Lesson 10: Miscellaneous and Review (20 words)  
+Words: நாணால், மேற்கொள்பவர்க்கு, செய்வினை, ஊறுபாடு, தருஉம், செறப்பட்டவர், கூறிவிடும, உலகத்துப், துப்பார்க்குத், கொளலாகும், இல், இலன், தக்கார்க்கு, காத்துத், நிற்பது, இன்றி, உடைத்தாயின், மனத்துக்கண், ஆற்றின், அடங்கப்  
+  
+Activities:  
+1. Word association game  
+2. Sentence completion exercise  
+3. Comprehensive vocabulary review quiz  
+  
+## Assessment  
+- Daily quick quizzes at the beginning of each lesson  
+- Mid-point written test after Lesson 5  
+- Final project: Create a story or essay using at least 50 of the learned words  
+  
+## Extension Activities  
+- Tamil word of the day calendar creation  
+- Vocabulary journal maintenance  
+- Peer teaching sessions

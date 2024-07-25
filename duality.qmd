@@ -1,0 +1,88 @@
+---  
+title: "Thirukkural Duality Words Summary"  
+format: html  
+---  
+  
+## Duality in Thirukkural  
+  
+The Thirukkural, a classic Tamil text, often employs dualities to convey its ethical and philosophical teachings. Below is a summary of duality words discussed:  
+  
+# Kid-Friendly Tamil Duality Words
+
+## 1. Everyday Life
+
+1. இன்பம் - துன்பம் (Inbam - Thunbam): Happiness - Sadness
+2. நல்லது - தீயது (Nallathu - Theeyathu): Good - Bad
+3. இன்சொல் - கடுஞ்சொல் (Insol - Kadunjol): Nice words - Mean words
+4. வாய்மை - பொய் (Vaaimai - Poi): Truth - Lie
+5. நட்பு - பகை (Natpu - Pagai): Friendship - Enemy
+6. மகிழ்ச்சி - சோகம் (Magizhchi - Sogam): Joy - Sorrow
+
+## 2. Nature and Time
+
+7. இருள் - ஒளி (Irul - Oli): Dark - Light
+8. இளமை - முதுமை (Ilamai - Muthumai): Young - Old
+9. தொடக்கம் - முடிவு (Thodakkam - Mudivu): Start - End
+10. முன் - பின் (Mun - Pin): Before - After
+11. அமைதி - போர் (Amaithi - Por): Peace - War
+
+## 3. Personal Qualities
+
+12. துணிவு - அச்சம் (Thunivuu - Acham): Brave - Scared
+13. அடக்கம் - செருக்கு (Adakkam - Serukku): Humble - Proud
+14. வலிமை - மெலிமை (Valimai - Melimai): Strong - Weak
+15. அறிவு - அறியாமை (Arivu - Ariyaamai): Smart - Not knowing
+
+## 4. Life Lessons
+
+16. வெற்றி - தோல்வி (Vetri - Tholvi): Win - Lose
+17. நன்றி - நன்றிகேடு (Nandri - Nandrikedu): Thankful - Ungrateful
+18. அறம் - மறம் (Aram - Maram): Right - Wrong
+19. புகழ் - பழி (Pugazh - Pazhi): Praise - Blame
+
+## 5. Opposites in Space
+
+20. அகம் - புறம் (Agam - Puram): Inside - Outside
+21. மேல் - கீழ் (Mel - Keezh): Up - Down
+22. உள் - வெளி (Ul - Veli): In - Out
+
+## 6. Big Ideas
+
+23. வாழ்வு - சாவு (Vaazhvu - Saavu): Life - Death
+24. கனவு - நனவு (Kanavu - Nanavu): Dream - Real
+25. உயர்வு - தாழ்வு (Uyarvu - Thazhvu): High - Low
+26. பெருமை - சிறுமை (Perumai - Sirumai): Big - Small
+27. நிறை - குறை (Nirai - Kurai): Full - Empty
+28. செல்வம் - வறுமை (Selvam - Varumai): Rich - Poor
+29. தெளிவு - ஐயம் (Thelivu - Aiyam): Clear - Confused
+
+These dualities in the Thirukkural often serve to illustrate moral choices, societal values, and philosophical concepts in Tamil literature. They help to convey complex ideas by presenting contrasting elements side by side.  
+  
+Duality is a fascinating concept that appears in various fields of science. Here's an overview of some key dualities in scientific domains:  
+  
+## Physics:  
+  
+Wave-particle duality (quantum mechanics)  
+Matter-energy duality (special relativity)  
+Electric-magnetic duality (electromagnetism)  
+  
+## Biology:  
+  
+Nature vs. nurture  
+Genotype vs. phenotype  
+Symbiosis vs. competition  
+  
+## Chemistry:  
+  
+Acid-base duality  
+Oxidation-reduction duality  
+  
+## Mathematics:  
+  
+Continuous vs. discrete  
+Finite vs. infinite  
+  
+## Computer Science:  
+  
+Analog vs. digital  
+Hardware vs. software  

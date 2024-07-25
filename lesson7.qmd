@@ -1,0 +1,105 @@
+---
+title: "Let's Learn Tamil Words!"
+format: 
+  revealjs:
+    theme: simple
+    transition: slide
+    background-transition: fade
+    auto-animate: true
+---
+
+# Lesson Plan: 25 Tamil Focus Words
+
+## Objective
+By the end of this lesson, students will be able to recognize, understand, and use 25 new Tamil words in context.
+
+## Materials
+- Flashcards with Tamil words and their meanings
+- Images representing each word (where possible)
+- Whiteboard and markers
+- Handouts with exercises
+
+## Lesson Structure (90 minutes)
+
+### 1. Introduction (5 minutes)
+- Explain the importance of expanding vocabulary in Tamil
+- Briefly overview the types of words we'll be learning
+
+### 2. Vocabulary Presentation (25 minutes)
+Present the words in 5 groups of 5, spending about 5 minutes on each group:
+
+## Group 1: Basic Nouns and Adjectives  
+- துப்பு (clue/evidence)  
+- மார்பு (chest)  
+- மயிர (hair)  
+- எச்சத்தால் (by the remnant)  
+- நாணால் (by shyness)  
+
+## Group 2: Verbs and Actions  
+- நீளும் (will extend)  
+- கூறிவிடும (will tell)  
+- உணராப் (not realizing)  
+- தருஉம் (will give)  
+- செய்வினை (deed done)  
+
+## Group 3: People and Characteristics  
+- வாயினர் (those with mouths)  
+- தெருளாதான் (one who does not understand)  
+- களித்தானை (the one who was intoxicated)  
+- அல்லார் (those who are not)  
+- செறப்பட்டவர் (those who were angered)  
+
+## Group 4: Abstract Concepts  
+- இயல்பினான் (by nature)  
+- பொச்சாப்பு (negligence)  
+- ஊறுபாடு (injury)  
+- கெளவையால் (by scandal)  
+- தினைத்துணையாம் (as small as millet)  
+
+## Group 5: Miscellaneous  
+- கண்ணோடு (with eye)  
+- பருவத்துக் (to the season)  
+- வறக்குமேல் (if it dries up)  
+- மேற்கொள்பவர்க்கு (for those who undertake)  
+- உடையம் (we have)  
+
+## For each word:  
+- Show the Tamil word  
+- Provide the English meaning  
+- Use the word in a simple sentence  
+- Show an image representing the word (where possible)  
+
+## 3. Practice Activities (45 minutes)
+
+a) Matching Game (15 minutes)
+- Divide the class into small groups
+- Give each group a set of cards with Tamil words and their meanings
+- Have them match the words to their meanings as quickly as possible
+
+## b) Fill in the Blanks (10 minutes)
+- Provide sentences with blanks where the new words should be used
+- Have students fill in the correct word
+
+## c) Word Association (10 minutes)
+- Say one of the new words
+- Have students quickly say the first related word that comes to mind
+
+d) Story Creation (10 minutes)
+- In pairs, have students create a short story using at least 5 of the new words
+
+## 4. Review and Reinforcement (10 minutes)
+- Go through each word again quickly
+- Ask students to provide the meaning or use it in a sentence
+
+## 5. Conclusion and Homework Assignment (5 minutes)
+- Recap the importance of these new words
+- Assign homework: Write 5 sentences using at least 10 of the new words
+
+## Assessment
+- Monitor student participation and understanding during activities
+- Review homework assignments for correct usage of new vocabulary
+
+## Extension Activities
+- Create a word wall with these 25 words
+- Have students illustrate the words and create a class vocabulary book
+- Use the words in future lessons to reinforce learning

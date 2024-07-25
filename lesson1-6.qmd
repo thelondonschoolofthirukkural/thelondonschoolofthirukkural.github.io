@@ -1,0 +1,112 @@
+---
+title: "Lesson 6: Knowledge and Understanding"
+format: 
+  revealjs:
+    theme: night
+    transition: slide
+---
+
+## Vocabulary Introduction: Knowledge and Learning
+
+::: {.columns}
+::: {.column width="50%"}
+- அறிவு (arivu) - knowledge  
+- ஓத்து (othu) - recitation/study  
+- உரைப்பான் (uraippaan) - he who speaks  
+- தெருளாதான் (therulaathaan) - one who doesn't understand  
+- உணராப் (unaraap) - not realizing  
+:::
+::: {.column width="50%"}
+- அறிய (ariya) - to know  
+- ஒழுக்கி (ozhukki) - having disciplined  
+- உரையாமை (uraiyaamai) - not speaking  
+- ஆதல் (aathal) - becoming  
+- பிறப்பு (pirappu) - birth  
+:::
+:::
+
+## More Vocabulary: Understanding and Concepts
+
+::: {.columns}
+::: {.column width="50%"}
+- சிதைவு (sithaivu) - destruction  
+- முதற்று (muthatru) - primordial  
+- தீவினை (theevinai) - evil deeds  
+- வெஃகாமை (vekhaamai) - not coveting  
+- இன்னாத (innaatha) - unpleasant  
+:::
+::: {.column width="50%"}
+- புறன் (puran) - back/outside  
+- கொண்டான் (kondaan) - he who took/accepted  
+- பொருட்டு (poruttu) - for the sake of  
+:::
+:::
+
+## Activity 1: Knowledge Quiz
+
+Create a quiz using the new vocabulary:
+
+1. _______ என்றால் என்ன? (What is the meaning of அறிவு?)  
+2. ஓத்து செய்வது எப்போது? (When do we do ஓத்து?)  
+3. தெருளாதான் யார்? (Who is a தெருளாதான்?)  
+4. வெஃகாமை என்றால் என்ன? (What is வெஃகாமை?)  
+
+::: {.notes}
+Instructor: Prepare more questions beforehand. Encourage students to answer in Tamil as much as possible. Discuss the answers and their implications for understanding Tamil culture and philosophy.  
+:::
+
+## Activity 2: Concept Mapping
+
+Create a concept map connecting the new words:
+
+1. Start with அறிவு (knowledge) in the center  
+2. Connect related words like ஓத்து, உரைப்பான், அறிய  
+3. Show opposites like தெருளாதான் and உணராப்  
+4. Discuss how concepts like பிறப்பு and சிதைவு relate to knowledge  
+
+::: {.notes}
+Instructor: Prepare a template concept map. Guide students in making logical connections between words. Discuss how these connections reflect Tamil philosophy and worldview.  
+:::
+
+## Activity 3: Guided Group Discussions
+
+Divide the class into groups and assign discussion topics:
+
+1. அறிவு பெறுவதற்கான வழிகள் (Ways to gain knowledge)  
+2. தீவினை செய்வதால் ஏற்படும் விளைவுகள் (Consequences of evil deeds)  
+3. உரையாமை-ன் முக்கியத்துவம் (The importance of not speaking/silence)  
+4. வெஃகாமை-ன் நன்மைகள் (Benefits of not coveting)  
+
+::: {.notes}
+Instructor: Provide guiding questions for each topic. Encourage students to use as many new words as possible in their discussions. Have groups present their conclusions to the class.  
+:::
+
+## Practice Time!
+
+Individually, write a short paragraph about the importance of knowledge (அறிவு) in life, using at least 6 new words from today's lesson.
+
+Example:  
+அறிவு வாழ்க்கையில் மிக முக்கியம். நாம் ஓத்து மூலம் அறிவைப் பெறலாம். தெருளாதான் உணராப் நிலையில் இருப்பான். நாம் ஒழுக்கி வாழ வேண்டும். தீவினை செய்யாமல், வெஃகாமை கடைப்பிடிக்க வேண்டும். இதன் பொருட்டு, நாம் சிறந்த வாழ்க்கை வாழலாம்.  
+
+(Knowledge is very important in life. We can gain knowledge through study. One who doesn't understand will be in a state of not realizing. We should live disciplined lives. Without doing evil deeds, we should practice not coveting. For this sake, we can live an excellent life.)  
+
+## Recap
+
+We learned:  
+1. Vocabulary related to knowledge and understanding  
+2. How these concepts interconnect in Tamil philosophy  
+3. The importance of disciplined learning and ethical behavior  
+4. How to discuss abstract concepts using new vocabulary  
+
+## Homework
+
+1. Write an essay on the topic: "அறிவின் முக்கியத்துவம்" (The Importance of Knowledge)  
+2. Create a storyline where a character transforms from தெருளாதான் to அறிவு உடையவன்  
+3. Find and explain 3 Tamil proverbs related to knowledge or understanding  
+
+## Next Lesson Preview
+
+We'll explore:  
+- Verbs associated with learning and teaching  
+- More complex philosophical concepts in Tamil literature  
+- The role of knowledge in Tamil history and culture

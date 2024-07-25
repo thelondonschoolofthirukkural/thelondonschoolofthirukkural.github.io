@@ -1,0 +1,227 @@
+---
+title: "Let's Learn Tamil Words!"
+format: 
+  revealjs:
+    theme: simple
+    transition: slide
+    background-transition: fade
+    auto-animate: true
+---
+
+## Welcome to Tamil Word Fun!
+
+Let's learn some new Tamil words together!
+
+---
+
+## Word 1: பொருள்
+
+::: {.r-stack}
+![](https://api.placeholder.com/300x300)
+
+::: {.fragment .fade-in-then-out}
+**பொருள்**
+:::
+
+::: {.fragment .fade-in-then-out}
+Means: "thing" or "object"
+:::
+
+::: {.fragment .fade-in}
+Can you think of a பொருள் (thing) in your room?
+:::
+:::
+
+---
+
+## Word 2: துப்பு
+
+::: {.r-stack}
+![](https://api.placeholder.com/300x300)
+
+::: {.fragment .fade-in-then-out}
+**துப்பு**
+:::
+
+::: {.fragment .fade-in-then-out}
+Means: "clue" or "evidence"
+:::
+
+::: {.fragment .fade-in}
+Detectives look for துப்பு (clues)!
+:::
+:::
+
+---
+
+## Word 3: மகற்கு
+
+::: {.r-stack}
+![](https://api.placeholder.com/300x300)
+
+::: {.fragment .fade-in-then-out}
+**மகற்கு**
+:::
+
+::: {.fragment .fade-in-then-out}
+Means: "to the son"
+:::
+
+::: {.fragment .fade-in}
+A gift மகற்கு (to the son) from his parents.
+:::
+:::
+
+---
+
+## Word 4: ஒன்று
+
+::: {.r-stack}
+![](https://api.placeholder.com/300x300)
+
+::: {.fragment .fade-in-then-out}
+**ஒன்று**
+:::
+
+::: {.fragment .fade-in-then-out}
+Means: "one"
+:::
+
+::: {.fragment .fade-in}
+Can you show ஒன்று (one) finger?
+:::
+:::
+
+---
+
+## Word 5: நாடிஅருள்
+
+::: {.r-stack}
+![](https://api.placeholder.com/300x300)
+
+::: {.fragment .fade-in-then-out}
+**நாடிஅருள்**
+:::
+
+::: {.fragment .fade-in-then-out}
+Means: "seek and bless"
+:::
+
+::: {.fragment .fade-in}
+When we நாடிஅருள் (seek and bless), we help others.
+:::
+:::
+
+---
+
+## Word 6: தேரினும்
+
+::: {.r-stack}
+![](https://api.placeholder.com/300x300)
+
+::: {.fragment .fade-in-then-out}
+**தேரினும்**
+:::
+
+::: {.fragment .fade-in-then-out}
+Means: "even if chosen"
+:::
+
+::: {.fragment .fade-in}
+தேரினும் (Even if chosen), be humble.
+:::
+:::
+
+---
+
+## Word 7: ஆய
+
+::: {.r-stack}
+![](https://api.placeholder.com/300x300)
+
+::: {.fragment .fade-in-then-out}
+**ஆய**
+:::
+
+::: {.fragment .fade-in-then-out}
+Means: "to become"
+:::
+
+::: {.fragment .fade-in}
+What do you want to ஆய (become) when you grow up?
+:::
+:::
+
+---
+
+## Word 8: செய்தற்
+
+::: {.r-stack}
+![](https://api.placeholder.com/300x300)
+
+::: {.fragment .fade-in-then-out}
+**செய்தற்**
+:::
+
+::: {.fragment .fade-in-then-out}
+Means: "to do"
+:::
+
+::: {.fragment .fade-in}
+What do you like to செய்தற் (do) for fun?
+:::
+:::
+
+---
+
+## Word 9: சொல்
+
+::: {.r-stack}
+![](https://api.placeholder.com/300x300)
+
+::: {.fragment .fade-in-then-out}
+**சொல்**
+:::
+
+::: {.fragment .fade-in-then-out}
+Means: "word"
+:::
+
+::: {.fragment .fade-in}
+Can you say a Tamil சொல் (word) you know?
+:::
+:::
+
+---
+
+## Word 10: செருக்கு
+
+::: {.r-stack}
+![](https://api.placeholder.com/300x300)
+
+::: {.fragment .fade-in-then-out}
+**செருக்கு**
+:::
+
+::: {.fragment .fade-in-then-out}
+Means: "pride"
+:::
+
+::: {.fragment .fade-in}
+Too much செருக்கு (pride) isn't good. Be kind!
+:::
+:::
+
+---
+
+## Great Job!
+
+You've learned 10 new Tamil words!
+
+Let's practice using them in sentences.
+
+---
+
+## Thank You!
+
+Keep practicing and have fun with Tamil!

@@ -1,0 +1,132 @@
+---
+title: "Let's Learn Ordered Tamil Words with English meanings!"
+format: 
+  revealjs:
+    theme: simple
+    transition: slide
+    background-transition: fade
+    auto-animate: true
+    smaller: true
+---
+
+# Ordered Tamil Focus Words
+
+## 1. Fundamental Concepts and Actions
+1. ஒன்று (one)
+2. செய் (do/make) [from செய்தற்]
+3. ஆய (become)
+4. உண்டு (exist/have)
+5. நிற்கும் (will stand/remain)
+6. எய்தும் (will reach/attain)
+7. செல்வத்திற்கு (for wealth)
+8. பொருள் (thing/wealth)
+9. கைப்பொருள் (property in hand)
+10. பயன் (use/benefit)
+11. பயனும் (benefit also)
+12. பயனில்லாச் (useless)
+13. பயக்கும் (will yield)
+
+## 2. Communication and Language
+14. சொல் (word)
+15. சொல்லற்க (don't say)
+16. சொல்லுக (say)
+17. சொல்லில் (in words)
+18. கூறல் (telling)
+19. உரைப்பான் (he will speak)
+20. புன்சொல் (harsh words)
+21. அகரம் (the letter 'A')
+22. எழுத்து (letter/writing)
+23. ஓத்து (sacred text/study)
+
+## 3. Human Qualities and Emotions
+24. செருக்கு (pride)
+25. அன்பு (love)
+26. அன்பும் (love also)
+27. இனிய (sweet/pleasant)
+28. மடமை (foolishness)
+29. சோர்வு (fatigue/laziness)
+30. எவ்வம் (sorrow)
+31. இன்பம் (pleasure)
+32. இன்மை (poverty/lack)
+33. அழுக்காறு (envy)
+34. பண்பும் (quality also)
+35. செப்பம் (uprightness)
+36. சீர்மை (excellence)
+37. பெருமை (greatness)
+38. அரிது (rare/difficult)
+
+## 4. People and Relationships
+39. மகற்கு (to the son)
+40. பெண் (woman)
+41. தந்த (given)
+42. தந்தை (father)
+43. பார்ப்பான் (brahmin)
+44. மடவார்கண் (in the eyes of women)
+45. பிறர் (others)
+46. தவ்வையைக் (sister)
+47. உடையான்கண்ணே (in the eyes of the wealthy)
+48. விருந்தோம்பல் (hospitality)
+
+## 5. Virtues and Ethics
+49. அறன் (virtue/dharma)
+50. அறம் (virtue/dharma)
+51. அறனும் (virtue also)
+52. ஆதிபகவன் (primordial lord)
+53. நாடிஅருள் (seek and bless)
+54. பூண்டார் (those who undertake)
+55. உதவிக்கு (for help)
+56. வேளாண்மை (service/agriculture)
+57. ஓம்பா (not protecting)
+58. பேணி (nurturing)
+59. காத்து (having protected)
+60. காத்துத் (having protected and)
+61. பொறை (patience/burden)
+62. நன்றி (gratitude)
+
+## 6. Knowledge and Understanding
+63. அறிந்து (having known)
+64. தெரிந்து (having understood)
+65. அறிவு (knowledge)
+66. துப்பு (clue/evidence/food)
+67. நோக்கி (having looked)
+68. நோக்கிப் (having looked and)
+
+## 7. Life and Existence
+69. வாழ்க்கை (life)
+70. இல்வாழ்க்கை (domestic life)
+71. உயிர் (life)
+72. பிறப்பு (birth)
+73. இறப்பான் (he will die)
+74. ஆற்றல் (ability/strength)
+75. ஒழுக்கம் (conduct)
+
+## 8. Nature and World
+76. உலகத்துப் (in the world)
+77. உலகு (world)
+78. வையம் (earth)
+79. வையகமும் (world also)
+80. வானகமும் (heaven also)
+81. மழை (rain)
+82. மரம் (tree)
+
+## 9. Abstract Concepts
+83. குலன் (lineage/family)
+84. ஆக்கம் (creation/prosperity)
+85. ஆக்கி (having created)
+86. செறிவு (density/virtue)
+87. தகை (quality/beauty)
+88. துணை (companionship/help)
+89. பழி (blame/sin)
+90. புகழ் (fame)
+
+## 10. Miscellaneous
+91. ஒருநாளை (of one day)
+92. எல்லாம் (all)
+93. அனைத்து (all)
+94. முதல (first/primary)
+95. தான் (self)
+96. தன் (one's own)
+97. என (as)
+98. அது (that)
+99. இருமை (duality/this world and next)
+100. ஈண்டு (here)

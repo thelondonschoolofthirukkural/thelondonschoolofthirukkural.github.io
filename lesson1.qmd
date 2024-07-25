@@ -1,0 +1,80 @@
+---
+title: "Interactive Tamil Lesson"
+format:
+  html:
+    code-fold: true
+    code-summary: "Show the code"
+---
+
+## Introduction to Tamil Words
+
+In this lesson, we'll explore some important Tamil words and their meanings. We'll use interactive diagrams and exercises to help you learn and remember these words.
+
+### Key Words for Today's Lesson
+
+```{mermaid}
+graph TD
+    A["பொருள் - Thing/Object"] --> B["அறம் - Virtue/Dharma"]
+    A --> C["உலகு - World"]
+    A --> D["உயிர் - Life"]
+    B --> E["அன்பு - Love"]
+    C --> F["வாழ்க்கை - Life/Lifestyle"]
+    D --> G["மனிதன் - Human"]
+```
+
+## Word Relationships
+
+Let's explore how some of these words are related to each other.
+
+```{mermaid}
+flowchart LR
+    A["அறம் - Virtue"] --> B["செயல் - Action"]
+    B --> C["பயன் - Result/Benefit"]
+    D["அன்பு - Love"] --> E["உதவி - Help"]
+    E --> C
+    F["பொறை - Patience"] --> G["மன்னிப்பு - Forgiveness"]
+    G --> C
+```
+
+## Vocabulary Exercise
+
+Match the Tamil words with their English meanings:
+
+1. பொருள்
+2. உயிர்
+3. அறம்
+4. வாழ்க்கை
+5. அன்பு
+
+- [ ] Life
+- [ ] Love
+- [ ] Thing/Object
+- [ ] Virtue/Dharma
+- [ ] Lifestyle
+
+## Sentence Construction
+
+Using the words we've learned, let's construct some simple sentences:
+
+1. _________ செய்வது நல்லது. (Doing ________ is good.)  
+Options: அறம், பொருள், உயிர்
+
+2. _________ காப்பது முக்கியம். (Protecting ________ is important.)  
+   Options: உலகு, வாழ்க்கை, உயிர்
+
+3. _________ இல்லாத வாழ்க்கை வீண். (Life without ________ is worthless.)  
+   Options: அன்பு, பொருள், அறம்
+
+## Reflection
+
+Think about these questions and discuss with your classmates:
+
+1. உங்கள் வாழ்க்கையில் எந்த அறம் மிக முக்கியமானது? (Which virtue is most important in your life?)
+2. உலகை எப்படி பாதுகாக்கலாம்? (How can we protect the world?)
+3. அன்பு எப்படி உதவி செய்கிறது? (How does love help?)
+
+## Conclusion
+
+In this lesson, we explored some fundamental Tamil words and their relationships. Remember, language learning is a journey, and practice is key to mastery.
+
+Next lesson, we'll dive deeper into verb forms and sentence structures using these core words.

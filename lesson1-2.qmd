@@ -1,0 +1,107 @@
+---
+title: "Lesson 2: Nouns and Objects"
+format: 
+  revealjs:
+    theme: night
+    transition: slide
+---
+
+## Vocabulary Introduction
+
+::: {.columns}
+::: {.column width="50%"}
+- பொருள் (porul) - thing/object
+- கைப்பொருள் (kaiporul) - handheld object
+- பயன் (payan) - use/benefit
+- மரம் (maram) - tree
+- துப்பு (thuppu) - clue/lead
+- எழுத்து (ezhuthu) - letter/writing
+:::
+::: {.column width="50%"}
+- சொல் (sol) - word
+- புன்சொல் (punsol) - trivial word
+- அகரம் (agaram) - alphabet
+- மழை (mazhai) - rain
+- வற்றல் (vatral) - dried item
+- கனி (kani) - fruit
+:::
+:::
+
+## More Vocabulary
+
+::: {.columns}
+::: {.column width="50%"}
+- பொன்னும் (ponnum) - gold (and)
+- துணை (thunai) - companion/support
+- தளிர்த்தற்று (thalirthatru) - sprouted
+:::
+::: {.column width="50%"}
+- மாசு (maasu) - dirt/impurity
+- வகை (vagai) - type/kind
+- பிற (pira) - other
+:::
+:::
+
+## Activity 1: Object Identification Game
+
+1. Prepare cards with pictures or actual objects representing the words
+2. Students take turns picking a card/object and saying the Tamil word
+3. For abstract concepts, use creative representations
+
+::: {.notes}
+Instructor: Prepare cards or objects beforehand. Encourage students to form simple sentences using the words they identify.
+:::
+
+## Activity 2: Word Categorization Exercise
+
+Group the words into categories:
+
+1. Nature: மரம், மழை, கனி
+2. Language: எழுத்து, சொல், புன்சொல், அகரம்
+3. Abstract concepts: பொருள், பயன், துப்பு
+4. Descriptive: வற்றல், தளிர்த்தற்று, மாசு
+
+::: {.notes}
+Instructor: Discuss why each word belongs to its category. Encourage students to think of additional words for each category.
+:::
+
+## Activity 3: Descriptive Sentence Formation
+
+Create sentences using multiple words from the lesson:
+
+1. மரம் கனி தளிர்த்தற்று (The tree sprouted fruit)
+2. மழை பொருள் மாசு (Rain thing dirt)
+3. எழுத்து சொல் அகரம் (Letter word alphabet)
+
+::: {.notes}
+Instructor: Help students understand the basic sentence structure. Encourage them to create their own sentences and share with the class.
+:::
+
+## Practice Time!
+
+In pairs, create a short story using at least 5 words from today's lesson.
+
+Example:
+மரம் கனி தளிர்த்தற்று. மழை வந்தது. கனி வற்றல் ஆனது.
+(The tree sprouted fruit. Rain came. The fruit became dried.)
+
+## Recap
+
+We learned:  
+1. Nouns related to objects and nature  
+2. Abstract concepts  
+3. Words related to language  
+4. Basic sentence formation with nouns  
+
+## Homework
+
+1. Write 10 sentences using today's vocabulary
+2. Draw and label 5 objects from the lesson
+3. Find 3 new words that could fit into our categories
+
+## Next Lesson Preview
+
+We'll explore:  
+- Adjectives to describe these nouns  
+- Verb conjugations  
+- More complex sentence structures  
