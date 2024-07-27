@@ -319,6 +319,67 @@
       margin-right: 0; 
     }
   </style>
+  <style>
+  audio {
+  width: 150px; /* Adjust this value to change the width */
+  height: 40px; /* Adjust this value to change the height */
+  display: inline-block;
+  vertical-align: middle;
+  }
+  </style>
+  <script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+  let currentAudio = null;
+
+  document.querySelectorAll('audio').forEach(audio => {
+  audio.autoplay = false;
+  audio.controls = true; // Make controls visible
+  });
+
+  document.addEventListener('keydown', (event) => {
+  if (event.code === 'Space') {
+  event.preventDefault(); // Prevent space from scrolling the page
+  toggleAudioPlayPause();
+  } else if (event.code === 'KeyR') {
+  resetAudio();
+  }
+  });
+
+  function toggleAudioPlayPause() {
+  const currentSlide = Reveal.getCurrentSlide();
+  const audio = currentSlide.querySelector('audio');
+  if (audio) {
+  if (audio.paused) {
+  if (currentAudio && currentAudio !== audio) {
+  currentAudio.pause();
+  currentAudio.currentTime = 0;
+  }
+  audio.play();
+  currentAudio = audio;
+  } else {
+  audio.pause();
+  }
+  }
+  }
+
+  function resetAudio() {
+  const currentSlide = Reveal.getCurrentSlide();
+  const audio = currentSlide.querySelector('audio');
+  if (audio) {
+  audio.pause();
+  audio.currentTime = 0;
+  }
+  }
+
+  Reveal.on('slidechanged', event => {
+  if (currentAudio) {
+  currentAudio.pause();
+  currentAudio.currentTime = 0;
+  }
+  currentAudio = null;
+  });
+  });
+  </script>
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -331,24 +392,67 @@
 </div>
 
 </section>
-<section>
-<section id="thirukkural-1-5" class="title-slide slide level1 center">
-<h1>Thirukkural 1-5</h1>
+<section id="எழததலலம-ஆத" class="slide level2">
+<h2>எழுத்தெல்லாம் ஆதி</h2>
 <ol type="1">
 <li>அகர முதல எழுத்தெல்லாம் ஆதி<br>
-பகவன் முதற்றே உலகு. ⁠1 (கடவுள் வாழ்த்து)<br>
-</li>
+பகவன் முதற்றே உலகு. ⁠1 (கடவுள் வாழ்த்து)</li>
+</ol>
+<p><audio data-src="https://www.valaitamil.com/upload/kural_audio/1.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/1.mp3">Audio</a></audio></p>
+</section>
+<section id="மழ" class="slide level2">
+<h2>மழை</h2>
+<ol start="2" type="1">
 <li>துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்<br>
-துப்பாய தூஉம் மழை. ⁠12 (வான்சிறப்பு)<br>
-</li>
+துப்பாய தூஉம் மழை. ⁠12 (வான்சிறப்பு)</li>
+</ol>
+<p><audio data-src="https://www.valaitamil.com/upload/kural_audio/12.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/12.mp3">Audio</a></audio></p>
+</section>
+<section id="அறம-பணடர" class="slide level2">
+<h2>அறம் பூண்டார்</h2>
+<ol start="3" type="1">
 <li>இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்<br>
-பெருமை பிறங்கிற்று உலகு. ⁠23 (நீத்தார் பெருமை)<br>
-</li>
+பெருமை பிறங்கிற்று உலகு. ⁠23 (நீத்தார் பெருமை)</li>
+</ol>
+<p><audio data-src="https://www.valaitamil.com/upload/kural_audio/23.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/23.mp3">Audio</a></audio></p>
+</section>
+<section id="மனததககண-மசலன" class="slide level2">
+<h2>மனத்துக்கண் மாசிலன்</h2>
+<ol start="4" type="1">
 <li>மனத்துக்கண் மாசிலன் ஆதல் அனைத்துஅறன்<br>
-ஆகுல நீர பிற. ⁠34 (அறன்வலியுறுத்தல்)<br>
-</li>
+ஆகுல நீர பிற. ⁠34 (அறன்வலியுறுத்தல்)</li>
+</ol>
+<p><audio data-src="https://www.valaitamil.com/upload/kural_audio/34.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/34.mp3">Audio</a></audio></p>
+</section>
+<section id="அனபம-அறனம" class="slide level2">
+<h2>அன்பும் அறனும்</h2>
+<ol start="5" type="1">
 <li>அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை<br>
 பண்பும் பயனும் அது. ⁠45 (இல்வாழ்க்கை)</li>
+</ol>
+<p><audio data-src="https://www.valaitamil.com/upload/kural_audio/45.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/45.mp3">Audio</a></audio></p>
+</section>
+<section id="links" class="slide level2">
+<h2>Links</h2>
+<p><a href="thirukkural_kurals_1_to_5.html#/ezhuttu">எழுத்து</a> <a href="thirukkural_kurals_1_to_5.html#/ellaam">எல்லாம்</a> <a href="thirukkural_kurals_1_to_5.html#/aadhi">ஆதி</a></p>
+<p><a href="thirukkural_kurals_1_to_5.html#/mazhai">மழை</a></p>
+<p><a href="thirukkural_kurals_1_to_5.html#/aram">அறம்</a> <a href="thirukkural_kurals_1_to_5.html#/poondaar">பூண்டார்</a></p>
+<p><a href="thirukkural_kurals_1_to_5.html#/manathukkan">மனத்துக்கண்</a> <a href="thirukkural_kurals_1_to_5.html#/maasu">மாசிலன்</a></p>
+<p><a href="thirukkural_kurals_1_to_5.html#/anbum">அன்பும்</a> <a href="thirukkural_kurals_1_to_5.html#/aranum">அறனும்</a></p>
+</section>
+<section id="kurals-with-links" class="slide level2">
+<h2>Kurals with Links</h2>
+<ol type="1">
+<li><p><a href="thirukkural_kurals_1_to_5.html#/akaram">அகர</a> <a href="thirukkural_kurals_1_to_5.html#/mudhala">முதல</a> <a href="thirukkural_kurals_1_to_5.html#/ezhuttu">எழுத்தெல்லாம்</a> <a href="thirukkural_kurals_1_to_5.html#/aadhi">ஆதி</a><br>
+<a href="thirukkural_kurals_1_to_5.html#/bhagavan">பகவன்</a> <a href="thirukkural_kurals_1_to_5.html#/muthatru">முதற்றே</a> <a href="thirukkural_kurals_1_to_5.html#/ulaku">உலகு</a>. ⁠1 (கடவுள் வாழ்த்து) <audio data-src="https://www.valaitamil.com/upload/kural_audio/1.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/1.mp3">Audio</a></audio></p></li>
+<li><p><a href="thirukkural_kurals_1_to_5.html#/thuppaarkkuth">துப்பார்க்குத்</a> <a href="thirukkural_kurals_1_to_5.html#/thuppu">துப்பாய</a> <a href="thirukkural_kurals_1_to_5.html#/thuppu">துப்பாக்கித்</a> <a href="thirukkural_kurals_1_to_5.html#/thuppaarkkuth">துப்பார்க்குத்</a><br>
+<a href="thirukkural_kurals_1_to_5.html#/thuppu">துப்பாய</a> <a href="thirukkural_kurals_1_to_5.html#/aayadhooum">தூஉம்</a> <a href="thirukkural_kurals_1_to_5.html#/mazhai">மழை</a>. ⁠12 (வான்சிறப்பு) <audio data-src="https://www.valaitamil.com/upload/kural_audio/12.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/12.mp3">Audio</a></audio></p></li>
+<li><p><a href="thirukkural_kurals_1_to_5.html#/irumai">இருமை</a> <a href="thirukkural_kurals_1_to_5.html#/vagai">வகை</a> <a href="thirukkural_kurals_1_to_5.html#/therindhu">தெரிந்து</a> <a href="thirukkural_kurals_1_to_5.html#/eendu">ஈண்டு</a> <a href="thirukkural_kurals_1_to_5.html#/aram">அறம்</a> <a href="thirukkural_kurals_1_to_5.html#/poondaar">பூண்டார்</a><br>
+<a href="thirukkural_kurals_1_to_5.html#/perumai">பெருமை</a> <a href="thirukkural_kurals_1_to_5.html#/pirangittru">பிறங்கிற்று</a> <a href="thirukkural_kurals_1_to_5.html#/ulaku">உலகு</a>. ⁠23 (நீத்தார் பெருமை) <audio data-src="https://www.valaitamil.com/upload/kural_audio/23.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/23.mp3">Audio</a></audio></p></li>
+<li><p><a href="thirukkural_kurals_1_to_5.html#/manathukkan">மனத்துக்கண்</a> <a href="thirukkural_kurals_1_to_5.html#/maasu">மாசு</a> <a href="thirukkural_kurals_1_to_5.html#/ilan">இலன்</a> <a href="thirukkural_kurals_1_to_5.html#/aadhal">ஆதல்</a> <a href="thirukkural_kurals_1_to_5.html#/anaithu">அனைத்து</a> <a href="thirukkural_kurals_1_to_5.html#/aran">அறன்</a><br>
+<a href="thirukkural_kurals_1_to_5.html#/aagulaneer">ஆகுல</a> <a href="thirukkural_kurals_1_to_5.html#/aagulaneer">நீர</a> <a href="thirukkural_kurals_1_to_5.html#/pira">பிற</a>. ⁠34 (அறன்வலியுறுத்தல்) <audio data-src="https://www.valaitamil.com/upload/kural_audio/34.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/34.mp3">Audio</a></audio></p></li>
+<li><p><a href="thirukkural_kurals_1_to_5.html#/anbum">அன்பும்</a> <a href="thirukkural_kurals_1_to_5.html#/aranum">அறனும்</a> <a href="thirukkural_kurals_1_to_5.html#/udaitthayin">உடைத்தாயின்</a> <a href="thirukkural_kurals_1_to_5.html#/ilvaazhkkai">இல்வாழ்க்கை</a><br>
+<a href="thirukkural_kurals_1_to_5.html#/panbum">பண்பும்</a> <a href="thirukkural_kurals_1_to_5.html#/payanum">பயனும்</a> <a href="thirukkural_kurals_1_to_5.html#/athu">அது</a>. ⁠45 (இல்வாழ்க்கை) <audio data-src="https://www.valaitamil.com/upload/kural_audio/45.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/45.mp3">Audio</a></audio></p></li>
 </ol>
 </section>
 <section id="introduction" class="slide level2">
@@ -358,31 +462,31 @@
 <div class="fragment">
 <ol type="1">
 <li class="fragment">அகர முதல எழுத்தெல்லாம் ஆதி<br>
-பகவன் முதற்றே உலகு. ⁠1 (கடவுள் வாழ்த்து)</li>
+பகவன் முதற்றே உலகு. ⁠1 (கடவுள் வாழ்த்து) <audio src="https://www.valaitamil.com/upload/kural_audio/1.mp3"></audio></li>
 </ol>
 </div>
 <div class="fragment">
 <ol start="2" type="1">
 <li class="fragment">துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்<br>
-துப்பாய தூஉம் மழை. ⁠12 (வான்சிறப்பு)</li>
+துப்பாய தூஉம் மழை. ⁠12 (வான்சிறப்பு) <audio src="https://www.valaitamil.com/upload/kural_audio/12.mp3"></audio></li>
 </ol>
 </div>
 <div class="fragment">
 <ol start="3" type="1">
 <li class="fragment">இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்<br>
-பெருமை பிறங்கிற்று உலகு. ⁠23 (நீத்தார் பெருமை)</li>
+பெருமை பிறங்கிற்று உலகு. ⁠23 (நீத்தார் பெருமை) <audio src="https://www.valaitamil.com/upload/kural_audio/23.mp3"></audio></li>
 </ol>
 </div>
 <div class="fragment">
 <ol start="4" type="1">
 <li class="fragment">மனத்துக்கண் மாசிலன் ஆதல் அனைத்துஅறன்<br>
-ஆகுல நீர பிற. ⁠34 (அறன்வலியுறுத்தல்)</li>
+ஆகுல நீர பிற. ⁠34 (அறன்வலியுறுத்தல்) <audio src="https://www.valaitamil.com/upload/kural_audio/34.mp3"></audio></li>
 </ol>
 </div>
 <div class="fragment">
 <ol start="5" type="1">
 <li class="fragment">அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை<br>
-பண்பும் பயனும் அது. ⁠45 (இல்வாழ்க்கை)</li>
+பண்பும் பயனும் அது. ⁠45 (இல்வாழ்க்கை) <audio src="https://www.valaitamil.com/upload/kural_audio/45.mp3"></audio></li>
 </ol>
 </div>
 </div>
@@ -400,8 +504,16 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அகரம-akaram" class="slide level2">
-<h2>Word Study: அகரம் (Akaram)</h2>
+<section id="kural1" class="slide level2">
+<h2>kural1</h2>
+<ol type="1">
+<li><a href="thirukkural_kurals_1_to_5.html#/akaram">அகர</a> <a href="thirukkural_kurals_1_to_5.html#/mudhala">முதல</a> <a href="thirukkural_kurals_1_to_5.html#/ezhuttu">எழுத்தெல்லாம்</a> <a href="thirukkural_kurals_1_to_5.html#/aadhi">ஆதி</a><br>
+<a href="thirukkural_kurals_1_to_5.html#/bhagavan">பகவன்</a> <a href="thirukkural_kurals_1_to_5.html#/muthatru">முதற்றே</a> <a href="thirukkural_kurals_1_to_5.html#/ulaku">உலகு</a>. ⁠1 (கடவுள் வாழ்த்து) <audio data-src="https://www.valaitamil.com/upload/kural_audio/1.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/1.mp3">Audio</a></audio></li>
+</ol>
+</section>
+<section id="akaram" class="slide level2">
+<h2>Akaram</h2>
+<p><strong>அகரம்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> The letter A</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -410,7 +522,7 @@
 </ul>
 <h3 id="usage-examples">Usage Examples:</h3>
 <ul>
-<li>எழுத்து எல்லாம் அகரம் முதல (Kural 1)</li>
+<li>எழுத்து எல்லாம் அகரம் முதல <a href="thirukkural_kurals_1_to_5.html#/kural1">(Kural 1)</a></li>
 </ul>
 <h3 id="exercises">Exercises:</h3>
 <ol type="1">
@@ -432,8 +544,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-மதல-mudhala" class="slide level2">
-<h2>Word Study: முதல (Mudhala)</h2>
+<section id="mudhala" class="slide level2">
+<h2>Mudhala</h2>
+<p><strong>முதல</strong></p>
 <ul>
 <li><strong>Meaning:</strong> First</li>
 <li><strong>Part of Speech:</strong> Adjective</li>
@@ -442,7 +555,7 @@
 </ul>
 <h3 id="usage-examples-1">Usage Examples:</h3>
 <ul>
-<li>எழுத்து எல்லாம் அகரம் முதல (Kural 1)</li>
+<li>எழுத்து எல்லாம் அகரம் முதல <a href="thirukkural_kurals_1_to_5.html#/kural1">(Kural 1)</a></li>
 <li>முதல் இலார்க்கு ஊதியம் இல்லை (Kural 449)</li>
 <li>ஆக்கம் கருதி முதல் இழக்கும் செய்வினை (Kural 463)</li>
 <li>முதலை நெடும்புனலுள் (பிற) வெல்லும் (Kural 495)</li>
@@ -468,8 +581,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-எழதத-ezhuttu" class="slide level2">
-<h2>Word Study: எழுத்து (Ezhuttu)</h2>
+<section id="ezhuttu" class="slide level2">
+<h2>Ezhuttu</h2>
+<p><strong>எழுத்து</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Letter</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -478,7 +592,7 @@
 </ul>
 <h3 id="usage-examples-2">Usage Examples:</h3>
 <ul>
-<li>எழுத்து எல்லாம் அகரம் முதல (Kural 1)</li>
+<li>எழுத்து எல்லாம் அகரம் முதல <a href="thirukkural_kurals_1_to_5.html#/kural1">(Kural 1)</a></li>
 <li>எண் என்ப ஏனை எழுத்து என்ப இவ்விரண்டும் (Kural 392)</li>
 </ul>
 <h3 id="exercises-2">Exercises:</h3>
@@ -501,8 +615,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-எலலம-ellaam" class="slide level2">
-<h2>Word Study: எல்லாம் (Ellaam)</h2>
+<section id="ellaam" class="slide level2">
+<h2>Ellaam</h2>
+<p><strong>எல்லாம்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> All</li>
 <li><strong>Part of Speech:</strong> Pronoun</li>
@@ -511,7 +626,7 @@
 </ul>
 <h3 id="usage-examples-3">Usage Examples:</h3>
 <ul>
-<li>எழுத்து எல்லாம் அகரம் முதல (Kural 1)</li>
+<li>எழுத்து எல்லாம் அகரம் முதல <a href="thirukkural_kurals_1_to_5.html#/kural1">(Kural 1)</a></li>
 <li>எல்லாம் மழை (Kural 15)</li>
 <li>அறவினை ஓவாதே செல்லும்வாய் எல்லாம் செயல் (Kural 33)</li>
 <li>மற்று எல்லாம் புறத்த (Kural 39)</li>
@@ -537,8 +652,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஆத-aadhi" class="slide level2">
-<h2>Word Study: ஆதி (Aadhi)</h2>
+<section id="aadhi" class="slide level2">
+<h2>Aadhi</h2>
+<p><strong>ஆதி</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Beginning</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -547,7 +663,7 @@
 </ul>
 <h3 id="usage-examples-4">Usage Examples:</h3>
 <ul>
-<li>உலகு ஆதிபகவன் முதற்று (Kural 1)</li>
+<li>உலகு ஆதிபகவன் முதற்று <a href="thirukkural_kurals_1_to_5.html#/kural1">(Kural 1)</a></li>
 <li>அந்தணர் நூற்கும் அறத்திற்கும் ஆதியாய் நின்றது (Kural 543)</li>
 </ul>
 <h3 id="exercises-4">Exercises:</h3>
@@ -570,8 +686,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-உலக-ulaku" class="slide level2">
-<h2>Word Study: உலகு (Ulaku)</h2>
+<section id="ulaku" class="slide level2">
+<h2>Ulaku</h2>
+<p><strong>உலகு</strong></p>
 <ul>
 <li><strong>Meaning:</strong> World</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -580,9 +697,9 @@
 </ul>
 <h3 id="usage-examples-5">Usage Examples:</h3>
 <ul>
-<li>உலகு ஆதிபகவன் முதற்று (Kural 1)</li>
+<li>உலகு ஆதிபகவன் முதற்று <a href="thirukkural_kurals_1_to_5.html#/kural1">(Kural 1)</a></li>
 <li>யார் யார்க்கும் நீர் இன்று உலகு அமையாது எனின் (Kural 20)</li>
-<li>உலகு பிறங்கிற்று (Kural 23)</li>
+<li>உலகு பிறங்கிற்று <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 <li>தெரிவான்கட்டே உலகு (Kural 27)</li>
 <li>புத்தேளிர் வாழும் உலகு பெருஞ்சிறப்புப் பெறுவர் (Kural 58)</li>
 </ul>
@@ -606,8 +723,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பகவன-bhagavan" class="slide level2">
-<h2>Word Study: பகவன் (Bhagavan)</h2>
+<section id="bhagavan" class="slide level2">
+<h2>Bhagavan</h2>
+<p><strong>பகவன்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Who transcends speech and mind</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -616,7 +734,7 @@
 </ul>
 <h3 id="usage-examples-6">Usage Examples:</h3>
 <ul>
-<li>உலகு ஆதிபகவன் முதற்று (Kural 1)</li>
+<li>உலகு ஆதிபகவன் முதற்று <a href="thirukkural_kurals_1_to_5.html#/kural1">(Kural 1)</a></li>
 </ul>
 <h3 id="exercises-6">Exercises:</h3>
 <ol type="1">
@@ -638,8 +756,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-மதறற-muthatru" class="slide level2">
-<h2>Word Study: முதற்று (Muthatru)</h2>
+<section id="muthatru" class="slide level2">
+<h2>Muthatru</h2>
+<p><strong>முதற்று</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Primary source</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -648,7 +767,7 @@
 </ul>
 <h3 id="usage-examples-7">Usage Examples:</h3>
 <ul>
-<li>உலகு ஆதிபகவன் முதற்று (Kural 1)</li>
+<li>உலகு ஆதிபகவன் முதற்று <a href="thirukkural_kurals_1_to_5.html#/kural1">(Kural 1)</a></li>
 </ul>
 <h3 id="exercises-7">Exercises:</h3>
 <ol type="1">
@@ -670,8 +789,16 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தபபரககத-thuppaarkkuth" class="slide level2">
-<h2>Word Study: துப்பார்க்குத் (Thuppaarkkuth)</h2>
+<section id="kural12" class="slide level2">
+<h2>kural12</h2>
+<ol start="2" type="1">
+<li><a href="thirukkural_kurals_1_to_5.html#/thuppaarkkuth">துப்பார்க்குத்</a> <a href="thirukkural_kurals_1_to_5.html#/thuppu">துப்பாய</a> <a href="thirukkural_kurals_1_to_5.html#/thuppu">துப்பாக்கித்</a> <a href="thirukkural_kurals_1_to_5.html#/thuppaarkkuth">துப்பார்க்குத்</a><br>
+<a href="thirukkural_kurals_1_to_5.html#/thuppu">துப்பாய</a> <a href="thirukkural_kurals_1_to_5.html#/aayadhooum">தூஉம்</a> <a href="thirukkural_kurals_1_to_5.html#/mazhai">மழை</a>. ⁠12 (வான்சிறப்பு) <audio data-src="https://www.valaitamil.com/upload/kural_audio/12.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/12.mp3">Audio</a></audio></li>
+</ol>
+</section>
+<section id="thuppaarkkuth" class="slide level2">
+<h2>Thuppaarkkuth</h2>
+<p><strong>துப்பார்க்குத்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> For those who eat</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -680,8 +807,8 @@
 </ul>
 <h3 id="usage-examples-8">Usage Examples:</h3>
 <ul>
-<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)</li>
-<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)</li>
+<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
+<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
 </ul>
 <h3 id="exercises-8">Exercises:</h3>
 <ol type="1">
@@ -703,8 +830,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தபப-thuppu" class="slide level2">
-<h2>Word Study: துப்பு (Thuppu)</h2>
+<section id="thuppu" class="slide level2">
+<h2>Thuppu</h2>
+<p><strong>துப்பு</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Food</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -713,7 +841,7 @@
 </ul>
 <h3 id="usage-examples-9">Usage Examples:</h3>
 <ul>
-<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)</li>
+<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
 <li>துன்பத்தின் துப்பு ஆயார் நட்புத் துறவற்க (Kural 106)</li>
 <li>துறந்தார்க்குத் துப்புரவு வேண்டித் தவம் மறந்தார்கொல் (Kural 263)</li>
 <li>துப்புரவு இல்லார் துறப்பார் (Kural 378)</li>
@@ -739,8 +867,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஆய-aaya" class="slide level2">
-<h2>Word Study: ஆய (Aaya)</h2>
+<section id="aaya" class="slide level2">
+<h2>Aaya</h2>
+<p><strong>ஆய</strong></p>
 <ul>
 <li><strong>Meaning:</strong> To become</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -750,7 +879,7 @@
 <h3 id="usage-examples-10">Usage Examples:</h3>
 <ul>
 <li>கற்றதனால் ஆய பயன் என் (Kural 2)</li>
-<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)</li>
+<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
 <li>வாழ்க்கை எனைமாட்சித்து ஆயினும் இல் (Kural 52)</li>
 <li>துன்பத்தின் துப்பு ஆயார் நட்புத் துறவற்க (Kural 106)</li>
 <li>எனைத்துணையர் ஆயினும் என்னாம் (Kural 144)</li>
@@ -775,8 +904,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தபப-thuppu-1" class="slide level2">
-<h2>Word Study: துப்பு (Thuppu)</h2>
+<section id="thuppu-1" class="slide level2">
+<h2>Thuppu</h2>
+<p><strong>துப்பு</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Food</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -785,7 +915,7 @@
 </ul>
 <h3 id="usage-examples-11">Usage Examples:</h3>
 <ul>
-<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)</li>
+<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
 <li>துன்பத்தின் துப்பு ஆயார் நட்புத் துறவற்க (Kural 106)</li>
 <li>துறந்தார்க்குத் துப்புரவு வேண்டித் தவம் மறந்தார்கொல் (Kural 263)</li>
 <li>துப்புரவு இல்லார் துறப்பார் (Kural 378)</li>
@@ -811,8 +941,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஆகக-aakki" class="slide level2">
-<h2>Word Study: ஆக்கி (Aakki)</h2>
+<section id="aakki" class="slide level2">
+<h2>Aakki</h2>
+<p><strong>ஆக்கி</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Making</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -821,7 +952,7 @@
 </ul>
 <h3 id="usage-examples-12">Usage Examples:</h3>
 <ul>
-<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)</li>
+<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
 <li>வினையான் வினை ஆக்கிக்கோடல் (Kural 678)</li>
 <li>தான் பிறந்த இல்லாண்மை ஆக்கிக் கொளல் (Kural 1026)</li>
 </ul>
@@ -845,8 +976,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தபபரககத-thuppaarkkuth-1" class="slide level2">
-<h2>Word Study: துப்பார்க்குத் (Thuppaarkkuth)</h2>
+<section id="thuppaarkkuth-1" class="slide level2">
+<h2>Thuppaarkkuth</h2>
+<p><strong>துப்பார்க்குத்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> For those who eat</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -855,8 +987,8 @@
 </ul>
 <h3 id="usage-examples-13">Usage Examples:</h3>
 <ul>
-<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)</li>
-<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)</li>
+<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
+<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
 </ul>
 <h3 id="exercises-13">Exercises:</h3>
 <ol type="1">
@@ -878,8 +1010,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தபப-thuppu-2" class="slide level2">
-<h2>Word Study: துப்பு (Thuppu)</h2>
+<section id="thuppu-2" class="slide level2">
+<h2>Thuppu</h2>
+<p><strong>துப்பு</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Food</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -888,7 +1021,7 @@
 </ul>
 <h3 id="usage-examples-14">Usage Examples:</h3>
 <ul>
-<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி (Kural 12)</li>
+<li>துப்பார்க்குத் துப்பு ஆய துப்பு ஆக்கி <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
 <li>துன்பத்தின் துப்பு ஆயார் நட்புத் துறவற்க (Kural 106)</li>
 <li>துறந்தார்க்குத் துப்புரவு வேண்டித் தவம் மறந்தார்கொல் (Kural 263)</li>
 <li>துப்புரவு இல்லார் துறப்பார் (Kural 378)</li>
@@ -914,8 +1047,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஆயதஉம-aayadhooum" class="slide level2">
-<h2>Word Study: ஆயதூஉம் (Aayadhooum)</h2>
+<section id="aayadhooum" class="slide level2">
+<h2>Aayadhooum</h2>
+<p><strong>ஆயதூஉம்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> That which is</li>
 <li><strong>Part of Speech:</strong> Adjective</li>
@@ -924,7 +1058,7 @@
 </ul>
 <h3 id="usage-examples-15">Usage Examples:</h3>
 <ul>
-<li>துப்பார்க்குத் துப்பு ஆயதூஉம் மழை (Kural 12)</li>
+<li>துப்பார்க்குத் துப்பு ஆயதூஉம் மழை <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
 </ul>
 <h3 id="exercises-15">Exercises:</h3>
 <ol type="1">
@@ -946,8 +1080,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-மழ-mazhai" class="slide level2">
-<h2>Word Study: மழை (Mazhai)</h2>
+<section id="mazhai" class="slide level2">
+<h2>Mazhai</h2>
+<p><strong>மழை</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Rain</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -956,7 +1091,7 @@
 </ul>
 <h3 id="usage-examples-16">Usage Examples:</h3>
 <ul>
-<li>துப்பார்க்குத் துப்பு ஆயதூஉம் மழை (Kural 12)</li>
+<li>துப்பார்க்குத் துப்பு ஆயதூஉம் மழை <a href="thirukkural_kurals_1_to_5.html#/kural12">(Kural 12)</a></li>
 <li>எல்லாம் மழை (Kural 15)</li>
 <li>பெய் எனப் பெய்யும் மழை (Kural 55)</li>
 <li>பேதை பெருமழைக்கண் பசப்புற்ற (Kural 1239)</li>
@@ -981,8 +1116,16 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-இரம-irumai" class="slide level2">
-<h2>Word Study: இருமை (Irumai)</h2>
+<section id="kural23" class="slide level2">
+<h2>kural23</h2>
+<ol start="3" type="1">
+<li><a href="thirukkural_kurals_1_to_5.html#/irumai">இருமை</a> <a href="thirukkural_kurals_1_to_5.html#/vagai">வகை</a> <a href="thirukkural_kurals_1_to_5.html#/therindhu">தெரிந்து</a> <a href="thirukkural_kurals_1_to_5.html#/eendu">ஈண்டு</a> <a href="thirukkural_kurals_1_to_5.html#/aram">அறம்</a> <a href="thirukkural_kurals_1_to_5.html#/poondaar">பூண்டார்</a><br>
+<a href="thirukkural_kurals_1_to_5.html#/perumai">பெருமை</a> <a href="thirukkural_kurals_1_to_5.html#/pirangittru">பிறங்கிற்று</a> <a href="thirukkural_kurals_1_to_5.html#/ulaku">உலகு</a>. ⁠23 (நீத்தார் பெருமை) <audio data-src="https://www.valaitamil.com/upload/kural_audio/23.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/23.mp3">Audio</a></audio></li>
+</ol>
+</section>
+<section id="irumai" class="slide level2">
+<h2>Irumai</h2>
+<p><strong>இருமை</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Duality</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -991,7 +1134,7 @@
 </ul>
 <h3 id="usage-examples-17">Usage Examples:</h3>
 <ul>
-<li>இருமை வகை தெரிந்து (Kural 23)</li>
+<li>இருமை வகை தெரிந்து <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 </ul>
 <h3 id="exercises-17">Exercises:</h3>
 <ol type="1">
@@ -1013,8 +1156,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-வக-vagai" class="slide level2">
-<h2>Word Study: வகை (Vagai)</h2>
+<section id="vagai" class="slide level2">
+<h2>Vagai</h2>
+<p><strong>வகை</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Type</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1023,7 +1167,7 @@
 </ul>
 <h3 id="usage-examples-18">Usage Examples:</h3>
 <ul>
-<li>இருமை வகை தெரிந்து (Kural 23)</li>
+<li>இருமை வகை தெரிந்து <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 <li>சுவை ஒளி ஊறு ஓசை நாற்றம் என்ற ஐந்தின் வகை (Kural 27)</li>
 <li>ஒல்லும் வகையான் (Kural 33)</li>
 <li>நகையும் உவகையம் கொல்லும் சினத்தின (Kural 304)</li>
@@ -1049,8 +1193,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தரநத-therindhu" class="slide level2">
-<h2>Word Study: தெரிந்து (Therindhu)</h2>
+<section id="therindhu" class="slide level2">
+<h2>Therindhu</h2>
+<p><strong>தெரிந்து</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Knowing</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1059,7 +1204,7 @@
 </ul>
 <h3 id="usage-examples-19">Usage Examples:</h3>
 <ul>
-<li>இருமை வகை தெரிந்து (Kural 23)</li>
+<li>இருமை வகை தெரிந்து <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 <li>தன் பழியுள்ளும் திறன் தெரிந்து கூறப்படும் (Kural 186)</li>
 <li>நான்கின் திறம் தெரிந்து தேறப்படும் (Kural 501)</li>
 <li>இடைதெரிந்து நன்கு உணர்ந்து சொல்லுக (Kural 712)</li>
@@ -1085,8 +1230,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஈணட-eendu" class="slide level2">
-<h2>Word Study: ஈண்டு (Eendu)</h2>
+<section id="eendu" class="slide level2">
+<h2>Eendu</h2>
+<p><strong>ஈண்டு</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Here</li>
 <li><strong>Part of Speech:</strong> Adverb</li>
@@ -1096,7 +1242,7 @@
 <h3 id="usage-examples-20">Usage Examples:</h3>
 <ul>
 <li>வானோர்க்கும் ஈண்டுச் சிறப்போடு பூசனை செல்லாது (Kural 18)</li>
-<li>ஈண்டு அறம் பூண்டார் பெருமை (Kural 23)</li>
+<li>ஈண்டு அறம் பூண்டார் பெருமை <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 <li>புத்தேள் உலகத்தும் ஈண்டும் (Kural 213)</li>
 <li>செய்தவம் ஈண்டு முயலப்படும் (Kural 265)</li>
 <li>துறந்த பின் ஈண்டு, இயற்பால பல (Kural 342)</li>
@@ -1121,8 +1267,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அறம-aram" class="slide level2">
-<h2>Word Study: அறம் (Aram)</h2>
+<section id="aram" class="slide level2">
+<h2>Aram</h2>
+<p><strong>அறம்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Virtue</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1131,7 +1278,7 @@
 </ul>
 <h3 id="usage-examples-21">Usage Examples:</h3>
 <ul>
-<li>ஈண்டு அறம் பூண்டார் பெருமை (Kural 23)</li>
+<li>ஈண்டு அறம் பூண்டார் பெருமை <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 <li>நான்கும் இழுக்கா இயன்றது அறம் (Kural 35)</li>
 <li>அன்று அறிவாம் என்னாது அறம் செய்க (Kural 36)</li>
 <li>அன்பு இலதனை அறம் (Kural 77)</li>
@@ -1157,8 +1304,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பணடர-poondaar" class="slide level2">
-<h2>Word Study: பூண்டார் (Poondaar)</h2>
+<section id="poondaar" class="slide level2">
+<h2>Poondaar</h2>
+<p><strong>பூண்டார்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Those who have undertaken</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1167,7 +1315,7 @@
 </ul>
 <h3 id="usage-examples-22">Usage Examples:</h3>
 <ul>
-<li>ஈண்டு அறம் பூண்டார் பெருமை (Kural 23)</li>
+<li>ஈண்டு அறம் பூண்டார் பெருமை <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 </ul>
 <h3 id="exercises-22">Exercises:</h3>
 <ol type="1">
@@ -1189,8 +1337,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பரம-perumai" class="slide level2">
-<h2>Word Study: பெருமை (Perumai)</h2>
+<section id="perumai" class="slide level2">
+<h2>Perumai</h2>
+<p><strong>பெருமை</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Greatness</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1201,7 +1350,7 @@
 <ul>
 <li>ஒழுக்கத்து நீத்தார் பெருமை (Kural 21)</li>
 <li>துறந்தார் பெருமை துணைக் கூறின் (Kural 22)</li>
-<li>ஈண்டு அறம் பூண்டார் பெருமை (Kural 23)</li>
+<li>ஈண்டு அறம் பூண்டார் பெருமை <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 <li>நிறைமொழி மாந்தர் பெருமை (Kural 28)</li>
 <li>ஒருவன் நெருநல் உளன் இன்று இல்லை என்னும் பெருமை உடைத்து (Kural 336)</li>
 </ul>
@@ -1225,8 +1374,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-உலக-ulaku-1" class="slide level2">
-<h2>Word Study: உலகு (Ulaku)</h2>
+<section id="ulaku-1" class="slide level2">
+<h2>Ulaku</h2>
+<p><strong>உலகு</strong></p>
 <ul>
 <li><strong>Meaning:</strong> World</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1235,9 +1385,9 @@
 </ul>
 <h3 id="usage-examples-24">Usage Examples:</h3>
 <ul>
-<li>உலகு ஆதிபகவன் முதற்று (Kural 1)</li>
+<li>உலகு ஆதிபகவன் முதற்று <a href="thirukkural_kurals_1_to_5.html#/kural1">(Kural 1)</a></li>
 <li>யார் யார்க்கும் நீர் இன்று உலகு அமையாது எனின் (Kural 20)</li>
-<li>உலகு பிறங்கிற்று (Kural 23)</li>
+<li>உலகு பிறங்கிற்று <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 <li>தெரிவான்கட்டே உலகு (Kural 27)</li>
 <li>புத்தேளிர் வாழும் உலகு பெருஞ்சிறப்புப் பெறுவர் (Kural 58)</li>
 </ul>
@@ -1261,8 +1411,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பறஙகறற-pirangittru" class="slide level2">
-<h2>Word Study: பிறங்கிற்று (Pirangittru)</h2>
+<section id="pirangittru" class="slide level2">
+<h2>Pirangittru</h2>
+<p><strong>பிறங்கிற்று</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Shines</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1271,7 +1422,7 @@
 </ul>
 <h3 id="usage-examples-25">Usage Examples:</h3>
 <ul>
-<li>உலகு பிறங்கிற்று (Kural 23)</li>
+<li>உலகு பிறங்கிற்று <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 </ul>
 <h3 id="exercises-25">Exercises:</h3>
 <ol type="1">
@@ -1293,8 +1444,16 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-மனததககண-manathukkan" class="slide level2">
-<h2>Word Study: மனத்துக்கண் (Manathukkan)</h2>
+<section id="kural34" class="slide level2">
+<h2>kural34</h2>
+<ol start="4" type="1">
+<li><a href="thirukkural_kurals_1_to_5.html#/manathukkan">மனத்துக்கண்</a> <a href="thirukkural_kurals_1_to_5.html#/maasu">மாசு</a> <a href="thirukkural_kurals_1_to_5.html#/ilan">இலன்</a> <a href="thirukkural_kurals_1_to_5.html#/aadhal">ஆதல்</a> <a href="thirukkural_kurals_1_to_5.html#/anaithu">அனைத்து</a> <a href="thirukkural_kurals_1_to_5.html#/aran">அறன்</a><br>
+<a href="thirukkural_kurals_1_to_5.html#/aagulaneer">ஆகுல</a> <a href="thirukkural_kurals_1_to_5.html#/aagulaneer">நீர</a> <a href="thirukkural_kurals_1_to_5.html#/pira">பிற</a>. ⁠34 (அறன்வலியுறுத்தல்) <audio data-src="https://www.valaitamil.com/upload/kural_audio/34.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/34.mp3">Audio</a></audio></li>
+</ol>
+</section>
+<section id="manathukkan" class="slide level2">
+<h2>Manathukkan</h2>
+<p><strong>மனத்துக்கண்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> In the mind</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1303,7 +1462,7 @@
 </ul>
 <h3 id="usage-examples-26">Usage Examples:</h3>
 <ul>
-<li>மனத்துக்கண் மாசு இலன் ஆதல் (Kural 34)</li>
+<li>மனத்துக்கண் மாசு இலன் ஆதல் <a href="thirukkural_kurals_1_to_5.html#/kural34">(Kural 34)</a></li>
 </ul>
 <h3 id="exercises-26">Exercises:</h3>
 <ol type="1">
@@ -1325,8 +1484,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-மச-maasu" class="slide level2">
-<h2>Word Study: மாசு (Maasu)</h2>
+<section id="maasu" class="slide level2">
+<h2>Maasu</h2>
+<p><strong>மாசு</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Impurity</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1335,7 +1495,7 @@
 </ul>
 <h3 id="usage-examples-27">Usage Examples:</h3>
 <ul>
-<li>மனத்துக்கண் மாசு இலன் ஆதல் (Kural 34)</li>
+<li>மனத்துக்கண் மாசு இலன் ஆதல் <a href="thirukkural_kurals_1_to_5.html#/kural34">(Kural 34)</a></li>
 <li>மாசு அற்றார் கேண்மை மறவற்க (Kural 106)</li>
 <li>மருள் தீர்ந்த மாசுஅறு காட்சியவர் (Kural 199)</li>
 <li>மாசு மனத்தது ஆக (Kural 278)</li>
@@ -1361,8 +1521,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-இலன-ilan" class="slide level2">
-<h2>Word Study: இலன் (Ilan)</h2>
+<section id="ilan" class="slide level2">
+<h2>Ilan</h2>
+<p><strong>இலன்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Without</li>
 <li><strong>Part of Speech:</strong> Adjective</li>
@@ -1371,7 +1532,7 @@
 </ul>
 <h3 id="usage-examples-28">Usage Examples:</h3>
 <ul>
-<li>மனத்துக்கண் மாசு இலன் ஆதல் (Kural 34)</li>
+<li>மனத்துக்கண் மாசு இலன் ஆதல் <a href="thirukkural_kurals_1_to_5.html#/kural34">(Kural 34)</a></li>
 <li>நயன் இலன் என்பது சொல்லும் (Kural 193)</li>
 <li>இலன் என்று தீயவை செய்யற்க (Kural 205)</li>
 <li>இலன் என்னும் எவ்வம் உரையாமை (Kural 223)</li>
@@ -1397,8 +1558,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஆதல-aadhal" class="slide level2">
-<h2>Word Study: ஆதல் (Aadhal)</h2>
+<section id="aadhal" class="slide level2">
+<h2>Aadhal</h2>
+<p><strong>ஆதல்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Becoming</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1407,7 +1569,7 @@
 </ul>
 <h3 id="usage-examples-29">Usage Examples:</h3>
 <ul>
-<li>மனத்துக்கண் மாசு இலன் ஆதல் (Kural 34)</li>
+<li>மனத்துக்கண் மாசு இலன் ஆதல் <a href="thirukkural_kurals_1_to_5.html#/kural34">(Kural 34)</a></li>
 <li>ஒருவர்க்கு அணி பணிவு உடையன் இன்சொலன் ஆதல் (Kural 95)</li>
 <li>நயன் உடையான் நல்கூர்ந்தான்ஆதல் (Kural 219)</li>
 <li>அருள் அற்றார் அற்றார் மற்று ஆதல் அரிது (Kural 248)</li>
@@ -1433,8 +1595,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அனதத-anaithu" class="slide level2">
-<h2>Word Study: அனைத்து (Anaithu)</h2>
+<section id="anaithu" class="slide level2">
+<h2>Anaithu</h2>
+<p><strong>அனைத்து</strong></p>
 <ul>
 <li><strong>Meaning:</strong> All</li>
 <li><strong>Part of Speech:</strong> Pronoun</li>
@@ -1443,7 +1606,7 @@
 </ul>
 <h3 id="usage-examples-30">Usage Examples:</h3>
 <ul>
-<li>அனைத்து அறன் (Kural 34)</li>
+<li>அனைத்து அறன் <a href="thirukkural_kurals_1_to_5.html#/kural34">(Kural 34)</a></li>
 <li>மணற்கேணி தொட்ட அனைத்து ஊறும் (Kural 396)</li>
 <li>கீழ்ப்பிறந்தும் கற்றார் அனைத்துப் பாடு இலர் (Kural 409)</li>
 <li>அழுத கண்ணீரும் அனைத்து (Kural 828)</li>
@@ -1469,8 +1632,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அறன-aran" class="slide level2">
-<h2>Word Study: அறன் (Aran)</h2>
+<section id="aran" class="slide level2">
+<h2>Aran</h2>
+<p><strong>அறன்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Virtue</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1479,7 +1643,7 @@
 </ul>
 <h3 id="usage-examples-31">Usage Examples:</h3>
 <ul>
-<li>அனைத்து அறன் (Kural 34)</li>
+<li>அனைத்து அறன் <a href="thirukkural_kurals_1_to_5.html#/kural34">(Kural 34)</a></li>
 <li>ஆற்றின் ஒழுக்கி அறன் இழுக்கா இல்வாழ்க்கை (Kural 48)</li>
 <li>அறன் எனப்பட்டது இல்வாழ்க்கை (Kural 49)</li>
 <li>அறன்கடை நின்றாருள் எல்லாம் (Kural 142)</li>
@@ -1505,8 +1669,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பற-pira" class="slide level2">
-<h2>Word Study: பிற (Pira)</h2>
+<section id="pira" class="slide level2">
+<h2>Pira</h2>
+<p><strong>பிற</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Other</li>
 <li><strong>Part of Speech:</strong> Adjective</li>
@@ -1516,9 +1681,9 @@
 <h3 id="usage-examples-32">Usage Examples:</h3>
 <ul>
 <li>பிற ஆழி நீந்தல் அரிது (Kural 8)</li>
-<li>உலகு பிறங்கிற்று (Kural 23)</li>
+<li>உலகு பிறங்கிற்று <a href="thirukkural_kurals_1_to_5.html#/kural23">(Kural 23)</a></li>
 <li>வரன் என்னும் வைப்பிற்கு ஓர் வித்து (Kural 24)</li>
-<li>பிற ஆகுலநீர (Kural 34)</li>
+<li>பிற ஆகுலநீர <a href="thirukkural_kurals_1_to_5.html#/kural34">(Kural 34)</a></li>
 <li>அஃதும் பிறன் பழிப்பது இல்லாயின் நன்று (Kural 49)</li>
 </ul>
 <h3 id="exercises-32">Exercises:</h3>
@@ -1541,8 +1706,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஆகலநர-aagulaneer" class="slide level2">
-<h2>Word Study: ஆகுலநீர (Aagulaneer)</h2>
+<section id="aagulaneer" class="slide level2">
+<h2>Aagulaneer</h2>
+<p><strong>ஆகுலநீர</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Turbid water</li>
 <li><strong>Part of Speech:</strong> Adjective</li>
@@ -1551,7 +1717,7 @@
 </ul>
 <h3 id="usage-examples-33">Usage Examples:</h3>
 <ul>
-<li>பிற ஆகுலநீர (Kural 34)</li>
+<li>பிற ஆகுலநீர <a href="thirukkural_kurals_1_to_5.html#/kural34">(Kural 34)</a></li>
 </ul>
 <h3 id="exercises-33">Exercises:</h3>
 <ol type="1">
@@ -1573,8 +1739,16 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-இலவழகக-ilvaazhkkai" class="slide level2">
-<h2>Word Study: இல்வாழ்க்கை (Ilvaazhkkai)</h2>
+<section id="kural45" class="slide level2">
+<h2>kural45</h2>
+<ol start="5" type="1">
+<li><a href="thirukkural_kurals_1_to_5.html#/anbum">அன்பும்</a> <a href="thirukkural_kurals_1_to_5.html#/aranum">அறனும்</a> <a href="thirukkural_kurals_1_to_5.html#/udaitthayin">உடைத்தாயின்</a> <a href="thirukkural_kurals_1_to_5.html#/ilvaazhkkai">இல்வாழ்க்கை</a><br>
+<a href="thirukkural_kurals_1_to_5.html#/panbum">பண்பும்</a> <a href="thirukkural_kurals_1_to_5.html#/payanum">பயனும்</a> <a href="thirukkural_kurals_1_to_5.html#/athu">அது</a>. ⁠45 (இல்வாழ்க்கை) <audio data-src="https://www.valaitamil.com/upload/kural_audio/45.mp3" class="audio" controls="false" autoplay="false"><a href="https://www.valaitamil.com/upload/kural_audio/45.mp3">Audio</a></audio></li>
+</ol>
+</section>
+<section id="ilvaazhkkai" class="slide level2">
+<h2>Ilvaazhkkai</h2>
+<p><strong>இல்வாழ்க்கை</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Domestic life</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1583,7 +1757,7 @@
 </ul>
 <h3 id="usage-examples-34">Usage Examples:</h3>
 <ul>
-<li>இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் (Kural 45)</li>
+<li>இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் <a href="thirukkural_kurals_1_to_5.html#/kural45">(Kural 45)</a></li>
 <li>இல்வாழ்க்கை அறத்தாற்றின் ஆற்றின் (Kural 46)</li>
 <li>ஆற்றின் ஒழுக்கி அறன் இழுக்கா இல்வாழ்க்கை (Kural 48)</li>
 <li>அறன் எனப்பட்டது இல்வாழ்க்கை (Kural 49)</li>
@@ -1608,8 +1782,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அனபம-anbum" class="slide level2">
-<h2>Word Study: அன்பும் (Anbum)</h2>
+<section id="anbum" class="slide level2">
+<h2>Anbum</h2>
+<p><strong>அன்பும்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Love (and)</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1618,7 +1793,7 @@
 </ul>
 <h3 id="usage-examples-35">Usage Examples:</h3>
 <ul>
-<li>இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் (Kural 45)</li>
+<li>இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் <a href="thirukkural_kurals_1_to_5.html#/kural45">(Kural 45)</a></li>
 </ul>
 <h3 id="exercises-35">Exercises:</h3>
 <ol type="1">
@@ -1640,8 +1815,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அறனம-aranum" class="slide level2">
-<h2>Word Study: அறனும் (Aranum)</h2>
+<section id="aranum" class="slide level2">
+<h2>Aranum</h2>
+<p><strong>அறனும்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Virtue (and)</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1650,7 +1826,7 @@
 </ul>
 <h3 id="usage-examples-36">Usage Examples:</h3>
 <ul>
-<li>இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் (Kural 45)</li>
+<li>இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் <a href="thirukkural_kurals_1_to_5.html#/kural45">(Kural 45)</a></li>
 <li>அதனின் ஊங்கு அறனும் பொருளும் இல் (Kural 644)</li>
 </ul>
 <h3 id="exercises-36">Exercises:</h3>
@@ -1673,8 +1849,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-உடததயன-udaitthayin" class="slide level2">
-<h2>Word Study: உடைத்தாயின் (Udaitthayin)</h2>
+<section id="udaitthayin" class="slide level2">
+<h2>Udaitthayin</h2>
+<p><strong>உடைத்தாயின்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> If it has</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1684,7 +1861,7 @@
 <h3 id="usage-examples-37">Usage Examples:</h3>
 <ul>
 <li>பழி அஞ்சிப் பாத்து ஊண் வாழ்க்கை உடைத்தாயின் (Kural 44)</li>
-<li>இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் (Kural 45)</li>
+<li>இல்வாழ்க்கை அன்பும் அறனும் உடைத்தாயின் <a href="thirukkural_kurals_1_to_5.html#/kural45">(Kural 45)</a></li>
 </ul>
 <h3 id="exercises-37">Exercises:</h3>
 <ol type="1">
@@ -1706,8 +1883,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அத-athu" class="slide level2">
-<h2>Word Study: அது (Athu)</h2>
+<section id="athu" class="slide level2">
+<h2>Athu</h2>
+<p><strong>அது</strong></p>
 <ul>
 <li><strong>Meaning:</strong> That</li>
 <li><strong>Part of Speech:</strong> Pronoun</li>
@@ -1717,7 +1895,7 @@
 <h3 id="usage-examples-38">Usage Examples:</h3>
 <ul>
 <li>அது பொன்றுங்கால் பொன்றாத் துணை (Kural 36)</li>
-<li>அது பண்பும் பயனும் (Kural 45)</li>
+<li>அது பண்பும் பயனும் <a href="thirukkural_kurals_1_to_5.html#/kural45">(Kural 45)</a></li>
 <li>அது நண்பு என்னும் நாடாச் சிறப்பு ஈனும் (Kural 74)</li>
 <li>அழுக்காறு உடையார்க்கு அது சாலும் (Kural 165)</li>
 <li>அது அல்லது உயிர்க்கு ஊதியம் இல்லை (Kural 231)</li>
@@ -1742,8 +1920,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பணபம-panbum" class="slide level2">
-<h2>Word Study: பண்பும் (Panbum)</h2>
+<section id="panbum" class="slide level2">
+<h2>Panbum</h2>
+<p><strong>பண்பும்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Quality (and)</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1752,7 +1931,7 @@
 </ul>
 <h3 id="usage-examples-39">Usage Examples:</h3>
 <ul>
-<li>அது பண்பும் பயனும் (Kural 45)</li>
+<li>அது பண்பும் பயனும் <a href="thirukkural_kurals_1_to_5.html#/kural45">(Kural 45)</a></li>
 <li>பழகிய செல்வமும் பண்பும் கெடுக்கும் (Kural 937)</li>
 </ul>
 <h3 id="exercises-39">Exercises:</h3>
@@ -1775,8 +1954,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பயனம-payanum" class="slide level2">
-<h2>Word Study: பயனும் (Payanum)</h2>
+<section id="payanum" class="slide level2">
+<h2>Payanum</h2>
+<p><strong>பயனும்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Benefit (and)</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1785,7 +1965,7 @@
 </ul>
 <h3 id="usage-examples-40">Usage Examples:</h3>
 <ul>
-<li>அது பண்பும் பயனும் (Kural 45)</li>
+<li>அது பண்பும் பயனும் <a href="thirukkural_kurals_1_to_5.html#/kural45">(Kural 45)</a></li>
 <li>முற்றியாங்கு எய்தும் படுபயனும் (Kural 676)</li>
 <li>வாய்ச் சொற்கள் என்ன பயனும் இல (Kural 1100)</li>
 </ul>
@@ -1829,7 +2009,7 @@
 <div class="footer footer-default">
 
 </div>
-</section></section>
+</section>
     </div>
   </div>
 
@@ -1986,7 +2166,7 @@
         hideCursorTime: 5000,
 
         // Opens links in an iframe preview overlay
-        previewLinks: false,
+        previewLinks: true,
 
         // Transition style (none/fade/slide/convex/concave/zoom)
         transition: 'slide',
