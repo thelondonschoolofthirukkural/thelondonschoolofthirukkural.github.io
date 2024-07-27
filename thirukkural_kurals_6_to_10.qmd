@@ -1,39 +1,151 @@
 ---
 title: "Thirukkural Words - Kurals 2-6"
 format:
-  revealjs:
-    theme: simple
-    transition: slide
-    slide-number: true
-    chalkboard: true
-    smaller: true
+    revealjs:
+      theme: simple
+      transition: slide
+      slide-number: true
+      chalkboard: true
+      smaller: true
+      preview-links: true
+      progress: true
+      history: true
+      audio:
+      autoplay: false
+      include-in-header:
+      - text: |
+          <style>
+          audio {
+          width: 150px; /* Adjust this value to change the width */
+          height: 40px; /* Adjust this value to change the height */
+          display: inline-block;
+          vertical-align: middle;
+          }
+          </style>
+          <script>
+          document.addEventListener('DOMContentLoaded', (event) => {
+          let currentAudio = null;
+
+          document.querySelectorAll('audio').forEach(audio => {
+          audio.autoplay = false;
+          audio.controls = true; // Make controls visible
+          });
+
+          document.addEventListener('keydown', (event) => {
+          if (event.code === 'Space') {
+          event.preventDefault(); // Prevent space from scrolling the page
+          toggleAudioPlayPause();
+          } else if (event.code === 'KeyR') {
+          resetAudio();
+          }
+          });
+
+          function toggleAudioPlayPause() {
+          const currentSlide = Reveal.getCurrentSlide();
+          const audio = currentSlide.querySelector('audio');
+          if (audio) {
+          if (audio.paused) {
+          if (currentAudio && currentAudio !== audio) {
+          currentAudio.pause();
+          currentAudio.currentTime = 0;
+          }
+          audio.play();
+          currentAudio = audio;
+          } else {
+          audio.pause();
+          }
+          }
+          }
+
+          function resetAudio() {
+          const currentSlide = Reveal.getCurrentSlide();
+          const audio = currentSlide.querySelector('audio');
+          if (audio) {
+          audio.pause();
+          audio.currentTime = 0;
+          }
+          }
+
+          Reveal.on('slidechanged', event => {
+          if (currentAudio) {
+          currentAudio.pause();
+          currentAudio.currentTime = 0;
+          }
+          currentAudio = null;
+          });
+          });
+          </script>
 ---
 
 # Thirukkural 1-5
 
 1. அகர முதல எழுத்தெல்லாம் ஆதி  
 பகவன் முதற்றே உலகு. ⁠1 (கடவுள் வாழ்த்து)  
+
+
 2. துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்  
 துப்பாய தூஉம் மழை. ⁠12 (வான்சிறப்பு)  
+
 3. இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்  
 பெருமை பிறங்கிற்று உலகு. ⁠23 (நீத்தார் பெருமை)  
+
 4. மனத்துக்கண் மாசிலன் ஆதல் அனைத்துஅறன்  
 ஆகுல நீர பிற. ⁠34 (அறன்வலியுறுத்தல்)  
+
 5. அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை  
 பண்பும் பயனும் அது. ⁠45 (இல்வாழ்க்கை)  
 
-# Thirukkural 6-10
+## Thirukkural 6-10
 
 6. தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற  
 சொற்காத்துச் சோர்விலாள் பெண். ⁠56 (வாழ்க்கைத் துணைநலம்)  
+
+![](https://www.valaitamil.com/upload/kural_audio/56.mp3){.audio controls="false" autoplay="false"}
+
+## அவையத்து முந்தி இருப்ப
+
 7. தந்தை மகற்காற்று நன்றி அவையத்து  
 முந்தி இருப்பச் செயல். ⁠67 (புதல்வரைப் பெறுதல்)  
+
+![](https://www.valaitamil.com/upload/kural_audio/67.mp3){.audio controls="false" autoplay="false"}
+
+## அன்பகத் தில்லா
+
 8. அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்  
 வற்றல் மரந்தளிர்த் தற்று. ⁠78 (அன்புடைமை)  
+
+![](https://www.valaitamil.com/upload/kural_audio/78.mp3){.audio controls="false" autoplay="false"}
+
+## விருந்தோம்பல் ஓம்பா மடமை
+
 9. உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா  
 மடமை மடவார்கண் உண்டு. ⁠89 (விருந்தோம்பல்)  
+
+![](https://www.valaitamil.com/upload/kural_audio/89.mp3){.audio controls="false" autoplay="false"}
+
+## இனிய உளவாக
+
 10. இனிய உளவாக இன்னாத கூறல்  
 கனிஇருப்பக் காய்கவர்ந் தற்று. ⁠100 (இனியவைகூறல்)  
+
+![](https://www.valaitamil.com/upload/kural_audio/100.mp3){.audio controls="false" autoplay="false"}
+
+## Links
+
+6. [தன்](thirukkural_kurals_6_to_10.html#/than) [காத்துத்](thirukkural_kurals_6_to_10.html#/kaatthuth) [தன்](thirukkural_kurals_6_to_10.html#/than) [கொண்டாற்](thirukkural_kurals_6_to_10.html#/kondaan) [பேணித்](thirukkural_kurals_6_to_10.html#/peni) [தகை](thirukkural_kurals_6_to_10.html#/thagai) [சான்ற](thirukkural_kurals_6_to_10.html#/saandra)  
+[சொல்](thirukkural_kurals_6_to_10.html#/sol) [காத்துச்](thirukkural_kurals_6_to_10.html#/kaatthu) [சோர்வு](thirukkural_kurals_6_to_10.html#/sorvu) [இலாள்](thirukkural_kurals_6_to_10.html#/ilaal) [பெண்](thirukkural_kurals_6_to_10.html#/pen). ⁠56 (வாழ்க்கைத் துணைநலம்) <audio src="https://www.valaitamil.com/upload/kural_audio/56.mp3"></audio>
+
+7. [தந்தை](thirukkural_kurals_6_to_10.html#/thandhai) [மகற்கு](thirukkural_kurals_6_to_10.html#/magarku) [ஆற்றும்](thirukkural_kurals_6_to_10.html#/aatrum) [நன்றி](thirukkural_kurals_6_to_10.html#/nandri) [அவையத்து](thirukkural_kurals_6_to_10.html#/avaiyatthu)  
+[முந்தி](thirukkural_kurals_6_to_10.html#/mundhi) [இருப்பச்](thirukkural_kurals_6_to_10.html#/iruppach) [செயல்](thirukkural_kurals_6_to_10.html#/seyal). ⁠67 (புதல்வரைப் பெறுதல்) <audio src="https://www.valaitamil.com/upload/kural_audio/67.mp3"></audio>
+
+8. [அகத்து](thirukkural_kurals_6_to_10.html#/agathu) [அன்பு](thirukkural_kurals_6_to_10.html#/anbu) [இல்லா](thirukkural_kurals_6_to_10.html#/illa) [உயிர்](thirukkural_kurals_6_to_10.html#/uyir) [வாழ்க்கை](thirukkural_kurals_6_to_10.html#/vaazhkkai) [வன்பாற்கண்](thirukkural_kurals_6_to_10.html#/vanpaarkkan)  
+[வற்றல்](thirukkural_kurals_6_to_10.html#/vatral) [மரம்](thirukkural_kurals_6_to_10.html#/maram) [தளிர்த்தற்று](thirukkural_kurals_6_to_10.html#/thalirthattru). ⁠78 (அன்புடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/78.mp3"></audio>
+
+9. [உடைமையுள்](thirukkural_kurals_6_to_10.html#/udaimaiyul) [இன்மை](thirukkural_kurals_6_to_10.html#/inmai) [விருந்தோம்பல்](thirukkural_kurals_6_to_10.html#/virundhomabal) [ஓம்பா](thirukkural_kurals_6_to_10.html#/ombaa)  
+[மடமை](thirukkural_kurals_6_to_10.html#/madamai) [மடவார்கண்](thirukkural_kurals_6_to_10.html#/madavaarkkan) [உண்டு](thirukkural_kurals_6_to_10.html#/undu). ⁠89 (விருந்தோம்பல்) <audio src="https://www.valaitamil.com/upload/kural_audio/89.mp3"></audio>
+
+10. [இனிய](thirukkural_kurals_6_to_10.html#/iniya) [உளவாக](thirukkural_kurals_6_to_10.html#/ulavaaga) [இன்னாத](thirukkural_kurals_6_to_10.html#/innaatha) [கூறல்](thirukkural_kurals_6_to_10.html#/kooral)  
+[கனி](thirukkural_kurals_6_to_10.html#/kani) [இருப்பக்](thirukkural_kurals_6_to_10.html#/iruppak) [காய்](thirukkural_kurals_6_to_10.html#/kaay) [கவர்ந்தற்று](thirukkural_kurals_6_to_10.html#/kavarndhattru). ⁠100 (இனியவைகூறல்) <audio src="https://www.valaitamil.com/upload/kural_audio/100.mp3"></audio>
 
 ## Introduction
 
@@ -83,8 +195,14 @@ Explain the importance of these words in understanding Thirukkural and Tamil lit
 Highlight that each usage example is followed by its Kural number for reference.
 :::
 
+## kural56
 
-## Word Study: தன் (Than)
+6. [தன்](thirukkural_kurals_6_to_10.html#/than) [காத்துத்](thirukkural_kurals_6_to_10.html#/kaatthuth) [தன்](thirukkural_kurals_6_to_10.html#/than) [கொண்டாற்](thirukkural_kurals_6_to_10.html#/kondaan) [பேணித்](thirukkural_kurals_6_to_10.html#/peni) [தகை](thirukkural_kurals_6_to_10.html#/thagai) [சான்ற](thirukkural_kurals_6_to_10.html#/saandra)  
+[சொல்](thirukkural_kurals_6_to_10.html#/sol) [காத்துச்](thirukkural_kurals_6_to_10.html#/kaatthu) [சோர்வு](thirukkural_kurals_6_to_10.html#/sorvu) [இலாள்](thirukkural_kurals_6_to_10.html#/ilaal) [பெண்](thirukkural_kurals_6_to_10.html#/pen). ⁠56 (வாழ்க்கைத் துணைநலம்) <audio src="https://www.valaitamil.com/upload/kural_audio/56.mp3"></audio>
+
+## Than
+
+**தன்**  
 
 - **Meaning:** Self
 - **Part of Speech:** Pronoun
@@ -96,7 +214,7 @@ Highlight that each usage example is followed by its Kural number for reference.
 - நெடுங்கடலும் தன் நீர்மை குன்றும் (Kural 17)
 - எவ்வுயிர்க்கும் செந்தன்மை பூண்டு ஒழுகலான் (Kural 30)
 - மனைத் தக்க மாண்பு உடையளாகித் தன் கொண்டான் வளத்தக்காள் (Kural 51)
-- தன் காத்துத் தன் கொண்டான் பேணி (Kural 56)
+- தன் காத்துத் தன் கொண்டான் பேணி [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 - அதன் நன்கலன் (என்ப) நன்மக்கட்பேறு (Kural 60)
 
 ### Exercises:
@@ -110,8 +228,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: காத்துத் (Kaatthuth)
+
+## Kaatthuth
+
+**காத்துத்**  
 
 - **Meaning:** Protecting
 - **Part of Speech:** Verb
@@ -120,7 +240,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- தன் காத்துத் தன் கொண்டான் பேணி (Kural 56)
+- தன் காத்துத் தன் கொண்டான் பேணி [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 
 ### Exercises:
 
@@ -133,8 +253,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: தன் (Than)
+
+## Than
+
+**தன்**  
 
 - **Meaning:** Self
 - **Part of Speech:** Pronoun
@@ -146,7 +268,7 @@ Encourage students to look up the full kurals for more context.
 - நெடுங்கடலும் தன் நீர்மை குன்றும் (Kural 17)
 - எவ்வுயிர்க்கும் செந்தன்மை பூண்டு ஒழுகலான் (Kural 30)
 - மனைத் தக்க மாண்பு உடையளாகித் தன் கொண்டான் வளத்தக்காள் (Kural 51)
-- தன் காத்துத் தன் கொண்டான் பேணி (Kural 56)
+- தன் காத்துத் தன் கொண்டான் பேணி [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 - அதன் நன்கலன் (என்ப) நன்மக்கட்பேறு (Kural 60)
 
 ### Exercises:
@@ -160,8 +282,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: கொண்டான் (Kondaan)
+
+## Kondaan
+
+**கொண்டான்**  
 
 - **Meaning:** Married
 - **Part of Speech:** Verb
@@ -171,7 +295,7 @@ Encourage students to look up the full kurals for more context.
 ### Usage Examples:
 
 - மனைத் தக்க மாண்பு உடையளாகித் தன் கொண்டான் வளத்தக்காள் (Kural 51)
-- தன் காத்துத் தன் கொண்டான் பேணி (Kural 56)
+- தன் காத்துத் தன் கொண்டான் பேணி [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 
 ### Exercises:
 
@@ -184,8 +308,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பேணி (Peni)
+
+## Peni
+
+**பேணி**  
 
 - **Meaning:** Cherishing
 - **Part of Speech:** Verb
@@ -194,7 +320,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- தன் காத்துத் தன் கொண்டான் பேணி (Kural 56)
+- தன் காத்துத் தன் கொண்டான் பேணி [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 - பிறவும் தம்போல் பேணிச் செய்யின் (Kural 120)
 - பேணிக் கொளல் (Kural 442)
 - பெரியாரைப் பேணித் தமராக் கொளல் (Kural 443)
@@ -211,8 +337,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: தகை (Thagai)
+
+## Thagai
+
+**தகை**  
 
 - **Meaning:** Quality
 - **Part of Speech:** Noun
@@ -221,7 +349,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- தகை சான்ற சொல் காத்து (Kural 56)
+- தகை சான்ற சொல் காத்து [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 - அவருள்ளும் செல்வர்க்கே செல்வம் தகைத்து (Kural 125)
 - செல்வம் பெருந்தகையான்கண் படின் (Kural 217)
 - கல்லா ஒருவன் தகைமை (Kural 405)
@@ -238,8 +366,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: சான்ற (Saandra)
+
+## Saandra
+
+**சான்ற**  
 
 - **Meaning:** Excellent
 - **Part of Speech:** Adjective
@@ -248,7 +378,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- தகை சான்ற சொல் காத்து (Kural 56)
+- தகை சான்ற சொல் காத்து [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 - தன் மகனைச் சான்றோன் எனக் கேட்ட தாய் (Kural 69)
 - நெஞ்சத்துக் கோடாமை சான்றோர்க்கு அணி (Kural 115)
 - அமைந்து ஒருபால் கோடாமை சான்றோர்க்கு அணி (Kural 118)
@@ -265,8 +395,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: சொல் (Sol)
+
+## Sol
+
+**சொல்**  
 
 - **Meaning:** Word
 - **Part of Speech:** Noun
@@ -276,7 +408,7 @@ Encourage students to look up the full kurals for more context.
 ### Usage Examples:
 
 - இன்னாச்சொல் (Kural 35)
-- தகை சான்ற சொல் காத்து (Kural 56)
+- தகை சான்ற சொல் காத்து [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 - செவிக்கு இன்பம் அவர் சொல் கேட்டல் (Kural 65)
 - தம் மக்கள் மழலைச் சொல் கேளாதவர் (Kural 66)
 - இவன் தந்தை என் நோற்றான்கொல் எனும்சொல் (Kural 70)
@@ -292,8 +424,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: காத்து (Kaatthu)
+
+## Kaatthu
+
+**காத்து**  
 
 - **Meaning:** Protecting
 - **Part of Speech:** Verb
@@ -302,7 +436,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- தன் காத்துத் தன் கொண்டான் பேணி (Kural 56)
+- தன் காத்துத் தன் கொண்டான் பேணி [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 - கதம் காத்துக் கற்று அடங்கல் ஆற்றுவான் செல்வி (Kural 130)
 - குடி புறங்காத்து ஓம்பிக் குற்றம் கடிதல் (Kural 549)
 - சொல்லின் கண் சோர்வு காத்து ஓம்பல் (Kural 642)
@@ -318,8 +452,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: சோர்வு (Sorvu)
+
+## Sorvu
+
+**சோர்வு**  
 
 - **Meaning:** Fatigue
 - **Part of Speech:** Noun
@@ -328,7 +464,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- சோர்வு இலாள் பெண் (Kural 56)
+- சோர்வு இலாள் பெண் [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 - தலைப்பெய்து சொல்லாடச் சோர்வுபடும் (Kural 405)
 - சிறந்த உவகை மகிழ்ச்சியின் சோர்வு (Kural 531)
 - என் செயினும் சோர்வு இலது ஒற்று (Kural 586)
@@ -345,8 +481,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இலாள் (Ilaal)
+
+## Ilaal
+
+**இலாள்**  
 
 - **Meaning:** Woman without
 - **Part of Speech:** Noun
@@ -355,7 +493,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- சோர்வு இலாள் பெண் (Kural 56)
+- சோர்வு இலாள் பெண் [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 
 ### Exercises:
 
@@ -368,8 +506,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பெண் (Pen)
+
+## Pen
+
+**பெண்**  
 
 - **Meaning:** Woman
 - **Part of Speech:** Noun
@@ -379,7 +519,7 @@ Encourage students to look up the full kurals for more context.
 ### Usage Examples:
 
 - பெண்ணின் பெருந்தக்க யாஉள (Kural 54)
-- சோர்வு இலாள் பெண் (Kural 56)
+- சோர்வு இலாள் பெண் [(Kural 56)](thirukkural_kurals_6_to_10.html#/kural56)
 - பெண்டிர் பெற்றான் பெறின் (Kural 58)
 - பிறன் இயலாள் பெண்மை நயவாதவன் (Kural 147)
 - பிறன் வரையாள் பெண்மை நயவாமை நன்று (Kural 150)
@@ -395,8 +535,15 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: தந்தை (Thandhai)
+
+## kural67
+
+7. [தந்தை](thirukkural_kurals_6_to_10.html#/thandhai) [மகற்கு](thirukkural_kurals_6_to_10.html#/magarku) [ஆற்றும்](thirukkural_kurals_6_to_10.html#/aatrum) [நன்றி](thirukkural_kurals_6_to_10.html#/nandri) [அவையத்து](thirukkural_kurals_6_to_10.html#/avaiyatthu)  
+[முந்தி](thirukkural_kurals_6_to_10.html#/mundhi) [இருப்பச்](thirukkural_kurals_6_to_10.html#/iruppach) [செயல்](thirukkural_kurals_6_to_10.html#/seyal). ⁠67 (புதல்வரைப் பெறுதல்) <audio src="https://www.valaitamil.com/upload/kural_audio/67.mp3"></audio>
+
+## Thandhai
+
+**தந்தை**  
 
 - **Meaning:** Father
 - **Part of Speech:** Noun
@@ -405,7 +552,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- தந்தை மகற்கு ஆற்றும் நன்றி (Kural 67)
+- தந்தை மகற்கு ஆற்றும் நன்றி [(Kural 67)](thirukkural_kurals_6_to_10.html#/kural67)
 - தந்தைக்கு மகன் ஆற்றும் உதவி (Kural 70)
 
 ### Exercises:
@@ -419,8 +566,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: மகற்கு (Magarku)
+
+## Magarku
+
+**மகற்கு**  
 
 - **Meaning:** To the son
 - **Part of Speech:** Noun
@@ -429,7 +578,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- தந்தை மகற்கு ஆற்றும் நன்றி (Kural 67)
+- தந்தை மகற்கு ஆற்றும் நன்றி [(Kural 67)](thirukkural_kurals_6_to_10.html#/kural67)
 - செய்ந்நன்றி கொன்ற மகற்கு உய்வு இல்லை (Kural 110)
 
 ### Exercises:
@@ -443,8 +592,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஆற்றும் (Aatrum)
+
+## Aatrum
+
+**ஆற்றும்**  
 
 - **Meaning:** Performing
 - **Part of Speech:** Verb
@@ -453,7 +604,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- தந்தை மகற்கு ஆற்றும் நன்றி (Kural 67)
+- தந்தை மகற்கு ஆற்றும் நன்றி [(Kural 67)](thirukkural_kurals_6_to_10.html#/kural67)
 - தந்தைக்கு மகன் ஆற்றும் உதவி (Kural 70)
 - மாரிமாட்டு உலகு என் ஆற்றும் (Kural 211)
 - ஒறுத்து ஆற்றும் பண்பினார் கண்ணும் (Kural 579)
@@ -470,8 +621,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: நன்றி (Nandri)
+
+## Nandri
+
+**நன்றி**  
 
 - **Meaning:** Gratitude
 - **Part of Speech:** Noun
@@ -480,7 +633,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- தந்தை மகற்கு ஆற்றும் நன்றி (Kural 67)
+- தந்தை மகற்கு ஆற்றும் நன்றி [(Kural 67)](thirukkural_kurals_6_to_10.html#/kural67)
 - நயன் ஈன்று நன்றி பயக்கும் (Kural 97)
 - காலத்தினால் செய்த நன்றி (Kural 102)
 - திணைத்துணை நன்றி செயினும் (Kural 104)
@@ -497,8 +650,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அவையத்து (Avaiyatthu)
+
+## Avaiyatthu
+
+**அவையத்து**  
 
 - **Meaning:** In the assembly
 - **Part of Speech:** Noun
@@ -507,7 +662,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- அவையத்து முந்தி இருப்பச் செயல் (Kural 67)
+- அவையத்து முந்தி இருப்பச் செயல் [(Kural 67)](thirukkural_kurals_6_to_10.html#/kural67)
 
 ### Exercises:
 
@@ -520,8 +675,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: முந்தி (Mundhi)
+
+## Mundhi
+
+**முந்தி**  
 
 - **Meaning:** In front
 - **Part of Speech:** Adverb
@@ -530,7 +687,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- அவையத்து முந்தி இருப்பச் செயல் (Kural 67)
+- அவையத்து முந்தி இருப்பச் செயல் [(Kural 67)](thirukkural_kurals_6_to_10.html#/kural67)
 
 ### Exercises:
 
@@ -543,8 +700,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இருப்பச் (Iruppach)
+
+## Iruppach
+
+**இருப்பச்**  
 
 - **Meaning:** To be seated
 - **Part of Speech:** Verb
@@ -553,7 +712,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- அவையத்து முந்தி இருப்பச் செயல் (Kural 67)
+- அவையத்து முந்தி இருப்பச் செயல் [(Kural 67)](thirukkural_kurals_6_to_10.html#/kural67)
 
 ### Exercises:
 
@@ -566,8 +725,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: செயல் (Seyal)
+
+## Seyal
+
+**செயல்**  
 
 - **Meaning:** Action
 - **Part of Speech:** Noun
@@ -577,7 +738,7 @@ Encourage students to look up the full kurals for more context.
 ### Usage Examples:
 
 - அறவினை ஓவாதே செல்லும்வாய் எல்லாம் செயல் (Kural 33)
-- அவையத்து முந்தி இருப்பச் செயல் (Kural 67)
+- அவையத்து முந்தி இருப்பச் செயல் [(Kural 67)](thirukkural_kurals_6_to_10.html#/kural67)
 - பிறன்கண் செயல் துன்னாமை வேண்டும் (Kural 316)
 - மன் உயிர்க்கு இன்னா செயல் என்கொல் (Kural 318)
 - அது பெற்றால் அற்குப ஆங்கே செயல் (Kural 333)
@@ -593,8 +754,15 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அகத்து (Agathu)
+
+## kural78
+
+8. [அகத்து](thirukkural_kurals_6_to_10.html#/agathu) [அன்பு](thirukkural_kurals_6_to_10.html#/anbu) [இல்லா](thirukkural_kurals_6_to_10.html#/illa) [உயிர்](thirukkural_kurals_6_to_10.html#/uyir) [வாழ்க்கை](thirukkural_kurals_6_to_10.html#/vaazhkkai) [வன்பாற்கண்](thirukkural_kurals_6_to_10.html#/vanpaarkkan)  
+[வற்றல்](thirukkural_kurals_6_to_10.html#/vatral) [மரம்](thirukkural_kurals_6_to_10.html#/maram) [தளிர்த்தற்று](thirukkural_kurals_6_to_10.html#/thalirthattru). ⁠78 (அன்புடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/78.mp3"></audio>
+
+## Agathu
+
+**அகத்து**  
 
 - **Meaning:** Inside
 - **Part of Speech:** Noun
@@ -603,7 +771,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- அகத்து அன்பு இல்லா உயிர் வாழ்க்கை (Kural 78)
+- அகத்து அன்பு இல்லா உயிர் வாழ்க்கை [(Kural 78)](thirukkural_kurals_6_to_10.html#/kural78)
 - யாக்கை அகத்து உறுப்பு அன்பு இலவர்க்கு (Kural 79)
 - பயன் சாராப் பண்பு இல் சொல் பல்லார் அகத்து (Kural 194)
 - புன்மை தெரிவார் அகத்துப் புலைவினையர் (Kural 329)
@@ -620,8 +788,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அன்பு (Anbu)
+
+## Anbu
+
+**அன்பு**  
 
 - **Meaning:** Love
 - **Part of Speech:** Noun
@@ -647,8 +817,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இல்லா (Illa)
+
+## Illa
+
+**இல்லா**  
 
 - **Meaning:** Without
 - **Part of Speech:** Adjective
@@ -660,7 +832,7 @@ Encourage students to look up the full kurals for more context.
 - தனக்கு உவமை இல்லாதான் தாள்சேர்ந்தார்க்கு அல்லால் (Kural 7)
 - அஃதும் பிறன் பழிப்பது இல்லாயின் நன்று (Kural 49)
 - மனைமாட்சி இல்லாள்கண் இல்லாயின் (Kural 52)
-- அகத்து அன்பு இல்லா உயிர் வாழ்க்கை (Kural 78)
+- அகத்து அன்பு இல்லா உயிர் வாழ்க்கை [(Kural 78)](thirukkural_kurals_6_to_10.html#/kural78)
 - துன்பு உறூஉம் துவ்வாமை இல்லாகும் (Kural 94)
 
 ### Exercises:
@@ -674,8 +846,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உயிர் (Uyir)
+
+## Uyir
+
+**உயிர்**  
 
 - **Meaning:** Life
 - **Part of Speech:** Noun
@@ -687,7 +861,7 @@ Encourage students to look up the full kurals for more context.
 - உயிர்க்கு அறத்தின் ஊங்கு ஆக்கம் எவன் (Kural 31)
 - மாநிலத்து மன்உயிர்க்கு எல்லாம் தம்மின் இனிது (Kural 68)
 - ஆர் உயிர்க்கு என்போடு இயைந்த தொடர்பு (Kural 73)
-- அகத்து அன்பு இல்லா உயிர் வாழ்க்கை (Kural 78)
+- அகத்து அன்பு இல்லா உயிர் வாழ்க்கை [(Kural 78)](thirukkural_kurals_6_to_10.html#/kural78)
 - அன்பின் வழியது உயிர்நிலை (Kural 80)
 
 ### Exercises:
@@ -701,8 +875,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: வாழ்க்கை (Vaazhkkai)
+
+## Vaazhkkai
+
+**வாழ்க்கை**  
 
 - **Meaning:** Life
 - **Part of Speech:** Noun
@@ -728,8 +904,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: வன்பாற்கண் (Vanpaarkkan)
+
+## Vanpaarkkan
+
+**வன்பாற்கண்**  
 
 - **Meaning:** In harsh places
 - **Part of Speech:** Noun
@@ -738,7 +916,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- வன்பாற்கண் வற்றல் மரம் தளிர்த்தற்று (Kural 78)
+- வன்பாற்கண் வற்றல் மரம் தளிர்த்தற்று [(Kural 78)](thirukkural_kurals_6_to_10.html#/kural78)
 
 ### Exercises:
 
@@ -751,8 +929,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: வற்றல் (Vatral)
+
+## Vatral
+
+**வற்றல்**  
 
 - **Meaning:** Dried
 - **Part of Speech:** Noun
@@ -761,7 +941,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- வன்பாற்கண் வற்றல் மரம் தளிர்த்தற்று (Kural 78)
+- வன்பாற்கண் வற்றல் மரம் தளிர்த்தற்று [(Kural 78)](thirukkural_kurals_6_to_10.html#/kural78)
 
 ### Exercises:
 
@@ -774,8 +954,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: மரம் (Maram)
+
+## Maram
+
+**மரம்**  
 
 - **Meaning:** Tree
 - **Part of Speech:** Noun
@@ -784,7 +966,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- வன்பாற்கண் வற்றல் மரம் தளிர்த்தற்று (Kural 78)
+- வன்பாற்கண் வற்றல் மரம் தளிர்த்தற்று [(Kural 78)](thirukkural_kurals_6_to_10.html#/kural78)
 - பயன் மரம் உள்ளூர் பழுத்தற்று (Kural 216)
 - அஃது இல்லார் மரம் (Kural 600)
 - முள் மரம் இளைதாகக் கொல்க (Kural 879)
@@ -801,8 +983,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: தளிர்த்தற்று (Thalirthattru)
+
+## Thalirthattru
+
+**தளிர்த்தற்று**  
 
 - **Meaning:** Sprouting like
 - **Part of Speech:** Verb
@@ -811,7 +995,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- வன்பாற்கண் வற்றல் மரம் தளிர்த்தற்று (Kural 78)
+- வன்பாற்கண் வற்றல் மரம் தளிர்த்தற்று [(Kural 78)](thirukkural_kurals_6_to_10.html#/kural78)
 
 ### Exercises:
 
@@ -824,8 +1008,15 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உடைமையுள் (Udaimaiyul)
+
+## kural89
+
+9. [உடைமையுள்](thirukkural_kurals_6_to_10.html#/udaimaiyul) [இன்மை](thirukkural_kurals_6_to_10.html#/inmai) [விருந்தோம்பல்](thirukkural_kurals_6_to_10.html#/virundhomabal) [ஓம்பா](thirukkural_kurals_6_to_10.html#/ombaa)  
+[மடமை](thirukkural_kurals_6_to_10.html#/madamai) [மடவார்கண்](thirukkural_kurals_6_to_10.html#/madavaarkkan) [உண்டு](thirukkural_kurals_6_to_10.html#/undu). ⁠89 (விருந்தோம்பல்) <audio src="https://www.valaitamil.com/upload/kural_audio/89.mp3"></audio>
+
+## Udaimaiyul
+
+**உடைமையுள்**  
 
 - **Meaning:** Among possessions
 - **Part of Speech:** Noun
@@ -834,7 +1025,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை (Kural 89)
+- உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை [(Kural 89)](thirukkural_kurals_6_to_10.html#/kural89)
 
 ### Exercises:
 
@@ -847,8 +1038,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இன்மை (Inmai)
+
+## Inmai
+
+**இன்மை**  
 
 - **Meaning:** Absence
 - **Part of Speech:** Noun
@@ -857,7 +1050,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை (Kural 89)
+- உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை [(Kural 89)](thirukkural_kurals_6_to_10.html#/kural89)
 - உள்கோட்டம் இன்மை ஒருதலையாப் பெறன் (Kural 119)
 - இன்மையுள் இன்மை விருந்து ஒரால் (Kural 153)
 - நோய் இன்மை வேண்டுபவர் நோய் செய்யார் (Kural 320)
@@ -874,8 +1067,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: விருந்தோம்பல் (Virundhomabal)
+
+## Virundhomabal
+
+**விருந்தோம்பல்**  
 
 - **Meaning:** Hospitality
 - **Part of Speech:** Noun
@@ -884,7 +1079,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை (Kural 89)
+- உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை [(Kural 89)](thirukkural_kurals_6_to_10.html#/kural89)
 
 ### Exercises:
 
@@ -897,8 +1092,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஓம்பா (Ombaa)
+
+## Ombaa
+
+**ஓம்பா**  
 
 - **Meaning:** Not protecting
 - **Part of Speech:** Verb
@@ -907,7 +1104,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை (Kural 89)
+- உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை [(Kural 89)](thirukkural_kurals_6_to_10.html#/kural89)
 - மெலியார்மேல் பகை ஓம்பா மேக (Kural 861)
 
 ### Exercises:
@@ -921,8 +1118,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: மடமை (Madamai)
+
+## Madamai
+
+**மடமை**  
 
 - **Meaning:** Foolishness
 - **Part of Speech:** Noun
@@ -931,7 +1130,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை (Kural 89)
+- உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை [(Kural 89)](thirukkural_kurals_6_to_10.html#/kural89)
 
 ### Exercises:
 
@@ -944,8 +1143,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: மடவார்கண் (Madavaarkkan)
+
+## Madavaarkkan
+
+**மடவார்கண்**  
 
 - **Meaning:** In fools
 - **Part of Speech:** Noun
@@ -954,7 +1155,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- மடவார்கண் உண்டு (Kural 89)
+- மடவார்கண் உண்டு [(Kural 89)](thirukkural_kurals_6_to_10.html#/kural89)
 
 ### Exercises:
 
@@ -967,8 +1168,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உண்டு (Undu)
+
+## Undu
+
+**உண்டு**  
 
 - **Meaning:** Exists
 - **Part of Speech:** Verb
@@ -977,7 +1180,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- மடவார்கண் உண்டு (Kural 89)
+- மடவார்கண் உண்டு [(Kural 89)](thirukkural_kurals_6_to_10.html#/kural89)
 - பகுத்து உண்டு பல் உயிர் ஓம்புதல் (Kural 322)
 - நன்று ஆற்றல் உள்ளும் தவறு உண்டு (Kural 469)
 - இவ்வுலகு உண்டு (Kural 571)
@@ -994,8 +1197,15 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இனிய (Iniya)
+
+## kural100
+
+10. [இனிய](thirukkural_kurals_6_to_10.html#/iniya) [உளவாக](thirukkural_kurals_6_to_10.html#/ulavaaga) [இன்னாத](thirukkural_kurals_6_to_10.html#/innaatha) [கூறல்](thirukkural_kurals_6_to_10.html#/kooral)  
+[கனி](thirukkural_kurals_6_to_10.html#/kani) [இருப்பக்](thirukkural_kurals_6_to_10.html#/iruppak) [காய்](thirukkural_kurals_6_to_10.html#/kaay) [கவர்ந்தற்று](thirukkural_kurals_6_to_10.html#/kavarndhattru). ⁠100 (இனியவைகூறல்) <audio src="https://www.valaitamil.com/upload/kural_audio/100.mp3"></audio>
+
+## Iniya
+
+**இனிய**  
 
 - **Meaning:** Sweet
 - **Part of Speech:** Adjective
@@ -1005,7 +1215,7 @@ Encourage students to look up the full kurals for more context.
 ### Usage Examples:
 
 - நல்லவை நாடி இனிய சொலின் (Kural 96)
-- இனிய உளவாக இன்னாத கூறல் (Kural 100)
+- இனிய உளவாக இன்னாத கூறல் [(Kural 100)](thirukkural_kurals_6_to_10.html#/kural100)
 - முகத்தின் இனிய நகாஅ அகத்து இன்னா வஞ்சரை (Kural 824)
 - இன்னா செய்தார்க்கும் இனியவே செய்யாக்கால் (Kural 987)
 - உண்ணலின் ஊங்கு இனியது இல் (Kural 1065)
@@ -1021,8 +1231,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உளவாக (Ulavaaga)
+
+## Ulavaaga
+
+**உளவாக**  
 
 - **Meaning:** While existing
 - **Part of Speech:** Verb
@@ -1031,7 +1243,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- இனிய உளவாக இன்னாத கூறல் (Kural 100)
+- இனிய உளவாக இன்னாத கூறல் [(Kural 100)](thirukkural_kurals_6_to_10.html#/kural100)
 
 ### Exercises:
 
@@ -1044,8 +1256,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இன்னாத (Innaatha)
+
+## Innaatha
+
+**இன்னாத**  
 
 - **Meaning:** Unpleasant
 - **Part of Speech:** Adjective
@@ -1054,7 +1268,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- இனிய உளவாக இன்னாத கூறல் (Kural 100)
+- இனிய உளவாக இன்னாத கூறல் [(Kural 100)](thirukkural_kurals_6_to_10.html#/kural100)
 - இரக்கப்படுதல் இன்னாது (Kural 224)
 - இரத்தலின் இன்னாது மன்ற (Kural 229)
 - சாதலின் இன்னாதது இல்லை (Kural 230)
@@ -1071,8 +1285,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: கூறல் (Kooral)
+
+## Kooral
+
+**கூறல்**  
 
 - **Meaning:** Saying
 - **Part of Speech:** Verb
@@ -1081,7 +1297,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- இனிய உளவாக இன்னாத கூறல் (Kural 100)
+- இனிய உளவாக இன்னாத கூறல் [(Kural 100)](thirukkural_kurals_6_to_10.html#/kural100)
 - உறுதி கூறல் உழையிருந்தான் கடன் (Kural 638)
 - அவரைக் கொடியர் எனக்கூறல் நொந்து நோவல் (Kural 1236)
 
@@ -1096,8 +1312,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: கனி (Kani)
+
+## Kani
+
+**கனி**  
 
 - **Meaning:** Fruit
 - **Part of Speech:** Noun
@@ -1106,7 +1324,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- கனி இருப்பக் காய் கவர்ந்தற்று (Kural 100)
+- கனி இருப்பக் காய் கவர்ந்தற்று [(Kural 100)](thirukkural_kurals_6_to_10.html#/kural100)
 - பெற்றோரே காமத்துக் காழ்இல் கனி (Kural 1191)
 - காமம் கனியும் கருக்காயும் அற்று (Kural 1306)
 
@@ -1121,8 +1339,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இருப்பக் (Iruppak)
+
+## Iruppak
+
+**இருப்பக்**  
 
 - **Meaning:** While existing
 - **Part of Speech:** Verb
@@ -1131,7 +1351,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- கனி இருப்பக் காய் கவர்ந்தற்று (Kural 100)
+- கனி இருப்பக் காய் கவர்ந்தற்று [(Kural 100)](thirukkural_kurals_6_to_10.html#/kural100)
 
 ### Exercises:
 
@@ -1144,8 +1364,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: காய் (Kaay)
+
+## Kaay
+
+**காய்**  
 
 - **Meaning:** Unripe fruit
 - **Part of Speech:** Noun
@@ -1154,7 +1376,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- கனி இருப்பக் காய் கவர்ந்தற்று (Kural 100)
+- கனி இருப்பக் காய் கவர்ந்தற்று [(Kural 100)](thirukkural_kurals_6_to_10.html#/kural100)
 - அகலாது அணுகாது தீக்காய்வார் போல்க (Kural 691)
 - பொய்க்காய்வு காய்தி (Kural 1246)
 
@@ -1169,8 +1391,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: கவர்ந்தற்று (Kavarndhattru)
+
+## Kavarndhattru
+
+**கவர்ந்தற்று**  
 
 - **Meaning:** Snatching like
 - **Part of Speech:** Verb
@@ -1179,7 +1403,7 @@ Encourage students to look up the full kurals for more context.
 
 ### Usage Examples:
 
-- கனி இருப்பக் காய் கவர்ந்தற்று (Kural 100)
+- கனி இருப்பக் காய் கவர்ந்தற்று [(Kural 100)](thirukkural_kurals_6_to_10.html#/kural100)
 
 ### Exercises:
 
@@ -1192,7 +1416,7 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
+
 ## Conclusion
 
 - Review the words we've learned in this session.
@@ -1205,4 +1429,3 @@ Encourage students to look up the full kurals for more context.
 2. Analyze how these words are used in other Tamil literary works.
 3. Reflect on how understanding these words deepens your appreciation of Tamil literature and culture.
 4. Look up the full kurals referenced in the usage examples for broader context.
-    

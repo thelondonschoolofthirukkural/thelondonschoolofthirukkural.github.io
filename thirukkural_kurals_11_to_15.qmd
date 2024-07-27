@@ -1,52 +1,145 @@
 ---
 title: "Thirukkural Words - Kurals 3-7"
 format:
-  revealjs:
-    theme: simple
-    transition: slide
-    slide-number: true
-    chalkboard: true
-    smaller: true
+    revealjs:
+      theme: simple
+      transition: slide
+      slide-number: true
+      chalkboard: true
+      smaller: true
+      preview-links: true
+      progress: true
+      history: true
+      audio:
+      autoplay: false
+      include-in-header:
+      - text: |
+          <style>
+          audio {
+          width: 150px; /* Adjust this value to change the width */
+          height: 40px; /* Adjust this value to change the height */
+          display: inline-block;
+          vertical-align: middle;
+          }
+          </style>
+          <script>
+          document.addEventListener('DOMContentLoaded', (event) => {
+          let currentAudio = null;
+
+          document.querySelectorAll('audio').forEach(audio => {
+          audio.autoplay = false;
+          audio.controls = true; // Make controls visible
+          });
+
+          document.addEventListener('keydown', (event) => {
+          if (event.code === 'Space') {
+          event.preventDefault(); // Prevent space from scrolling the page
+          toggleAudioPlayPause();
+          } else if (event.code === 'KeyR') {
+          resetAudio();
+          }
+          });
+
+          function toggleAudioPlayPause() {
+          const currentSlide = Reveal.getCurrentSlide();
+          const audio = currentSlide.querySelector('audio');
+          if (audio) {
+          if (audio.paused) {
+          if (currentAudio && currentAudio !== audio) {
+          currentAudio.pause();
+          currentAudio.currentTime = 0;
+          }
+          audio.play();
+          currentAudio = audio;
+          } else {
+          audio.pause();
+          }
+          }
+          }
+
+          function resetAudio() {
+          const currentSlide = Reveal.getCurrentSlide();
+          const audio = currentSlide.querySelector('audio');
+          if (audio) {
+          audio.pause();
+          audio.currentTime = 0;
+          }
+          }
+
+          Reveal.on('slidechanged', event => {
+          if (currentAudio) {
+          currentAudio.pause();
+          currentAudio.currentTime = 0;
+          }
+          currentAudio = null;
+          });
+          });
+          </script>
 ---
 
-# Thirukkural 1-5
+## Thirukkural 1-5
 
 1. அகர முதல எழுத்தெல்லாம் ஆதி  
-பகவன் முதற்றே உலகு. ⁠1 (கடவுள் வாழ்த்து)  
+பகவன் முதற்றே உலகு. ⁠1 (கடவுள் வாழ்த்து) <audio src="https://www.valaitamil.com/upload/kural_audio/1.mp3"></audio>
 2. துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்  
-துப்பாய தூஉம் மழை. ⁠12 (வான்சிறப்பு)  
+துப்பாய தூஉம் மழை. ⁠12 (வான்சிறப்பு) <audio src="https://www.valaitamil.com/upload/kural_audio/12.mp3"></audio>
 3. இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்  
-பெருமை பிறங்கிற்று உலகு. ⁠23 (நீத்தார் பெருமை)  
+பெருமை பிறங்கிற்று உலகு. ⁠23 (நீத்தார் பெருமை) <audio src="https://www.valaitamil.com/upload/kural_audio/23.mp3"></audio>
 4. மனத்துக்கண் மாசிலன் ஆதல் அனைத்துஅறன்  
-ஆகுல நீர பிற. ⁠34 (அறன்வலியுறுத்தல்)  
+ஆகுல நீர பிற. ⁠34 (அறன்வலியுறுத்தல்) <audio src="https://www.valaitamil.com/upload/kural_audio/34.mp3"></audio>
 5. அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை  
-பண்பும் பயனும் அது. ⁠45 (இல்வாழ்க்கை)  
+பண்பும் பயனும் அது. ⁠45 (இல்வாழ்க்கை) <audio src="https://www.valaitamil.com/upload/kural_audio/45.mp3"></audio>
 
-# Thirukkural 6-10
+## Thirukkural 6-10
 
-6. தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற  
-சொற்காத்துச் சோர்விலாள் பெண். ⁠56 (வாழ்க்கைத் துணைநலம்)  
+6. தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற <audio src="https://www.valaitamil.com/upload/kural_audio/56.mp3"></audio>
+சொற்காத்துச் சோர்விலாள் பெண். ⁠56 (வாழ்க்கைத் துணைநலம்)
+
 7. தந்தை மகற்காற்று நன்றி அவையத்து  
-முந்தி இருப்பச் செயல். ⁠67 (புதல்வரைப் பெறுதல்)  
-8. அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்  
-வற்றல் மரந்தளிர்த் தற்று. ⁠78 (அன்புடைமை)  
-9. உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா  
-மடமை மடவார்கண் உண்டு. ⁠89 (விருந்தோம்பல்)  
-10. இனிய உளவாக இன்னாத கூறல்  
-கனிஇருப்பக் காய்கவர்ந் தற்று. ⁠100 (இனியவைகூறல்)  
+முந்தி இருப்பச் செயல். ⁠67 (புதல்வரைப் பெறுதல்) <audio src="https://www.valaitamil.com/upload/kural_audio/67.mp3"></audio>
 
-# Thirukkural 11-15
+8. அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்  
+வற்றல் மரந்தளிர்த் தற்று. ⁠78 (அன்புடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/78.mp3"></audio>
+
+9. உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா  
+மடமை மடவார்கண் உண்டு. ⁠89 (விருந்தோம்பல்) <audio src="https://www.valaitamil.com/upload/kural_audio/89.mp3"></audio>
+
+10. இனிய உளவாக இன்னாத கூறல்  
+கனிஇருப்பக் காய்கவர்ந் தற்று. ⁠100 (இனியவைகூறல்) <audio src="https://www.valaitamil.com/upload/kural_audio/100.mp3"></audio>
+
+## Thirukkural 11-15
 
 11. செய்யாமல் செய்த உதவிக்கு வையகமும்  
-வானகமும் ஆற்றல் அரிது. ⁠101 (செய்ந்நன்றி அறிதல்)  
+வானகமும் ஆற்றல் அரிது. ⁠101 (செய்ந்நன்றி அறிதல்) <audio src="https://www.valaitamil.com/upload/kural_audio/101.mp3"></audio>
+
 12. செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி  
-எச்சத்திற் கேமாப்பு உடைத்து. ⁠112 (நடுவு நிலைமை)  
+எச்சத்திற் கேமாப்பு உடைத்து. ⁠112 (நடுவு நிலைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/112.mp3"></audio>
+
 13. செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து  
-ஆற்றின் அடங்கப் பெறின். ⁠123 (அடக்கமுடைமை)  
+ஆற்றின் அடங்கப் பெறின். ⁠123 (அடக்கமுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/123.mp3"></audio>
+
 14. மறப்பினும் ஓத்துக் கொளலாகும் பார்ப்பான்  
-பிறப்பொழுக்கங் குன்றக் கெடும். ⁠134 (ஒழுக்கமுடைமை)  
+பிறப்பொழுக்கங் குன்றக் கெடும். ⁠134 (ஒழுக்கமுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/134.mp3"></audio>
+
 15. எளிதென இல்லிறப்பான் எய்துமெஞ் ஞான்றும்  
-விளியாது நிற்கும் பழி. ⁠145 (பிறனில் விழையாமை)  
+விளியாது நிற்கும் பழி. ⁠145 (பிறனில் விழையாமை) <audio src="https://www.valaitamil.com/upload/kural_audio/145.mp3"></audio>
+
+## Links
+
+11. [செய்யாமல்](thirukkural_kurals_11_to_15.html#/seyyaamal) [செய்த](thirukkural_kurals_11_to_15.html#/seytha) [உதவிக்கு](thirukkural_kurals_11_to_15.html#/uthavikku) [வையகமும்](thirukkural_kurals_11_to_15.html#/vaiyagamum)  
+[வானகமும்](thirukkural_kurals_11_to_15.html#/vaanagamum) [ஆற்றல்](thirukkural_kurals_11_to_15.html#/aatral) [அரிது](thirukkural_kurals_11_to_15.html#/arithu). ⁠101 (செய்ந்நன்றி அறிதல்) <audio src="https://www.valaitamil.com/upload/kural_audio/101.mp3"></audio>
+
+12. [செப்பம்](thirukkural_kurals_11_to_15.html#/seppam) [உடையவன்](thirukkural_kurals_11_to_15.html#/udaiyavan) [ஆக்கஞ்](thirukkural_kurals_11_to_15.html#/aakkam) [சிதைவின்றி](thirukkural_kurals_11_to_15.html#/sithaivu)  
+[எச்சத்திற்](thirukkural_kurals_11_to_15.html#/echchathirku) [கேமாப்பு](thirukkural_kurals_11_to_15.html#/emaappu) [உடைத்து](thirukkural_kurals_11_to_15.html#/udaitthu). ⁠112 (நடுவு நிலைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/112.mp3"></audio>
+
+13. [செறிவறிந்து](thirukkural_kurals_11_to_15.html#/serivu) [சீர்மை](thirukkural_kurals_11_to_15.html#/seermai) [பயக்கும்](thirukkural_kurals_11_to_15.html#/payakkum) [அறிவறிந்து](thirukkural_kurals_11_to_15.html#/arivu)  
+[ஆற்றின்](thirukkural_kurals_11_to_15.html#/aatrin) [அடங்கப்](thirukkural_kurals_11_to_15.html#/adangap) [பெறின்](thirukkural_kurals_11_to_15.html#/perin). ⁠123 (அடக்கமுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/123.mp3"></audio>
+
+14. [மறப்பினும்](thirukkural_kurals_11_to_15.html#/marappinum) [ஓத்துக்](thirukkural_kurals_11_to_15.html#/otthu) [கொளலாகும்](thirukkural_kurals_11_to_15.html#/kolalaagum) [பார்ப்பான்](thirukkural_kurals_11_to_15.html#/paarpaan)  
+[பிறப்பொழுக்கங்](thirukkural_kurals_11_to_15.html#/pirappu) [குன்றக்](thirukkural_kurals_11_to_15.html#/kundrak) [கெடும்](thirukkural_kurals_11_to_15.html#/kedum). ⁠134 (ஒழுக்கமுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/134.mp3"></audio>
+
+15. [எளிதென](thirukkural_kurals_11_to_15.html#/elithu) [இல்லிறப்பான்](thirukkural_kurals_11_to_15.html#/il) [எய்துமெஞ்](thirukkural_kurals_11_to_15.html#/eithum) [ஞான்றும்](thirukkural_kurals_11_to_15.html#/engnjaandrum)  
+[விளியாது](thirukkural_kurals_11_to_15.html#/viliyaadhu) [நிற்கும்](thirukkural_kurals_11_to_15.html#/nirkum) [பழி](thirukkural_kurals_11_to_15.html#/pazhi). ⁠145 (பிறனில் விழையாமை) <audio src="https://www.valaitamil.com/upload/kural_audio/145.mp3"></audio>
 
 ## Introduction
 
@@ -56,36 +149,36 @@ This lesson focuses on selected words from the Thirukkural, exploring their usag
 
 ::: {.fragment}
 
-6. தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற  
-சொற்காத்துச் சோர்விலாள் பெண். ⁠56 (வாழ்க்கைத் துணைநலம்)  
+11. [செய்யாமல்](thirukkural_kurals_11_to_15.html#/seyyaamal) செய்த உதவிக்கு வையகமும்  
+வானகமும் ஆற்றல் அரிது. ⁠101 (செய்ந்நன்றி அறிதல்) <audio src="https://www.valaitamil.com/upload/kural_audio/101.mp3"></audio>
 
 :::
 
 ::: {.fragment}
 
-7. தந்தை மகற்காற்று நன்றி அவையத்து  
-முந்தி இருப்பச் செயல். ⁠67 (புதல்வரைப் பெறுதல்)  
+12. செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி  
+எச்சத்திற் கேமாப்பு உடைத்து. ⁠112 (நடுவு நிலைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/112.mp3"></audio>
 
 :::
 
 ::: {.fragment}
 
-8. அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்  
-வற்றல் மரந்தளிர்த் தற்று. ⁠78 (அன்புடைமை)  
+13. செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து  
+ஆற்றின் அடங்கப் பெறின். ⁠123 (அடக்கமுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/123.mp3"></audio>
 
 :::
 
 ::: {.fragment}
 
-9. உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா  
-மடமை மடவார்கண் உண்டு. ⁠89 (விருந்தோம்பல்)  
+14. மறப்பினும் ஓத்துக் கொளலாகும் பார்ப்பான்  
+பிறப்பொழுக்கங் குன்றக் கெடும். ⁠134 (ஒழுக்கமுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/134.mp3"></audio>
 
 :::
 
 ::: {.fragment}
 
-10. இனிய உளவாக இன்னாத கூறல்  
-கனிஇருப்பக் காய்கவர்ந் தற்று. ⁠100 (இனியவைகூறல்)  
+15. எளிதென இல்லிறப்பான் எய்துமெஞ் ஞான்றும்  
+விளியாது நிற்கும் பழி. ⁠145 (பிறனில் விழையாமை) <audio src="https://www.valaitamil.com/upload/kural_audio/145.mp3"></audio>
 
 :::
 
@@ -96,8 +189,9 @@ Explain the importance of these words in understanding Thirukkural and Tamil lit
 Highlight that each usage example is followed by its Kural number for reference.
 :::
 
+## Seyyaamal
 
-## Word Study: செய்யாமல் (Seyyaamal)
+**செய்யாமல்**
 
 - **Meaning:** Without doing
 - **Part of Speech:** Verb
@@ -120,8 +214,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: செய்த (Seytha)
+
+## Seytha
+
+**செய்த**  
 
 - **Meaning:** Done
 - **Part of Speech:** Verb
@@ -147,8 +243,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உதவிக்கு (Uthavikku)
+
+## Uthavikku
+
+**உதவிக்கு**  
 
 - **Meaning:** For help
 - **Part of Speech:** Noun
@@ -170,8 +268,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: வையகமும் (Vaiyagamum)
+
+## Vaiyagamum
+
+**வையகமும்**  
 
 - **Meaning:** Earth (and)
 - **Part of Speech:** Noun
@@ -193,8 +293,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: வானகமும் (Vaanagamum)
+
+## Vaanagamum
+
+**வானகமும்**  
 
 - **Meaning:** Heaven (and)
 - **Part of Speech:** Noun
@@ -216,8 +318,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஆற்றல் (Aatral)
+
+## Aatral
+
+**ஆற்றல்**  
 
 - **Meaning:** Ability
 - **Part of Speech:** Noun
@@ -243,8 +347,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அரிது (Arithu)
+
+## Arithu
+
+**அரிது**  
 
 - **Meaning:** Rare
 - **Part of Speech:** Adjective
@@ -270,8 +376,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: செப்பம் (Seppam)
+
+## Seppam
+
+**செப்பம்**  
 
 - **Meaning:** Uprightness
 - **Part of Speech:** Noun
@@ -294,8 +402,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உடையவன் (Udaiyavan)
+
+## Udaiyavan
+
+**உடையவன்**  
 
 - **Meaning:** One who has
 - **Part of Speech:** Noun
@@ -317,8 +427,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஆக்கம் (Aakkam)
+
+## Aakkam
+
+**ஆக்கம்**  
 
 - **Meaning:** Prosperity
 - **Part of Speech:** Noun
@@ -344,8 +456,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: சிதைவு (Sithaivu)
+
+## Sithaivu
+
+**சிதைவு**  
 
 - **Meaning:** Destruction
 - **Part of Speech:** Noun
@@ -367,8 +481,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இன்றி (Indri)
+
+## Indri
+
+**இன்றி**  
 
 - **Meaning:** Without
 - **Part of Speech:** Adverb
@@ -394,8 +510,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: எச்சத்திற்கு (Echchathirku)
+
+## Echchathirku
+
+**எச்சத்திற்கு**  
 
 - **Meaning:** For posterity
 - **Part of Speech:** Noun
@@ -417,8 +535,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஏமாப்பு (Emaappu)
+
+## Emaappu
+
+**ஏமாப்பு**  
 
 - **Meaning:** Protection
 - **Part of Speech:** Noun
@@ -444,8 +564,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உடைத்து (Udaitthu)
+
+## Udaitthu
+
+**உடைத்து**  
 
 - **Meaning:** Has
 - **Part of Speech:** Verb
@@ -471,8 +593,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அறிவு (Arivu)
+
+## Arivu
+
+**அறிவு**  
 
 - **Meaning:** Knowledge
 - **Part of Speech:** Noun
@@ -498,8 +622,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அறிந்து (Arindhu)
+
+## Arindhu
+
+**அறிந்து**  
 
 - **Meaning:** Knowing
 - **Part of Speech:** Verb
@@ -525,8 +651,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஆற்றின் (Aatrin)
+
+## Aatrin
+
+**ஆற்றின்**  
 
 - **Meaning:** In the way
 - **Part of Speech:** Noun
@@ -552,8 +680,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அடங்கப் (Adangap)
+
+## Adangap
+
+**அடங்கப்**  
 
 - **Meaning:** To be restrained
 - **Part of Speech:** Verb
@@ -575,8 +705,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பெறின் (Perin)
+
+## Perin
+
+**பெறின்**  
 
 - **Meaning:** If obtained
 - **Part of Speech:** Verb
@@ -602,8 +734,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: செறிவு (Serivu)
+
+## Serivu
+
+**செறிவு**  
 
 - **Meaning:** Density
 - **Part of Speech:** Noun
@@ -627,8 +761,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அறிந்து (Arindhu)
+
+## Arindhu
+
+**அறிந்து**  
 
 - **Meaning:** Knowing
 - **Part of Speech:** Verb
@@ -654,8 +790,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: சீர்மை (Seermai)
+
+## Seermai
+
+**சீர்மை**  
 
 - **Meaning:** Excellence
 - **Part of Speech:** Noun
@@ -678,8 +816,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பயக்கும் (Payakkum)
+
+## Payakkum
+
+**பயக்கும்**  
 
 - **Meaning:** Will yield
 - **Part of Speech:** Verb
@@ -705,8 +845,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஓத்து (Otthu)
+
+## Otthu
+
+**ஓத்து**  
 
 - **Meaning:** Vedic study
 - **Part of Speech:** Noun
@@ -728,8 +870,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: மறப்பினும் (Marappinum)
+
+## Marappinum
+
+**மறப்பினும்**  
 
 - **Meaning:** Even if forgotten
 - **Part of Speech:** Verb
@@ -751,8 +895,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: கொளலாகும் (Kolalaagum)
+
+## Kolalaagum
+
+**கொளலாகும்**  
 
 - **Meaning:** Can be obtained
 - **Part of Speech:** Verb
@@ -774,8 +920,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பார்ப்பான் (Paarpaan)
+
+## Paarpaan
+
+**பார்ப்பான்**  
 
 - **Meaning:** Brahmin
 - **Part of Speech:** Noun
@@ -797,8 +945,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பிறப்பு (Pirappu)
+
+## Pirappu
+
+**பிறப்பு**  
 
 - **Meaning:** Birth
 - **Part of Speech:** Noun
@@ -824,8 +974,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஒழுக்கம் (Ozhukkam)
+
+## Ozhukkam
+
+**ஒழுக்கம்**  
 
 - **Meaning:** Conduct
 - **Part of Speech:** Noun
@@ -851,8 +1003,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: குன்றக் (Kundrak)
+
+## Kundrak
+
+**குன்றக்**  
 
 - **Meaning:** To diminish
 - **Part of Speech:** Verb
@@ -874,8 +1028,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: கெடும் (Kedum)
+
+## Kedum
+
+**கெடும்**  
 
 - **Meaning:** Will perish
 - **Part of Speech:** Verb
@@ -901,8 +1057,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: எளிது (Elithu)
+
+## Elithu
+
+**எளிது**  
 
 - **Meaning:** Easy
 - **Part of Speech:** Adjective
@@ -927,8 +1085,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: என (Ena)
+
+## Ena
+
+**என**  
 
 - **Meaning:** That
 - **Part of Speech:** Adverb
@@ -954,8 +1114,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இல் (Il)
+
+## Il
+
+**இல்**  
 
 - **Meaning:** House
 - **Part of Speech:** Noun
@@ -981,8 +1143,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இறப்பான் (Irappaan)
+
+## Irappaan
+
+**இறப்பான்**  
 
 - **Meaning:** One who dies
 - **Part of Speech:** Verb
@@ -1005,8 +1169,14 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: விளியாது (Viliyaadhu)
+
+## Eithum
+
+எய்து
+
+## Viliyaadhu
+
+**விளியாது**  
 
 - **Meaning:** Without perishing
 - **Part of Speech:** Verb
@@ -1028,8 +1198,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: எஞ்ஞான்றும் (Engnjaandrum)
+
+## Engnjaandrum
+
+**எஞ்ஞான்றும்**  
 
 - **Meaning:** Always
 - **Part of Speech:** Adverb
@@ -1055,8 +1227,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: நிற்கும் (Nirkum)
+
+## Nirkum
+
+**நிற்கும்**  
 
 - **Meaning:** Will stand
 - **Part of Speech:** Verb
@@ -1082,8 +1256,10 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பழி (Pazhi)
+
+## Pazhi
+
+**பழி**  
 
 - **Meaning:** Blame
 - **Part of Speech:** Noun
@@ -1109,7 +1285,7 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
+
 ## Conclusion
 
 - Review the words we've learned in this session.
@@ -1122,4 +1298,3 @@ Encourage students to look up the full kurals for more context.
 2. Analyze how these words are used in other Tamil literary works.
 3. Reflect on how understanding these words deepens your appreciation of Tamil literature and culture.
 4. Look up the full kurals referenced in the usage examples for broader context.
-    
