@@ -18,13 +18,14 @@ In Class 1, we will learn the syllables in all words in [Kural 1](kuralQuartoWor
 In Class 2, we will learn the syllables in all words in [Kural 56](kuralQuartoWordsAsaiContent56.qmd), 
 [Kural 67](kuralQuartoWordsAsaiContent67.qmd), [Kural 78](kuralQuartoWordsAsaiContent78.qmd), [Kural 89](kuralQuartoWordsAsaiContent89.qmd), [Kural 100](kuralQuartoWordsAsaiContent100.qmd)  
 
-We covered also examples in duality.
+    - We covered also examples in duality.
 
-In Class 3, we will learn syllables in all words in Kurals 101, 112, 123, 134, 145
+In Class 3, we will learn syllables in all words in [Kural 101](kuralQuartoWordsAsaiContent101.qmd), [Kural 112](kuralQuartoWordsAsaiContent112.qmd), [Kural 123](kuralQuartoWordsAsaiContent123.qmd), [Kural 134](kuralQuartoWordsAsaiContent134.qmd), [Kural 145](kuralQuartoWordsAsaiContent145.qmd)    
 
-In Class 4, we will learn syllables in all words in Kurals 156, 167, 178, 189, 200
+In Class 4, we will learn syllables in all words in [Kural 156](kuralQuartoWordsAsaiContent156.qmd), 
+[Kural 167](kuralQuartoWordsAsaiContent167.qmd), [Kural 178](kuralQuartoWordsAsaiContent178.qmd), [Kural 189](kuralQuartoWordsAsaiContent189.qmd), [Kural 200](kuralQuartoWordsAsaiContent200.qmd)  
 
-In Class 5, we will learn syllables in all words in Kurals 201, 212, 223, 234 (and 233), 245 (and 242)
+In Class 5, we will learn syllables in all words in [Kural 201](kuralQuartoWordsAsaiContent201.qmd), [Kural 212](kuralQuartoWordsAsaiContent212.qmd), [Kural 223](kuralQuartoWordsAsaiContent223.qmd), [Kural 234](kuralQuartoWordsAsaiContent234.qmd) [and Kural 233](kuralQuartoWordsAsaiContent233.qmd)  , [Kural 245](kuralQuartoWordsAsaiContent245.qmd) [and Kural 242](kuralQuartoWordsAsaiContent242.qmd)  
 
 # Learning words based on POS
 
