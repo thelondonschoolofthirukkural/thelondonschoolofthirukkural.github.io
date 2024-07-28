@@ -1,12 +1,80 @@
 ---
 title: "Thirukkural Words - Kurals 5-9"
 format:
-  revealjs:
-    theme: simple
-    transition: slide
-    slide-number: true
-    chalkboard: true
-    smaller: true
+    revealjs:
+      theme: simple
+      transition: slide
+      slide-number: true
+      chalkboard: true
+      smaller: true
+      preview-links: true
+      progress: true
+      history: true
+      audio:
+      autoplay: false
+      include-in-header:
+      - text: |
+          <style>
+          audio {
+          width: 150px; /* Adjust this value to change the width */
+          height: 40px; /* Adjust this value to change the height */
+          display: inline-block;
+          vertical-align: middle;
+          }
+          </style>
+          <script>
+          document.addEventListener('DOMContentLoaded', (event) => {
+          let currentAudio = null;
+
+          document.querySelectorAll('audio').forEach(audio => {
+          audio.autoplay = false;
+          audio.controls = true; // Make controls visible
+          });
+
+          document.addEventListener('keydown', (event) => {
+          if (event.code === 'Space') {
+          event.preventDefault(); // Prevent space from scrolling the page
+          toggleAudioPlayPause();
+          } else if (event.code === 'KeyR') {
+          resetAudio();
+          }
+          });
+
+          function toggleAudioPlayPause() {
+          const currentSlide = Reveal.getCurrentSlide();
+          const audio = currentSlide.querySelector('audio');
+          if (audio) {
+          if (audio.paused) {
+          if (currentAudio && currentAudio !== audio) {
+          currentAudio.pause();
+          currentAudio.currentTime = 0;
+          }
+          audio.play();
+          currentAudio = audio;
+          } else {
+          audio.pause();
+          }
+          }
+          }
+
+          function resetAudio() {
+          const currentSlide = Reveal.getCurrentSlide();
+          const audio = currentSlide.querySelector('audio');
+          if (audio) {
+          audio.pause();
+          audio.currentTime = 0;
+          }
+          }
+
+          Reveal.on('slidechanged', event => {
+          if (currentAudio) {
+          currentAudio.pause();
+          currentAudio.currentTime = 0;
+          }
+          currentAudio = null;
+          });
+          });
+          </script>
 ---
 
 # Thirukkural 1-5
@@ -64,15 +132,38 @@ format:
 # Thirukkural 21-25
 
 21. தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்  
-தீவினை என்னும் செருக்கு. ⁠201 (தீவினையச்சம்)  
+தீவினை என்னும் செருக்கு. ⁠201 (தீவினையச்சம்) <audio src="https://www.valaitamil.com/upload/kural_audio/201.mp3"></audio> 
 22. தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு  
-வேளாண்மை செய்தற் பொருட்டு. ⁠212 (ஒப்புரவறிதல்)  
+வேளாண்மை செய்தற் பொருட்டு. ⁠212 (ஒப்புரவறிதல்) <audio src="https://www.valaitamil.com/upload/kural_audio/212.mp3"></audio> 
 23. இலனென்னும் எவ்வம் உரையாமை ஈதல்  
-குலனுடையான் கண்ணே யுள. ⁠223 (ஈகை)  
+குலனுடையான் கண்ணே யுள. ⁠223 (ஈகை) <audio src="https://www.valaitamil.com/upload/kural_audio/223.mp3"></audio> 
 24. நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்  
-போற்றாது புத்தேள் உலகு. ⁠234 (புகழ்)  
+போற்றாது புத்தேள் உலகு. ⁠234 (புகழ்) <audio src="https://www.valaitamil.com/upload/kural_audio/234.mp3"></audio> 
 25. அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும்  
-மல்லன்மா ஞாலங் கரி. ⁠245 (அருளுடைமை)  
+மல்லன்மா ஞாலங் கரி. ⁠245 (அருளுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/245.mp3"></audio>  
+
+## Links
+
+21. [தீவினையார்](thirukkural_kurals_21_to_25.html#/theevinaiyaar) [அஞ்சார்](thirukkural_kurals_21_to_25.html#/anjaar) [விழுமியார்](thirukkural_kurals_21_to_25.html#/vizhumiyaar) [அஞ்சுவர்](thirukkural_kurals_21_to_25.html#/anjuvar)  
+[தீவினை](thirukkural_kurals_21_to_25.html#/theevinai) [என்னும்](thirukkural_kurals_21_to_25.html#/ennum) [செருக்கு](thirukkural_kurals_21_to_25.html#/serukku). ⁠201 (தீவினையச்சம்) <audio src="https://www.valaitamil.com/upload/kural_audio/201.mp3"></audio> 
+
+22. [தாளாற்றித்](thirukkural_kurals_21_to_25.html#/aattrit) [தந்த](thirukkural_kurals_21_to_25.html#/thantha) [பொருள்](thirukkural_kurals_21_to_25.html#/porul) [எல்லாம்](thirukkural_kurals_21_to_25.html#/ellaam) [தக்கார்க்கு](thirukkural_kurals_21_to_25.html#/thakkaarkku)  
+[வேளாண்மை](thirukkural_kurals_21_to_25.html#/velaanmai) [செய்தற்](thirukkural_kurals_21_to_25.html#/seydhar) [பொருட்டு](thirukkural_kurals_21_to_25.html#/poruttu). ⁠212 (ஒப்புரவறிதல்) <audio src="https://www.valaitamil.com/upload/kural_audio/212.mp3"></audio>
+
+23. [இலன்](thirukkural_kurals_21_to_25.html#/ilan) [என்னும்](thirukkural_kurals_21_to_25.html#/ennum) [எவ்வம்](thirukkural_kurals_21_to_25.html#/evvam) [உரையாமை](thirukkural_kurals_21_to_25.html#/uraiyaamai) [ஈதல்](thirukkural_kurals_21_to_25.html#/eethal)  
+[குலன்](thirukkural_kurals_21_to_25.html#/kulan) [உடையான்கண்ணே](thirukkural_kurals_21_to_25.html#/udaiyaankaṇṇe) யுள. ⁠223 (ஈகை) <audio src="https://www.valaitamil.com/upload/kural_audio/223.mp3"></audio>
+
+24. நிலவரை நீள் [புகழ்](thirukkural_kurals_21_to_25.html#/pugazh) ஆற்றின் புலவரைப்  
+போற்றாது புத்தேள் உலகு. ⁠234 (புகழ்) <audio src="https://www.valaitamil.com/upload/kural_audio/234.mp3"></audio>
+
+25. அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும்  
+மல்லன்மா ஞாலங் கரி. ⁠245 (அருளுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/245.mp3"></audio>
+
+26. [ஒன்றா](thirukkural_kurals_21_to_25.html#/ondraa) [உலகத்து](thirukkural_kurals_21_to_25.html#/ulagathup) [உயர்ந்த](thirukkural_kurals_21_to_25.html#/uyarndha) [புகழ்](thirukkural_kurals_21_to_25.html#/pugazh) [அல்லால்](thirukkural_kurals_21_to_25.html#/allaal)  
+[பொன்றாது](thirukkural_kurals_21_to_25.html#/pondraadhu) [நிற்பது](thirukkural_kurals_21_to_25.html#/nirpadhu) [ஒன்று](thirukkural_kurals_21_to_25.html#/ondru) [இல்](thirukkural_kurals_21_to_25.html#/il). ⁠233 (புகழ்) <audio src="https://www.valaitamil.com/upload/kural_audio/233.mp3"></audio>
+
+27. [நல்](thirukkural_kurals_21_to_25.html#/nal) [ஆற்றால்](thirukkural_kurals_21_to_25.html#/aatraan) [நாடி](thirukkural_kurals_21_to_25.html#/naadi) [அருள்](thirukkural_kurals_21_to_25.html#/arul) [ஆள்க](thirukkural_kurals_21_to_25.html#/aalga) [பல்](thirukkural_kurals_21_to_25.html#/pala) [ஆற்றால்](thirukkural_kurals_21_to_25.html#/aatraan)  
+[தேரினும்](thirukkural_kurals_21_to_25.html#/therinum) [அஃதே](thirukkural_kurals_21_to_25.html#/aqdhe) [துணை](thirukkural_kurals_21_to_25.html#/thunai). ⁠242 (அருளுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/242.mp3"></audio>
 
 ## Introduction
 
@@ -123,7 +214,8 @@ Highlight that each usage example is followed by its Kural number for reference.
 :::
 
 
-## Word Study: தீவினை (Theevinai)
+## Theevinai
+**தீவினை**  
 
 - **Meaning:** Evil deed
 - **Part of Speech:** Noun
@@ -147,8 +239,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: என்னும் (Ennum)
+
+## Ennum
+**என்னும்**  
 
 - **Meaning:** Called
 - **Part of Speech:** Verb
@@ -174,8 +267,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: செருக்கு (Serukku)
+
+## Serukku
+**செருக்கு**  
 
 - **Meaning:** Pride
 - **Part of Speech:** Noun
@@ -201,8 +295,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: தீவினையார் (Theevinaiyaar)
+
+## Theevinaiyaar
+**தீவினையார்**  
 
 - **Meaning:** Evil doers
 - **Part of Speech:** Noun
@@ -224,8 +319,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அஞ்சார் (Anjaar)
+
+## Anjaar
+**அஞ்சார்**  
 
 - **Meaning:** Do not fear
 - **Part of Speech:** Verb
@@ -247,8 +343,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: விழுமியார் (Vizhumiyaar)
+
+## Vizhumiyaar
+**விழுமியார்**  
 
 - **Meaning:** Virtuous people
 - **Part of Speech:** Noun
@@ -270,8 +367,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அஞ்சுவர் (Anjuvar)
+
+## Anjuvar
+**அஞ்சுவர்**  
 
 - **Meaning:** Will fear
 - **Part of Speech:** Verb
@@ -293,8 +391,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: தக்கார்க்கு (Thakkaarkku)
+
+## Thakkaarkku
+**தக்கார்க்கு**  
 
 - **Meaning:** For the worthy
 - **Part of Speech:** Noun
@@ -317,8 +416,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: தான் (Thaan)
+
+## Thaan
+**தான்**  
 
 - **Meaning:** Self
 - **Part of Speech:** Pronoun
@@ -344,8 +444,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஆற்றித் (Aattrit)
+
+## Aattrit
+**ஆற்றித்**  
 
 - **Meaning:** Performing
 - **Part of Speech:** Verb
@@ -367,8 +468,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: தந்த (Thantha)
+
+## Thantha
+**தந்த**  
 
 - **Meaning:** Given
 - **Part of Speech:** Verb
@@ -394,8 +496,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பொருள் (Porul)
+
+## Porul
+**பொருள்**  
 
 - **Meaning:** Wealth
 - **Part of Speech:** Noun
@@ -421,8 +524,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: எல்லாம் (Ellaam)
+
+## Ellaam
+**எல்லாம்**  
 
 - **Meaning:** All
 - **Part of Speech:** Pronoun
@@ -448,8 +552,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: வேளாண்மை (Velaanmai)
+
+## Velaanmai
+**வேளாண்மை**  
 
 - **Meaning:** Hospitality
 - **Part of Speech:** Noun
@@ -474,8 +579,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: செய்தற் (Seydhar)
+
+## Seydhar
+**செய்தற்**  
 
 - **Meaning:** For doing
 - **Part of Speech:** Verb
@@ -500,8 +606,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பொருட்டு (Poruttu)
+
+## Poruttu
+**பொருட்டு**  
 
 - **Meaning:** For the sake of
 - **Part of Speech:** Postposition
@@ -527,8 +634,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இலன் (Ilan)
+
+## Ilan
+**இலன்**  
 
 - **Meaning:** Without
 - **Part of Speech:** Adjective
@@ -554,8 +662,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: என்னும் (Ennum)
+
+## Ennum
+**என்னும்**  
 
 - **Meaning:** Called
 - **Part of Speech:** Verb
@@ -581,8 +690,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: எவ்வம் (Evvam)
+
+## Evvam
+**எவ்வம்**  
 
 - **Meaning:** Sorrow
 - **Part of Speech:** Noun
@@ -604,8 +714,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உரையாமை (Uraiyaamai)
+
+## Uraiyaamai
+**உரையாமை**  
 
 - **Meaning:** Not saying
 - **Part of Speech:** Verb
@@ -627,8 +738,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஈதல் (Eethal)
+
+## Eethal
+**ஈதல்**  
 
 - **Meaning:** Giving
 - **Part of Speech:** Verb
@@ -654,8 +766,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: குலன் (Kulan)
+
+## Kulan
+**குலன்**  
 
 - **Meaning:** Family
 - **Part of Speech:** Noun
@@ -677,8 +790,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உடையான்கண்ணே (Udaiyaankaṇṇe)
+
+## Udaiyaankaṇṇe
+**உடையான்கண்ணே**  
 
 - **Meaning:** In one who has
 - **Part of Speech:** Noun
@@ -700,8 +814,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஒன்றா (Ondraa)
+
+## Ondraa
+**ஒன்றா**  
 
 - **Meaning:** Not one
 - **Part of Speech:** Adjective
@@ -727,8 +842,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உயர்ந்த (Uyarndha)
+
+## Uyarndha
+**உயர்ந்த**  
 
 - **Meaning:** Elevated
 - **Part of Speech:** Adjective
@@ -752,8 +868,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: புகழ் (Pugazh)
+
+## Pugazh
+**புகழ்**  
 
 - **Meaning:** Fame
 - **Part of Speech:** Noun
@@ -779,8 +896,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அல்லால் (Allaal)
+
+## Allaal
+**அல்லால்**  
 
 - **Meaning:** Except
 - **Part of Speech:** Adverb
@@ -806,8 +924,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: உலகத்துப் (Ulagathup)
+
+## Ulagathup
+**உலகத்துப்**  
 
 - **Meaning:** In the world
 - **Part of Speech:** Noun
@@ -829,8 +948,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பொன்றாது (Pondraadhu)
+
+## Pondraadhu
+**பொன்றாது**  
 
 - **Meaning:** Without perishing
 - **Part of Speech:** Verb
@@ -852,8 +972,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: நிற்பது (Nirpadhu)
+
+## Nirpadhu
+**நிற்பது**  
 
 - **Meaning:** That which stands
 - **Part of Speech:** Verb
@@ -875,8 +996,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஒன்று (Ondru)
+
+## Ondru
+**ஒன்று**  
 
 - **Meaning:** One thing
 - **Part of Speech:** Pronoun
@@ -902,8 +1024,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: இல் (Il)
+
+## Il
+**இல்**  
 
 - **Meaning:** House
 - **Part of Speech:** Noun
@@ -929,8 +1052,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: நல் (Nal)
+
+## Nal
+**நல்**  
 
 - **Meaning:** Good
 - **Part of Speech:** Adjective
@@ -956,8 +1080,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஆற்றான் (Aatraan)
+
+## Aatraan
+**ஆற்றான்**  
 
 - **Meaning:** Path
 - **Part of Speech:** Noun
@@ -982,8 +1107,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: நாடி (Naadi)
+
+## Naadi
+**நாடி**  
 
 - **Meaning:** Seeking
 - **Part of Speech:** Verb
@@ -1009,8 +1135,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அருள் (Arul)
+
+## Arul
+**அருள்**  
 
 - **Meaning:** Kindness
 - **Part of Speech:** Noun
@@ -1036,8 +1163,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஆள்க (Aalga)
+
+## Aalga
+**ஆள்க**  
 
 - **Meaning:** Let (oneself) wear
 - **Part of Speech:** Verb
@@ -1060,8 +1188,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: பல (Pala)
+
+## Pala
+**பல**  
 
 - **Meaning:** Many
 - **Part of Speech:** Adjective
@@ -1087,8 +1216,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: ஆற்றான் (Aatraan)
+
+## Aatraan
+**ஆற்றான்**  
 
 - **Meaning:** Path
 - **Part of Speech:** Noun
@@ -1113,8 +1243,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: தேரினும் (Therinum)
+
+## Therinum
+**தேரினும்**  
 
 - **Meaning:** Even if chosen
 - **Part of Speech:** Verb
@@ -1137,8 +1268,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: துணை (Thunai)
+
+## Thunai
+**துணை**  
 
 - **Meaning:** Support
 - **Part of Speech:** Noun
@@ -1164,8 +1296,9 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
-## Word Study: அஃதே (Aqdhe)
+
+## Aqdhe
+**அஃதே**  
 
 - **Meaning:** That itself
 - **Part of Speech:** Pronoun
@@ -1189,7 +1322,7 @@ Discuss the cultural context of these phrases.
 Highlight any collocations or common word pairings.
 Encourage students to look up the full kurals for more context.
 :::
-    
+
 ## Conclusion
 
 - Review the words we've learned in this session.
@@ -1202,4 +1335,3 @@ Encourage students to look up the full kurals for more context.
 2. Analyze how these words are used in other Tamil literary works.
 3. Reflect on how understanding these words deepens your appreciation of Tamil literature and culture.
 4. Look up the full kurals referenced in the usage examples for broader context.
-    

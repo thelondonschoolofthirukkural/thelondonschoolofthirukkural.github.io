@@ -3,7 +3,7 @@ title: "Summer"
 format: html
 ---
 
-# Summer Class
+# Summer Class Syllabus
 
 [Class 1 - Kurals 1, 12, 23, 34, 45](thirukkural_kurals_1_to_5.qmd)  
 [Class 2 - Kurals 56, 67, 78, 89, 100](thirukkural_kurals_6_to_10.qmd)  
@@ -18,6 +18,14 @@ In Class 1, we will learn the syllables in all words in [Kural 1](kuralQuartoWor
 In Class 2, we will learn the syllables in all words in [Kural 56](kuralQuartoWordsAsaiContent56.qmd), 
 [Kural 67](kuralQuartoWordsAsaiContent67.qmd), [Kural 78](kuralQuartoWordsAsaiContent78.qmd), [Kural 89](kuralQuartoWordsAsaiContent89.qmd), [Kural 100](kuralQuartoWordsAsaiContent100.qmd)  
 
+We covered also examples in duality.
+
+In Class 3, we will learn syllables in all words in Kurals 101, 112, 123, 134, 145
+
+In Class 4, we will learn syllables in all words in Kurals 156, 167, 178, 189, 200
+
+In Class 5, we will learn syllables in all words in Kurals 201, 212, 223, 234 (and 233), 245 (and 242)
+
 # Learning words based on POS
 
 [Nouns](thirukkural_noun_words.qmd)  
@@ -29,7 +37,8 @@ In Class 2, we will learn the syllables in all words in [Kural 56](kuralQuartoWo
 
 # Homeworks
 
-[What are the examples for Duality](duality.qmd)
+1. [What are the examples for Duality](duality.qmd)  
+2. Meanings of all words in Kurals covered in class 1 and 2
 
 # Claude Lessons
 
@@ -54,3 +63,8 @@ In Class 2, we will learn the syllables in all words in [Kural 56](kuralQuartoWo
 [Lesson 1-8](lesson1-8.qmd)  
 [Lesson 1-9](lesson1-9.qmd)  
 [Lesson 1-10](lesson1-10.qmd)  
+
+## History
+
+1. Navigation Added 
+2. Asai wise presentation added
