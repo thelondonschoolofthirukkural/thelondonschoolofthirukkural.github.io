@@ -1,0 +1,192 @@
+---
+title: "Kural 178"
+format: revealjs
+---
+
+# குறள் 178
+
+# அஃகாமை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அஃ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அஃ/&nbsp;கா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அஃ/&nbsp;கா/&nbsp;மை
+
+:::
+
+<br>
+
+::::
+
+# செல்வத்திற்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  செல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செல்/&nbsp;வத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செல்/&nbsp;வத்/&nbsp;திற்
+
+:::
+
+<br>
+
+::::
+
+# கியாதெனின்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  கியா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  கியா/&nbsp;தெனின்
+
+:::
+
+<br>
+
+::::
+
+# வெஃகாமை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  வெஃ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வெஃ/&nbsp;கா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வெஃ/&nbsp;கா/&nbsp;மை
+
+:::
+
+<br>
+
+::::
+
+# வேண்டும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  வேண்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வேண்/&nbsp;டும்
+
+:::
+
+<br>
+
+::::
+
+# பிறன்கைப்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பிறன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பிறன்/&nbsp;கைப்
+
+:::
+
+<br>
+
+::::
+
+# பொருள்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பொருள்
+
+:::
+
+<br>
+
+::::

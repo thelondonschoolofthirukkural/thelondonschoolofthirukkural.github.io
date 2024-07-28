@@ -1,0 +1,210 @@
+---
+title: "Kural 101"
+format: revealjs
+---
+
+# குறள் 101
+
+# செய்யாமல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  செய்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செய்/&nbsp;யா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செய்/&nbsp;யா/&nbsp;மல்
+
+:::
+
+<br>
+
+::::
+
+# செய்த
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  செய்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செய்/&nbsp;த
+
+:::
+
+<br>
+
+::::
+
+# உதவிக்கு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உத
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உத/&nbsp;விக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உத/&nbsp;விக்/&nbsp;கு
+
+:::
+
+<br>
+
+::::
+
+# வையகமும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  வை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வை/&nbsp;யக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வை/&nbsp;யக/&nbsp;மும்
+
+:::
+
+<br>
+
+::::
+
+# வானகமும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  வா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வா/&nbsp;னக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வா/&nbsp;னக/&nbsp;மும்
+
+:::
+
+<br>
+
+::::
+
+# ஆற்றல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆற்/&nbsp;றல்
+
+:::
+
+<br>
+
+::::
+
+# அரிது
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அரி
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அரி/&nbsp;து
+
+:::
+
+<br>
+
+::::

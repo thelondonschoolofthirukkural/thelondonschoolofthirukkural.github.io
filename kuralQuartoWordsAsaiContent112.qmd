@@ -1,0 +1,201 @@
+---
+title: "Kural 112"
+format: revealjs
+---
+
+# குறள் 112
+
+# செப்பம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  செப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செப்/&nbsp;பம்
+
+:::
+
+<br>
+
+::::
+
+# உடையவன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உடை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உடை/&nbsp;யவன்
+
+:::
+
+<br>
+
+::::
+
+# ஆக்கஞ்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆக்/&nbsp;கஞ்
+
+:::
+
+<br>
+
+::::
+
+# சிதைவின்றி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  சிதை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சிதை/&nbsp;வின்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சிதை/&nbsp;வின்/&nbsp;றி
+
+:::
+
+<br>
+
+::::
+
+# எச்சத்திற்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  எச்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எச்/&nbsp;சத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எச்/&nbsp;சத்/&nbsp;திற்
+
+:::
+
+<br>
+
+::::
+
+# கேமாப்பு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  கே
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  கே/&nbsp;மாப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  கே/&nbsp;மாப்/&nbsp;பு
+
+:::
+
+<br>
+
+::::
+
+# உடைத்து
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உடைத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உடைத்/&nbsp;து
+
+:::
+
+<br>
+
+::::

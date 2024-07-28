@@ -1,0 +1,183 @@
+---
+title: "Kural 234"
+format: revealjs
+---
+
+# குறள் 234
+
+# நிலவரை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  நில
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  நில/&nbsp;வரை
+
+:::
+
+<br>
+
+::::
+
+# நீள்புகழ்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  நீள்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  நீள்/&nbsp;புகழ்
+
+:::
+
+<br>
+
+::::
+
+# ஆற்றின்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆற்/&nbsp;றின்
+
+:::
+
+<br>
+
+::::
+
+# புலவரைப்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  புல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  புல/&nbsp;வரைப்
+
+:::
+
+<br>
+
+::::
+
+# போற்றாது
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  போற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  போற்/&nbsp;றா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  போற்/&nbsp;றா/&nbsp;து
+
+:::
+
+<br>
+
+::::
+
+# புத்தேள்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  புத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  புத்/&nbsp;தேள்
+
+:::
+
+<br>
+
+::::
+
+# உலகு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உல/&nbsp;கு
+
+:::
+
+<br>
+
+::::

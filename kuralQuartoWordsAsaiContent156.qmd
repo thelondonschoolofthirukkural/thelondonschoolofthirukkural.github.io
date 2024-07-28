@@ -1,0 +1,192 @@
+---
+title: "Kural 156"
+format: revealjs
+---
+
+# குறள் 156
+
+# ஒறுத்தார்க்கு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஒறுத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஒறுத்/&nbsp;தார்க்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஒறுத்/&nbsp;தார்க்/&nbsp;கு
+
+:::
+
+<br>
+
+::::
+
+# ஒருநாளை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஒரு
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஒரு/&nbsp;நா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஒரு/&nbsp;நா/&nbsp;ளை
+
+:::
+
+<br>
+
+::::
+
+# இன்பம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  இன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இன்/&nbsp;பம்
+
+:::
+
+<br>
+
+::::
+
+# பொறுத்தார்க்குப்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பொறுத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பொறுத்/&nbsp;தார்க்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பொறுத்/&nbsp;தார்க்/&nbsp;குப்
+
+:::
+
+<br>
+
+::::
+
+# பொன்றுந்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பொன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பொன்/&nbsp;றுந்
+
+:::
+
+<br>
+
+::::
+
+# துணையும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  துணை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  துணை/&nbsp;யும்
+
+:::
+
+<br>
+
+::::
+
+# புகழ்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  புகழ்
+
+:::
+
+<br>
+
+::::

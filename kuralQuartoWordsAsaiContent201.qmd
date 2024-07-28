@@ -1,0 +1,183 @@
+---
+title: "Kural 201"
+format: revealjs
+---
+
+# குறள் 201
+
+# தீவினையார்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தீ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தீ/&nbsp;வினை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தீ/&nbsp;வினை/&nbsp;யார்
+
+:::
+
+<br>
+
+::::
+
+# அஞ்சார்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அஞ்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அஞ்/&nbsp;சார்
+
+:::
+
+<br>
+
+::::
+
+# விழுமியார்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  விழு
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  விழு/&nbsp;மியார்
+
+:::
+
+<br>
+
+::::
+
+# அஞ்சுவர்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அஞ்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அஞ்/&nbsp;சுவர்
+
+:::
+
+<br>
+
+::::
+
+# தீவினை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தீ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தீ/&nbsp;வினை
+
+:::
+
+<br>
+
+::::
+
+# என்னும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  என்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  என்/&nbsp;னும்
+
+:::
+
+<br>
+
+::::
+
+# செருக்கு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  செருக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செருக்/&nbsp;கு
+
+:::
+
+<br>
+
+::::

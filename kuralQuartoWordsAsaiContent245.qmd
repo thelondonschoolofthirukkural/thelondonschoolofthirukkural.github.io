@@ -1,0 +1,192 @@
+---
+title: "Kural 245"
+format: revealjs
+---
+
+# குறள் 245
+
+# அல்லல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அல்/&nbsp;லல்
+
+:::
+
+<br>
+
+::::
+
+# அருளாள்வார்க்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அரு
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அரு/&nbsp;ளாள்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அரு/&nbsp;ளாள்/&nbsp;வார்க்
+
+:::
+
+<br>
+
+::::
+
+# கில்லை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  கில்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  கில்/&nbsp;லை
+
+:::
+
+<br>
+
+::::
+
+# வளிவழங்கும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  வளி
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வளி/&nbsp;வழங்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வளி/&nbsp;வழங்/&nbsp;கும்
+
+:::
+
+<br>
+
+::::
+
+# மல்லன்மா
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  மல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மல்/&nbsp;லன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மல்/&nbsp;லன்/&nbsp;மா
+
+:::
+
+<br>
+
+::::
+
+# ஞாலங்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஞா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஞா/&nbsp;லங்
+
+:::
+
+<br>
+
+::::
+
+# கரி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  கரி
+
+:::
+
+<br>
+
+::::

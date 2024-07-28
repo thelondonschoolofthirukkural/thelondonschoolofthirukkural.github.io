@@ -1,0 +1,183 @@
+---
+title: "Kural 134"
+format: revealjs
+---
+
+# குறள் 134
+
+# மறப்பினும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  மறப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  மறப்/&nbsp;பினும்
+
+:::
+
+<br>
+
+::::
+
+# ஓத்துக்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஓத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஓத்/&nbsp;துக்
+
+:::
+
+<br>
+
+::::
+
+# கொளலாகும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  கொள
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  கொள/&nbsp;லா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  கொள/&nbsp;லா/&nbsp;கும்
+
+:::
+
+<br>
+
+::::
+
+# பார்ப்பான்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பார்ப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பார்ப்/&nbsp;பான்
+
+:::
+
+<br>
+
+::::
+
+# பிறப்பொழுக்கங்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பிறப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பிறப்/&nbsp;பொழுக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பிறப்/&nbsp;பொழுக்/&nbsp;கங்
+
+:::
+
+<br>
+
+::::
+
+# குன்றக்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  குன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  குன்/&nbsp;றக்
+
+:::
+
+<br>
+
+::::
+
+# கெடும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  கெடும்
+
+:::
+
+<br>
+
+::::
