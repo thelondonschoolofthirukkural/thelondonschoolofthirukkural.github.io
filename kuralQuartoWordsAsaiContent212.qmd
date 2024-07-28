@@ -1,0 +1,210 @@
+---
+title: "Kural 212"
+format: revealjs
+---
+
+# குறள் 212
+
+# தாளாற்றித்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தா/&nbsp;ளாற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தா/&nbsp;ளாற்/&nbsp;றித்
+
+:::
+
+<br>
+
+::::
+
+# தந்த
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தந்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தந்/&nbsp;த
+
+:::
+
+<br>
+
+::::
+
+# பொருளெல்லாம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பொரு
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பொரு/&nbsp;ளெல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பொரு/&nbsp;ளெல்/&nbsp;லாம்
+
+:::
+
+<br>
+
+::::
+
+# தக்கார்க்கு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தக்/&nbsp;கார்க்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தக்/&nbsp;கார்க்/&nbsp;கு
+
+:::
+
+<br>
+
+::::
+
+# வேளாண்மை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  வே
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வே/&nbsp;ளாண்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வே/&nbsp;ளாண்/&nbsp;மை
+
+:::
+
+<br>
+
+::::
+
+# செய்தற்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  செய்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செய்/&nbsp;தற்
+
+:::
+
+<br>
+
+::::
+
+# பொருட்டு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பொருட்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பொருட்/&nbsp;டு
+
+:::
+
+<br>
+
+::::

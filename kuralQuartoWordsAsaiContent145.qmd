@@ -1,0 +1,183 @@
+---
+title: "Kural 145"
+format: revealjs
+---
+
+# குறள் 145
+
+# எளிதென
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  எளி
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எளி/&nbsp;தென
+
+:::
+
+<br>
+
+::::
+
+# இல்லிறப்பான்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  இல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இல்/&nbsp;லிறப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இல்/&nbsp;லிறப்/&nbsp;பான்
+
+:::
+
+<br>
+
+::::
+
+# எய்துமெஞ்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  எய்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எய்/&nbsp;துமெஞ்
+
+:::
+
+<br>
+
+::::
+
+# ஞான்றும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஞான்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஞான்/&nbsp;றும்
+
+:::
+
+<br>
+
+::::
+
+# விளியாது
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  விளி
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  விளி/&nbsp;யா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  விளி/&nbsp;யா/&nbsp;து
+
+:::
+
+<br>
+
+::::
+
+# நிற்கும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  நிற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  நிற்/&nbsp;கும்
+
+:::
+
+<br>
+
+::::
+
+# பழி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பழி
+
+:::
+
+<br>
+
+::::

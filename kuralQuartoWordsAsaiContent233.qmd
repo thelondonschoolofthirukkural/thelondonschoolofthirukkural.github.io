@@ -1,0 +1,192 @@
+---
+title: "Kural 233"
+format: revealjs
+---
+
+# குறள் 233
+
+# ஒன்றா
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஒன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஒன்/&nbsp;றா
+
+:::
+
+<br>
+
+::::
+
+# உலகத்து
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உல/&nbsp;கத்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உல/&nbsp;கத்/&nbsp;து
+
+:::
+
+<br>
+
+::::
+
+# உயர்ந்த
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உயர்ந்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உயர்ந்/&nbsp;த
+
+:::
+
+<br>
+
+::::
+
+# புகழல்லால்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  புக
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  புக/&nbsp;ழல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  புக/&nbsp;ழல்/&nbsp;லால்
+
+:::
+
+<br>
+
+::::
+
+# பொன்றாது
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பொன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பொன்/&nbsp;றா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பொன்/&nbsp;றா/&nbsp;து
+
+:::
+
+<br>
+
+::::
+
+# நிற்பதொன்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  நிற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  நிற்/&nbsp;பதொன்
+
+:::
+
+<br>
+
+::::
+
+# றில்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  றில்
+
+:::
+
+<br>
+
+::::

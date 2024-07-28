@@ -1,0 +1,201 @@
+---
+title: "Kural 167"
+format: revealjs
+---
+
+# குறள் 167
+
+# அவ்வித்து
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அவ்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அவ்/&nbsp;வித்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அவ்/&nbsp;வித்/&nbsp;து
+
+:::
+
+<br>
+
+::::
+
+# அழுக்காறு
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அழுக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அழுக்/&nbsp;கா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அழுக்/&nbsp;கா/&nbsp;று
+
+:::
+
+<br>
+
+::::
+
+# உடையானைச்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உடை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உடை/&nbsp;யா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உடை/&nbsp;யா/&nbsp;னைச்
+
+:::
+
+<br>
+
+::::
+
+# செய்யவள்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  செய்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செய்/&nbsp;யவள்
+
+:::
+
+<br>
+
+::::
+
+# தவ்வையைக்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தவ்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தவ்/&nbsp;வை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தவ்/&nbsp;வை/&nbsp;யைக்
+
+:::
+
+<br>
+
+::::
+
+# காட்டி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  காட்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  காட்/&nbsp;டி
+
+:::
+
+<br>
+
+::::
+
+# விடும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  விடும்
+
+:::
+
+<br>
+
+::::

@@ -1,0 +1,183 @@
+---
+title: "Kural 123"
+format: revealjs
+---
+
+# குறள் 123
+
+# செறிவறிந்து
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  செறி
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செறி/&nbsp;வறிந்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  செறி/&nbsp;வறிந்/&nbsp;து
+
+:::
+
+<br>
+
+::::
+
+# சீர்மை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  சீர்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சீர்/&nbsp;மை
+
+:::
+
+<br>
+
+::::
+
+# பயக்கும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பயக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பயக்/&nbsp;கும்
+
+:::
+
+<br>
+
+::::
+
+# அறிவறிந்து
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அறி
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அறி/&nbsp;வறிந்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அறி/&nbsp;வறிந்/&nbsp;து
+
+:::
+
+<br>
+
+::::
+
+# ஆற்றின்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆற்/&nbsp;றின்
+
+:::
+
+<br>
+
+::::
+
+# அடங்கப்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அடங்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அடங்/&nbsp;கப்
+
+:::
+
+<br>
+
+::::
+
+# பெறின்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பெறின்
+
+:::
+
+<br>
+
+::::

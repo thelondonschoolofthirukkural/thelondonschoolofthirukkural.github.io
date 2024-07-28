@@ -1,0 +1,183 @@
+---
+title: "Kural 200"
+format: revealjs
+---
+
+# குறள் 200
+
+# சொல்லுக
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  சொல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சொல்/&nbsp;லுக
+
+:::
+
+<br>
+
+::::
+
+# சொல்லிற்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  சொல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சொல்/&nbsp;லிற்
+
+:::
+
+<br>
+
+::::
+
+# பயனுடைய
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பய
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பய/&nbsp;னுடை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பய/&nbsp;னுடை/&nbsp;ய
+
+:::
+
+<br>
+
+::::
+
+# சொல்லற்க
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  சொல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சொல்/&nbsp;லற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சொல்/&nbsp;லற்/&nbsp;க
+
+:::
+
+<br>
+
+::::
+
+# சொல்லிற்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  சொல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  சொல்/&nbsp;லிற்
+
+:::
+
+<br>
+
+::::
+
+# பயனிலாச்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பய
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பய/&nbsp;னிலாச்
+
+:::
+
+<br>
+
+::::
+
+# சொல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  சொல்
+
+:::
+
+<br>
+
+::::

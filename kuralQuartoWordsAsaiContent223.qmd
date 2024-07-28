@@ -1,0 +1,192 @@
+---
+title: "Kural 223"
+format: revealjs
+---
+
+# குறள் 223
+
+# இலனென்னும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  இல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இல/&nbsp;னென்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  இல/&nbsp;னென்/&nbsp;னும்
+
+:::
+
+<br>
+
+::::
+
+# எவ்வம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  எவ்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  எவ்/&nbsp;வம்
+
+:::
+
+<br>
+
+::::
+
+# உரையாமை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உரை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உரை/&nbsp;யா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உரை/&nbsp;யா/&nbsp;மை
+
+:::
+
+<br>
+
+::::
+
+# ஈதல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஈ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஈ/&nbsp;தல்
+
+:::
+
+<br>
+
+::::
+
+# குலனுடையான்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  குல
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  குல/&nbsp;னுடை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  குல/&nbsp;னுடை/&nbsp;யான்
+
+:::
+
+<br>
+
+::::
+
+# கண்ணே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  கண்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  கண்/&nbsp;ணே
+
+:::
+
+<br>
+
+::::
+
+# யுள
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  யுள
+
+:::
+
+<br>
+
+::::

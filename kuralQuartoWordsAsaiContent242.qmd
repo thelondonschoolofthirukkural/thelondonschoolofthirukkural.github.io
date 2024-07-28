@@ -1,0 +1,192 @@
+---
+title: "Kural 242"
+format: revealjs
+---
+
+# குறள் 242
+
+# நல்லாற்றாள்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  நல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  நல்/&nbsp;லாற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  நல்/&nbsp;லாற்/&nbsp;றாள்
+
+:::
+
+<br>
+
+::::
+
+# நாடி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  நா
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  நா/&nbsp;டி
+
+:::
+
+<br>
+
+::::
+
+# அருளாள்க
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அரு
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அரு/&nbsp;ளாள்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அரு/&nbsp;ளாள்/&nbsp;க
+
+:::
+
+<br>
+
+::::
+
+# பல்லாற்றால்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பல்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பல்/&nbsp;லாற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  பல்/&nbsp;லாற்/&nbsp;றால்
+
+:::
+
+<br>
+
+::::
+
+# தேரினும்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  தே
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  தே/&nbsp;ரினும்
+
+:::
+
+<br>
+
+::::
+
+# அஃதே
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அஃ
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அஃ/&nbsp;தே
+
+:::
+
+<br>
+
+::::
+
+# துணை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  துணை
+
+:::
+
+<br>
+
+::::

@@ -1,0 +1,192 @@
+---
+title: "Kural 189"
+format: revealjs
+---
+
+# குறள் 189
+
+# அறன்நோக்கி
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  அறன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அறன்/&nbsp;நோக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  அறன்/&nbsp;நோக்/&nbsp;கி
+
+:::
+
+<br>
+
+::::
+
+# ஆற்றுங்கொல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  ஆற்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆற்/&nbsp;றுங்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  ஆற்/&nbsp;றுங்/&nbsp;கொல்
+
+:::
+
+<br>
+
+::::
+
+# வையம்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  வை
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  வை/&nbsp;யம்
+
+:::
+
+<br>
+
+::::
+
+# புறன்நோக்கிப்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  புறன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  புறன்/&nbsp;நோக்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  புறன்/&nbsp;நோக்/&nbsp;கிப்
+
+:::
+
+<br>
+
+::::
+
+# புன்சொல்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  புன்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  புன்/&nbsp;சொல்
+
+:::
+
+<br>
+
+::::
+
+# உரைப்பான்
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  உரைப்
+
+:::
+
+<br>
+
+::: {.fragment}
+
+
+  உரைப்/&nbsp;பான்
+
+:::
+
+<br>
+
+::::
+
+# பொறை
+
+:::: {.incremental}
+
+::: {.fragment}
+
+
+  பொறை
+
+:::
+
+<br>
+
+::::

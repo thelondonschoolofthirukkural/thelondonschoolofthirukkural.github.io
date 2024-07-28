@@ -319,6 +319,67 @@
       margin-right: 0; 
     }
   </style>
+  <style>
+  audio {
+  width: 150px; /* Adjust this value to change the width */
+  height: 40px; /* Adjust this value to change the height */
+  display: inline-block;
+  vertical-align: middle;
+  }
+  </style>
+  <script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+  let currentAudio = null;
+
+  document.querySelectorAll('audio').forEach(audio => {
+  audio.autoplay = false;
+  audio.controls = true; // Make controls visible
+  });
+
+  document.addEventListener('keydown', (event) => {
+  if (event.code === 'Space') {
+  event.preventDefault(); // Prevent space from scrolling the page
+  toggleAudioPlayPause();
+  } else if (event.code === 'KeyR') {
+  resetAudio();
+  }
+  });
+
+  function toggleAudioPlayPause() {
+  const currentSlide = Reveal.getCurrentSlide();
+  const audio = currentSlide.querySelector('audio');
+  if (audio) {
+  if (audio.paused) {
+  if (currentAudio && currentAudio !== audio) {
+  currentAudio.pause();
+  currentAudio.currentTime = 0;
+  }
+  audio.play();
+  currentAudio = audio;
+  } else {
+  audio.pause();
+  }
+  }
+  }
+
+  function resetAudio() {
+  const currentSlide = Reveal.getCurrentSlide();
+  const audio = currentSlide.querySelector('audio');
+  if (audio) {
+  audio.pause();
+  audio.currentTime = 0;
+  }
+  }
+
+  Reveal.on('slidechanged', event => {
+  if (currentAudio) {
+  currentAudio.pause();
+  currentAudio.currentTime = 0;
+  }
+  currentAudio = null;
+  });
+  });
+  </script>
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -416,19 +477,34 @@
 <h1>Thirukkural 21-25</h1>
 <ol start="21" type="1">
 <li>தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்<br>
-தீவினை என்னும் செருக்கு. ⁠201 (தீவினையச்சம்)<br>
-</li>
+தீவினை என்னும் செருக்கு. ⁠201 (தீவினையச்சம்) <audio src="https://www.valaitamil.com/upload/kural_audio/201.mp3"></audio></li>
 <li>தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு<br>
-வேளாண்மை செய்தற் பொருட்டு. ⁠212 (ஒப்புரவறிதல்)<br>
-</li>
+வேளாண்மை செய்தற் பொருட்டு. ⁠212 (ஒப்புரவறிதல்) <audio src="https://www.valaitamil.com/upload/kural_audio/212.mp3"></audio></li>
 <li>இலனென்னும் எவ்வம் உரையாமை ஈதல்<br>
-குலனுடையான் கண்ணே யுள. ⁠223 (ஈகை)<br>
-</li>
+குலனுடையான் கண்ணே யுள. ⁠223 (ஈகை) <audio src="https://www.valaitamil.com/upload/kural_audio/223.mp3"></audio></li>
 <li>நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்<br>
-போற்றாது புத்தேள் உலகு. ⁠234 (புகழ்)<br>
-</li>
+போற்றாது புத்தேள் உலகு. ⁠234 (புகழ்) <audio src="https://www.valaitamil.com/upload/kural_audio/234.mp3"></audio></li>
 <li>அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும்<br>
-மல்லன்மா ஞாலங் கரி. ⁠245 (அருளுடைமை)</li>
+மல்லன்மா ஞாலங் கரி. ⁠245 (அருளுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/245.mp3"></audio></li>
+</ol>
+</section>
+<section id="links" class="slide level2">
+<h2>Links</h2>
+<ol start="21" type="1">
+<li><p><a href="thirukkural_kurals_21_to_25.html#/theevinaiyaar">தீவினையார்</a> <a href="thirukkural_kurals_21_to_25.html#/anjaar">அஞ்சார்</a> <a href="thirukkural_kurals_21_to_25.html#/vizhumiyaar">விழுமியார்</a> <a href="thirukkural_kurals_21_to_25.html#/anjuvar">அஞ்சுவர்</a><br>
+<a href="thirukkural_kurals_21_to_25.html#/theevinai">தீவினை</a> <a href="thirukkural_kurals_21_to_25.html#/ennum">என்னும்</a> <a href="thirukkural_kurals_21_to_25.html#/serukku">செருக்கு</a>. ⁠201 (தீவினையச்சம்) <audio src="https://www.valaitamil.com/upload/kural_audio/201.mp3"></audio></p></li>
+<li><p><a href="thirukkural_kurals_21_to_25.html#/aattrit">தாளாற்றித்</a> <a href="thirukkural_kurals_21_to_25.html#/thantha">தந்த</a> <a href="thirukkural_kurals_21_to_25.html#/porul">பொருள்</a> <a href="thirukkural_kurals_21_to_25.html#/ellaam">எல்லாம்</a> <a href="thirukkural_kurals_21_to_25.html#/thakkaarkku">தக்கார்க்கு</a><br>
+<a href="thirukkural_kurals_21_to_25.html#/velaanmai">வேளாண்மை</a> <a href="thirukkural_kurals_21_to_25.html#/seydhar">செய்தற்</a> <a href="thirukkural_kurals_21_to_25.html#/poruttu">பொருட்டு</a>. ⁠212 (ஒப்புரவறிதல்) <audio src="https://www.valaitamil.com/upload/kural_audio/212.mp3"></audio></p></li>
+<li><p><a href="thirukkural_kurals_21_to_25.html#/ilan">இலன்</a> <a href="thirukkural_kurals_21_to_25.html#/ennum">என்னும்</a> <a href="thirukkural_kurals_21_to_25.html#/evvam">எவ்வம்</a> <a href="thirukkural_kurals_21_to_25.html#/uraiyaamai">உரையாமை</a> <a href="thirukkural_kurals_21_to_25.html#/eethal">ஈதல்</a><br>
+<a href="thirukkural_kurals_21_to_25.html#/kulan">குலன்</a> <a href="thirukkural_kurals_21_to_25.html#/udaiyaankaṇṇe">உடையான்கண்ணே</a> யுள. ⁠223 (ஈகை) <audio src="https://www.valaitamil.com/upload/kural_audio/223.mp3"></audio></p></li>
+<li><p>நிலவரை நீள் <a href="thirukkural_kurals_21_to_25.html#/pugazh">புகழ்</a> ஆற்றின் புலவரைப்<br>
+போற்றாது புத்தேள் உலகு. ⁠234 (புகழ்) <audio src="https://www.valaitamil.com/upload/kural_audio/234.mp3"></audio></p></li>
+<li><p>அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும்<br>
+மல்லன்மா ஞாலங் கரி. ⁠245 (அருளுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/245.mp3"></audio></p></li>
+<li><p><a href="thirukkural_kurals_21_to_25.html#/ondraa">ஒன்றா</a> <a href="thirukkural_kurals_21_to_25.html#/ulagathup">உலகத்து</a> <a href="thirukkural_kurals_21_to_25.html#/uyarndha">உயர்ந்த</a> <a href="thirukkural_kurals_21_to_25.html#/pugazh">புகழ்</a> <a href="thirukkural_kurals_21_to_25.html#/allaal">அல்லால்</a><br>
+<a href="thirukkural_kurals_21_to_25.html#/pondraadhu">பொன்றாது</a> <a href="thirukkural_kurals_21_to_25.html#/nirpadhu">நிற்பது</a> <a href="thirukkural_kurals_21_to_25.html#/ondru">ஒன்று</a> <a href="thirukkural_kurals_21_to_25.html#/il">இல்</a>. ⁠233 (புகழ்) <audio src="https://www.valaitamil.com/upload/kural_audio/233.mp3"></audio></p></li>
+<li><p><a href="thirukkural_kurals_21_to_25.html#/nal">நல்</a> <a href="thirukkural_kurals_21_to_25.html#/aatraan">ஆற்றால்</a> <a href="thirukkural_kurals_21_to_25.html#/naadi">நாடி</a> <a href="thirukkural_kurals_21_to_25.html#/arul">அருள்</a> <a href="thirukkural_kurals_21_to_25.html#/aalga">ஆள்க</a> <a href="thirukkural_kurals_21_to_25.html#/pala">பல்</a> <a href="thirukkural_kurals_21_to_25.html#/aatraan">ஆற்றால்</a><br>
+<a href="thirukkural_kurals_21_to_25.html#/therinum">தேரினும்</a> <a href="thirukkural_kurals_21_to_25.html#/aqdhe">அஃதே</a> <a href="thirukkural_kurals_21_to_25.html#/thunai">துணை</a>. ⁠242 (அருளுடைமை) <audio src="https://www.valaitamil.com/upload/kural_audio/242.mp3"></audio></p></li>
 </ol>
 </section>
 <section id="introduction" class="slide level2">
@@ -480,8 +556,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தவன-theevinai" class="slide level2">
-<h2>Word Study: தீவினை (Theevinai)</h2>
+<section id="theevinai" class="slide level2">
+<h2>Theevinai</h2>
+<p><strong>தீவினை</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Evil deed</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -514,8 +591,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-எனனம-ennum" class="slide level2">
-<h2>Word Study: என்னும் (Ennum)</h2>
+<section id="ennum" class="slide level2">
+<h2>Ennum</h2>
+<p><strong>என்னும்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Called</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -550,8 +628,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-சரகக-serukku" class="slide level2">
-<h2>Word Study: செருக்கு (Serukku)</h2>
+<section id="serukku" class="slide level2">
+<h2>Serukku</h2>
+<p><strong>செருக்கு</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Pride</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -586,8 +665,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தவனயர-theevinaiyaar" class="slide level2">
-<h2>Word Study: தீவினையார் (Theevinaiyaar)</h2>
+<section id="theevinaiyaar" class="slide level2">
+<h2>Theevinaiyaar</h2>
+<p><strong>தீவினையார்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Evil doers</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -618,8 +698,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அஞசர-anjaar" class="slide level2">
-<h2>Word Study: அஞ்சார் (Anjaar)</h2>
+<section id="anjaar" class="slide level2">
+<h2>Anjaar</h2>
+<p><strong>அஞ்சார்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Do not fear</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -650,8 +731,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-வழமயர-vizhumiyaar" class="slide level2">
-<h2>Word Study: விழுமியார் (Vizhumiyaar)</h2>
+<section id="vizhumiyaar" class="slide level2">
+<h2>Vizhumiyaar</h2>
+<p><strong>விழுமியார்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Virtuous people</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -682,8 +764,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அஞசவர-anjuvar" class="slide level2">
-<h2>Word Study: அஞ்சுவர் (Anjuvar)</h2>
+<section id="anjuvar" class="slide level2">
+<h2>Anjuvar</h2>
+<p><strong>அஞ்சுவர்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Will fear</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -714,8 +797,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தககரகக-thakkaarkku" class="slide level2">
-<h2>Word Study: தக்கார்க்கு (Thakkaarkku)</h2>
+<section id="thakkaarkku" class="slide level2">
+<h2>Thakkaarkku</h2>
+<p><strong>தக்கார்க்கு</strong></p>
 <ul>
 <li><strong>Meaning:</strong> For the worthy</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -747,8 +831,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தன-thaan" class="slide level2">
-<h2>Word Study: தான் (Thaan)</h2>
+<section id="thaan" class="slide level2">
+<h2>Thaan</h2>
+<p><strong>தான்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Self</li>
 <li><strong>Part of Speech:</strong> Pronoun</li>
@@ -783,8 +868,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஆறறத-aattrit" class="slide level2">
-<h2>Word Study: ஆற்றித் (Aattrit)</h2>
+<section id="aattrit" class="slide level2">
+<h2>Aattrit</h2>
+<p><strong>ஆற்றித்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Performing</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -815,8 +901,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தநத-thantha" class="slide level2">
-<h2>Word Study: தந்த (Thantha)</h2>
+<section id="thantha" class="slide level2">
+<h2>Thantha</h2>
+<p><strong>தந்த</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Given</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -851,8 +938,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பரள-porul" class="slide level2">
-<h2>Word Study: பொருள் (Porul)</h2>
+<section id="porul" class="slide level2">
+<h2>Porul</h2>
+<p><strong>பொருள்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Wealth</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -887,8 +975,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-எலலம-ellaam" class="slide level2">
-<h2>Word Study: எல்லாம் (Ellaam)</h2>
+<section id="ellaam" class="slide level2">
+<h2>Ellaam</h2>
+<p><strong>எல்லாம்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> All</li>
 <li><strong>Part of Speech:</strong> Pronoun</li>
@@ -923,8 +1012,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-வளணம-velaanmai" class="slide level2">
-<h2>Word Study: வேளாண்மை (Velaanmai)</h2>
+<section id="velaanmai" class="slide level2">
+<h2>Velaanmai</h2>
+<p><strong>வேளாண்மை</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Hospitality</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -958,8 +1048,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-சயதற-seydhar" class="slide level2">
-<h2>Word Study: செய்தற் (Seydhar)</h2>
+<section id="seydhar" class="slide level2">
+<h2>Seydhar</h2>
+<p><strong>செய்தற்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> For doing</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -993,8 +1084,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பரடட-poruttu" class="slide level2">
-<h2>Word Study: பொருட்டு (Poruttu)</h2>
+<section id="poruttu" class="slide level2">
+<h2>Poruttu</h2>
+<p><strong>பொருட்டு</strong></p>
 <ul>
 <li><strong>Meaning:</strong> For the sake of</li>
 <li><strong>Part of Speech:</strong> Postposition</li>
@@ -1029,8 +1121,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-இலன-ilan" class="slide level2">
-<h2>Word Study: இலன் (Ilan)</h2>
+<section id="ilan" class="slide level2">
+<h2>Ilan</h2>
+<p><strong>இலன்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Without</li>
 <li><strong>Part of Speech:</strong> Adjective</li>
@@ -1065,8 +1158,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-எனனம-ennum-1" class="slide level2">
-<h2>Word Study: என்னும் (Ennum)</h2>
+<section id="ennum-1" class="slide level2">
+<h2>Ennum</h2>
+<p><strong>என்னும்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Called</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1101,8 +1195,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-எவவம-evvam" class="slide level2">
-<h2>Word Study: எவ்வம் (Evvam)</h2>
+<section id="evvam" class="slide level2">
+<h2>Evvam</h2>
+<p><strong>எவ்வம்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Sorrow</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1133,8 +1228,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-உரயம-uraiyaamai" class="slide level2">
-<h2>Word Study: உரையாமை (Uraiyaamai)</h2>
+<section id="uraiyaamai" class="slide level2">
+<h2>Uraiyaamai</h2>
+<p><strong>உரையாமை</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Not saying</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1165,8 +1261,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஈதல-eethal" class="slide level2">
-<h2>Word Study: ஈதல் (Eethal)</h2>
+<section id="eethal" class="slide level2">
+<h2>Eethal</h2>
+<p><strong>ஈதல்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Giving</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1201,8 +1298,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-கலன-kulan" class="slide level2">
-<h2>Word Study: குலன் (Kulan)</h2>
+<section id="kulan" class="slide level2">
+<h2>Kulan</h2>
+<p><strong>குலன்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Family</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1233,8 +1331,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-உடயனகணண-udaiyaankaṇṇe" class="slide level2">
-<h2>Word Study: உடையான்கண்ணே (Udaiyaankaṇṇe)</h2>
+<section id="udaiyaankaṇṇe" class="slide level2">
+<h2>Udaiyaankaṇṇe</h2>
+<p><strong>உடையான்கண்ணே</strong></p>
 <ul>
 <li><strong>Meaning:</strong> In one who has</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1265,8 +1364,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஒனற-ondraa" class="slide level2">
-<h2>Word Study: ஒன்றா (Ondraa)</h2>
+<section id="ondraa" class="slide level2">
+<h2>Ondraa</h2>
+<p><strong>ஒன்றா</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Not one</li>
 <li><strong>Part of Speech:</strong> Adjective</li>
@@ -1301,8 +1401,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-உயரநத-uyarndha" class="slide level2">
-<h2>Word Study: உயர்ந்த (Uyarndha)</h2>
+<section id="uyarndha" class="slide level2">
+<h2>Uyarndha</h2>
+<p><strong>உயர்ந்த</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Elevated</li>
 <li><strong>Part of Speech:</strong> Adjective</li>
@@ -1335,8 +1436,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பகழ-pugazh" class="slide level2">
-<h2>Word Study: புகழ் (Pugazh)</h2>
+<section id="pugazh" class="slide level2">
+<h2>Pugazh</h2>
+<p><strong>புகழ்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Fame</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1371,8 +1473,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அலலல-allaal" class="slide level2">
-<h2>Word Study: அல்லால் (Allaal)</h2>
+<section id="allaal" class="slide level2">
+<h2>Allaal</h2>
+<p><strong>அல்லால்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Except</li>
 <li><strong>Part of Speech:</strong> Adverb</li>
@@ -1407,8 +1510,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-உலகததப-ulagathup" class="slide level2">
-<h2>Word Study: உலகத்துப் (Ulagathup)</h2>
+<section id="ulagathup" class="slide level2">
+<h2>Ulagathup</h2>
+<p><strong>உலகத்துப்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> In the world</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1439,8 +1543,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பனறத-pondraadhu" class="slide level2">
-<h2>Word Study: பொன்றாது (Pondraadhu)</h2>
+<section id="pondraadhu" class="slide level2">
+<h2>Pondraadhu</h2>
+<p><strong>பொன்றாது</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Without perishing</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1471,8 +1576,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-நறபத-nirpadhu" class="slide level2">
-<h2>Word Study: நிற்பது (Nirpadhu)</h2>
+<section id="nirpadhu" class="slide level2">
+<h2>Nirpadhu</h2>
+<p><strong>நிற்பது</strong></p>
 <ul>
 <li><strong>Meaning:</strong> That which stands</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1503,8 +1609,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஒனற-ondru" class="slide level2">
-<h2>Word Study: ஒன்று (Ondru)</h2>
+<section id="ondru" class="slide level2">
+<h2>Ondru</h2>
+<p><strong>ஒன்று</strong></p>
 <ul>
 <li><strong>Meaning:</strong> One thing</li>
 <li><strong>Part of Speech:</strong> Pronoun</li>
@@ -1539,8 +1646,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-இல-il" class="slide level2">
-<h2>Word Study: இல் (Il)</h2>
+<section id="il" class="slide level2">
+<h2>Il</h2>
+<p><strong>இல்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> House</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1575,8 +1683,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-நல-nal" class="slide level2">
-<h2>Word Study: நல் (Nal)</h2>
+<section id="nal" class="slide level2">
+<h2>Nal</h2>
+<p><strong>நல்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Good</li>
 <li><strong>Part of Speech:</strong> Adjective</li>
@@ -1611,8 +1720,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஆறறன-aatraan" class="slide level2">
-<h2>Word Study: ஆற்றான் (Aatraan)</h2>
+<section id="aatraan" class="slide level2">
+<h2>Aatraan</h2>
+<p><strong>ஆற்றான்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Path</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1646,8 +1756,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-நட-naadi" class="slide level2">
-<h2>Word Study: நாடி (Naadi)</h2>
+<section id="naadi" class="slide level2">
+<h2>Naadi</h2>
+<p><strong>நாடி</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Seeking</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1682,8 +1793,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அரள-arul" class="slide level2">
-<h2>Word Study: அருள் (Arul)</h2>
+<section id="arul" class="slide level2">
+<h2>Arul</h2>
+<p><strong>அருள்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Kindness</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1718,8 +1830,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஆளக-aalga" class="slide level2">
-<h2>Word Study: ஆள்க (Aalga)</h2>
+<section id="aalga" class="slide level2">
+<h2>Aalga</h2>
+<p><strong>ஆள்க</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Let (oneself) wear</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1751,8 +1864,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-பல-pala" class="slide level2">
-<h2>Word Study: பல (Pala)</h2>
+<section id="pala" class="slide level2">
+<h2>Pala</h2>
+<p><strong>பல</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Many</li>
 <li><strong>Part of Speech:</strong> Adjective</li>
@@ -1787,8 +1901,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-ஆறறன-aatraan-1" class="slide level2">
-<h2>Word Study: ஆற்றான் (Aatraan)</h2>
+<section id="aatraan-1" class="slide level2">
+<h2>Aatraan</h2>
+<p><strong>ஆற்றான்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Path</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1822,8 +1937,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தரனம-therinum" class="slide level2">
-<h2>Word Study: தேரினும் (Therinum)</h2>
+<section id="therinum" class="slide level2">
+<h2>Therinum</h2>
+<p><strong>தேரினும்</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Even if chosen</li>
 <li><strong>Part of Speech:</strong> Verb</li>
@@ -1855,8 +1971,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-தண-thunai" class="slide level2">
-<h2>Word Study: துணை (Thunai)</h2>
+<section id="thunai" class="slide level2">
+<h2>Thunai</h2>
+<p><strong>துணை</strong></p>
 <ul>
 <li><strong>Meaning:</strong> Support</li>
 <li><strong>Part of Speech:</strong> Noun</li>
@@ -1891,8 +2008,9 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="word-study-அஃத-aqdhe" class="slide level2">
-<h2>Word Study: அஃதே (Aqdhe)</h2>
+<section id="aqdhe" class="slide level2">
+<h2>Aqdhe</h2>
+<p><strong>அஃதே</strong></p>
 <ul>
 <li><strong>Meaning:</strong> That itself</li>
 <li><strong>Part of Speech:</strong> Pronoun</li>
@@ -2102,7 +2220,7 @@
         hideCursorTime: 5000,
 
         // Opens links in an iframe preview overlay
-        previewLinks: false,
+        previewLinks: true,
 
         // Transition style (none/fade/slide/convex/concave/zoom)
         transition: 'slide',
