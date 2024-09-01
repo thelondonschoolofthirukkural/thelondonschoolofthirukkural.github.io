@@ -5,12 +5,108 @@ format: html
 
 # Summer Class Syllabus
 
+Kural Numbers - 1,12,23,34,45,56,67,78,89,100,101,112,123,134,145,156,167,178,189,200,201,212,223,234,245
+
 [Class 1 - Kurals 1, 12, 23, 34, 45](thirukkural_kurals_1_to_5.qmd)  
 [Class 2 - Kurals 56, 67, 78, 89, 100](thirukkural_kurals_6_to_10.qmd)  
 [Class 3 - Kurals 101, 112, 123, 134, 145](thirukkural_kurals_11_to_15.qmd)  
 [Class 4 - Kurals 156, 167, 178, 189, 200](thirukkural_kurals_16_to_20.qmd)  
 [Class 5 - Kurals 201, 212, 223, 234, 245](thirukkural_kurals_21_to_25.qmd)  
 
+```{mermaid}
+graph LR
+    A["Understand that"] --> B["Letters"]
+    B --> |start|B1["Beginning"]
+    A --> C["Curiosity"]
+    C --> |act|C1["Reading Writing - Create"]
+    A --> D["Humility"]
+    D --> |stay|D1["Peaceful Heart, Silent Creation"]
+    A --> E["Small"]
+    E -->|distractions| E1["likes & Dislikes"]
+    A --> F["Big"]
+    F --> |difficulty|F1["Beyond Darkness"]
+    F1 -->|focus|F2["Purpose"]
+    A --> G["Important"]
+    G --> |way|G1["Discipline"]
+    G --> |rare|G2["Consistency"]
+    A --> H["Knowing"]
+    H --> |understand|H1["Virtues"]
+    A --> I["Following"]
+    I --> |define yourself with|I1["Values"]
+    A --> J["Greatness"]
+    J --> |needs|J1["Guidance"]
+```
+
+```{mermaid}
+graph LR
+A["Flow & Follow"] --> K["Rain"]
+    A --> L["Great People"]
+    A --> M["Virtue அறம்"]
+    M --> M0["இல்லறம்"]
+    M0["இல்லறம்"] --> M1["அம்மா-அப்பா-குழந்தைகள்"]
+    M0 --> M2["மனம்"]
+    M2 --> M3["அன்பு"]
+    M0 --> M4["செயல்"]
+    M4 --> M5["விருந்தோம்பல்"]
+    M0 --> M6["சொல்"]
+    M6 --> M7["இனிமை"]
+    O --> N["Thankfulness"]
+    O --> N1["Beyond Excuses"]
+    M0 --> O["Great Character"]
+    O --> O1["அடக்கம் - Discipline"]
+    M0 --> O2["ஒழுக்கம் - Consistency"]
+    O2 --> O1
+    O1 --> P0["Anticipate and Prepare"]
+    P0 --> P["Avoiding Easy Actions"]
+    M22 --> Q["Patience"]
+    %%A --> S["Goal"]
+    O1 --> T["Leads to"]
+    P0 --> M22["மனம்"]
+    M22 --> U1["அழுக்காறாமை"]
+    M22 --> U["வெஃகாமை"]
+    P0 --> M66["சொல்"]
+    M66 --> U3["புறங்கூறாமை"]
+    M66 --> U2["பயனில சொல்லாமை"]
+    P0 --> M44["செயல்"]
+    M44 --> U4["தீவினையச்சம்"]
+    A4 --> R["Good Actions"]
+    R --> A1["ஒப்புரவறிதல்"]
+    R --> A2["ஈகை"]
+    A2 --> A3["புகழ்"]
+    %%S --> A3
+    T --> A4["அருளுடைமை"]
+```
+
+```{mermaid}
+graph LR
+    M0["இல்லறம்"] --> M1["அம்மா-அப்பா-குழந்தைகள்"]
+    M0 --> M2["மனம்"]
+    M2 --> M3["அன்பு"]
+    M0 --> M4["செயல்"]
+    M4 --> M5["விருந்தோம்பல்"]
+    M0 --> M6["சொல்"]
+    M6 --> M7["இனிமை"]
+    O --> N["Thankfulness"]
+    O --> N1["Beyond Excuses"]
+    M0 --> O["Great Character"]
+    O --> O1["அடக்கம் - Discipline"]
+    M0 --> O2["ஒழுக்கம் - Consistency"]
+    O2 --> O1
+```
+
+```{mermaid}
+flowchart LR
+    P0["Anticipate and Prepare"] --> P["Avoiding Easy Actions"]
+    M22 --> Q["Patience"]
+    P0 --> M22["மனம்"]
+    M22 --> U1["அழுக்காறாமை"]
+    M22 --> U["வெஃகாமை"]
+    P0 --> M66["சொல்"]
+    M66 --> U3["புறங்கூறாமை"]
+    M66 --> U2["பயனில சொல்லாமை"]
+    P0 --> M44["செயல்"]
+    M44 --> U4["தீவினையச்சம்"]
+```
 # Words Reading with Asai
 
 In Class 1, we will learn the syllables in all words in [Kural 1](kuralQuartoWordsAsaiContent1.qmd), [Kural 12](kuralQuartoWordsAsaiContent12.qmd), [Kural 23](kuralQuartoWordsAsaiContent23.qmd), [Kural 34](kuralQuartoWordsAsaiContent34.qmd), [Kural 45](kuralQuartoWordsAsaiContent45.qmd)  
