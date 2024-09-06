@@ -1,2 +1,7 @@
 /.quarto/
 /_site/
+*.pdf
+*.typ
+references.bib
+*.mp3
+*.txt

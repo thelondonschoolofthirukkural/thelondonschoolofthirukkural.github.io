@@ -107,18 +107,22 @@ format:
           </script>
 ---
 
-# Kural 1
+# Kural 1  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+:::: {#kural-1 layout="[1]"}  
+1. அகர முதல எழுத்தெல்லாம் ஆதி  
+பகவன் முதற்றே உலகு.  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}  
 
-Kural 1
-::::
+Kural 1  
+::::  
 
-[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]
+
+# Kural with word links
+
+[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]  
+
 ## அகரம்
 
 :::: {#word-akaram layout="[1]"}
@@ -145,7 +149,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]
+[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]  
+
 ## முதல
 
 :::: {#word-mudhala layout="[1]"}
@@ -176,7 +181,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]
+[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]  
+
 ## எழுத்து
 
 :::: {#word-ezhuttu layout="[1]"}
@@ -204,7 +210,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]
+[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]  
+
 ## எல்லாம்
 
 :::: {#word-ellaam layout="[1]"}
@@ -235,7 +242,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]
+[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]  
+
 ## ஆதி
 
 :::: {#word-aadhi layout="[1]"}
@@ -263,7 +271,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]
+[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]  
+
 ## உலகு
 
 :::: {#word-ulaku layout="[1]"}
@@ -294,7 +303,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]
+[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]  
+
 ## பகவன்
 
 :::: {#word-bhagavan layout="[1]"}
@@ -321,7 +331,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]
+[அகரம் @word-akaram] [முதல @word-mudhala] [எழுத்து @word-ezhuttu] [எல்லாம் @word-ellaam] [ஆதி @word-aadhi] [உலகு @word-ulaku] [பகவன் @word-bhagavan] [முதற்று @word-muthatru]  
+
 ## முதற்று
 
 :::: {#word-muthatru layout="[1]"}
@@ -350,19 +361,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 12  
 
-# Kural 1
+:::: {#kural-12 layout="[1]"}  
+12. துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்  
+துப்பாய தூஉம் மழை.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/12.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 12  
+::::  
 
-Kural 1
-::::
 
-[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]
+# Kural with word links
+
+[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]  
+
 ## துப்பார்க்குத்
 
 :::: {#word-thuppaarkkuth layout="[1]"}
@@ -390,7 +405,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]
+[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]  
+
 ## துப்பு
 
 :::: {#word-thuppu layout="[1]"}
@@ -421,7 +437,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]
+[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]  
+
 ## ஆய
 
 :::: {#word-aaya layout="[1]"}
@@ -452,7 +469,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]
+[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]  
+
 ## துப்பு
 
 :::: {#word-thuppu layout="[1]"}
@@ -483,7 +501,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]
+[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]  
+
 ## ஆக்கி
 
 :::: {#word-aakki layout="[1]"}
@@ -512,7 +531,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]
+[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]  
+
 ## துப்பார்க்குத்
 
 :::: {#word-thuppaarkkuth layout="[1]"}
@@ -540,7 +560,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]
+[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]  
+
 ## துப்பு
 
 :::: {#word-thuppu layout="[1]"}
@@ -571,7 +592,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]
+[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]  
+
 ## ஆயதூஉம்
 
 :::: {#word-aayadhooum layout="[1]"}
@@ -598,7 +620,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]
+[துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆய @word-aaya] [துப்பு @word-thuppu] [ஆக்கி @word-aakki] [துப்பார்க்குத் @word-thuppaarkkuth] [துப்பு @word-thuppu] [ஆயதூஉம் @word-aayadhooum] [மழை @word-mazhai]  
+
 ## மழை
 
 :::: {#word-mazhai layout="[1]"}
@@ -630,19 +653,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 23  
 
-# Kural 1
+:::: {#kural-23 layout="[1]"}  
+23. இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார்  
+பெருமை பிறங்கிற்று உலகு.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/23.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 23  
+::::  
 
-Kural 1
-::::
 
-[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]
+# Kural with word links
+
+[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]  
+
 ## இருமை
 
 :::: {#word-irumai layout="[1]"}
@@ -669,7 +696,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]
+[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]  
+
 ## வகை
 
 :::: {#word-vagai layout="[1]"}
@@ -700,7 +728,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]
+[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]  
+
 ## தெரிந்து
 
 :::: {#word-therindhu layout="[1]"}
@@ -731,7 +760,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]
+[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]  
+
 ## ஈண்டு
 
 :::: {#word-eendu layout="[1]"}
@@ -762,7 +792,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]
+[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]  
+
 ## அறம்
 
 :::: {#word-aram layout="[1]"}
@@ -793,7 +824,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]
+[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]  
+
 ## பூண்டார்
 
 :::: {#word-poondaar layout="[1]"}
@@ -820,7 +852,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]
+[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]  
+
 ## பெருமை
 
 :::: {#word-perumai layout="[1]"}
@@ -851,7 +884,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]
+[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]  
+
 ## உலகு
 
 :::: {#word-ulaku layout="[1]"}
@@ -882,7 +916,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]
+[இருமை @word-irumai] [வகை @word-vagai] [தெரிந்து @word-therindhu] [ஈண்டு @word-eendu] [அறம் @word-aram] [பூண்டார் @word-poondaar] [பெருமை @word-perumai] [உலகு @word-ulaku] [பிறங்கிற்று @word-pirangittru]  
+
 ## பிறங்கிற்று
 
 :::: {#word-pirangittru layout="[1]"}
@@ -911,19 +946,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 34  
 
-# Kural 1
+:::: {#kural-34 layout="[1]"}  
+34. மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்  
+ஆகுல நீர பிற.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/34.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 34  
+::::  
 
-Kural 1
-::::
 
-[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]
+# Kural with word links
+
+[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]  
+
 ## மனத்துக்கண்
 
 :::: {#word-manathukkan layout="[1]"}
@@ -950,7 +989,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]
+[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]  
+
 ## மாசு
 
 :::: {#word-maasu layout="[1]"}
@@ -981,7 +1021,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]
+[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]  
+
 ## இலன்
 
 :::: {#word-ilan layout="[1]"}
@@ -1012,7 +1053,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]
+[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]  
+
 ## ஆதல்
 
 :::: {#word-aadhal layout="[1]"}
@@ -1043,7 +1085,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]
+[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]  
+
 ## அனைத்து
 
 :::: {#word-anaithu layout="[1]"}
@@ -1074,7 +1117,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]
+[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]  
+
 ## அறன்
 
 :::: {#word-aran layout="[1]"}
@@ -1105,7 +1149,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]
+[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]  
+
 ## பிற
 
 :::: {#word-pira layout="[1]"}
@@ -1136,7 +1181,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]
+[மனத்துக்கண் @word-manathukkan] [மாசு @word-maasu] [இலன் @word-ilan] [ஆதல் @word-aadhal] [அனைத்து @word-anaithu] [அறன் @word-aran] [பிற @word-pira] [ஆகுலநீர @word-aagulaneer]  
+
 ## ஆகுலநீர
 
 :::: {#word-aagulaneer layout="[1]"}
@@ -1165,19 +1211,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 45  
 
-# Kural 1
+:::: {#kural-45 layout="[1]"}  
+45. அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை  
+பண்பும் பயனும் அது.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/45.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 45  
+::::  
 
-Kural 1
-::::
 
-[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]
+# Kural with word links
+
+[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]  
+
 ## இல்வாழ்க்கை
 
 :::: {#word-ilvaazhkkai layout="[1]"}
@@ -1207,7 +1257,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]
+[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]  
+
 ## அன்பும்
 
 :::: {#word-anbum layout="[1]"}
@@ -1234,7 +1285,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]
+[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]  
+
 ## அறனும்
 
 :::: {#word-aranum layout="[1]"}
@@ -1262,7 +1314,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]
+[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]  
+
 ## உடைத்தாயின்
 
 :::: {#word-udaitthayin layout="[1]"}
@@ -1290,7 +1343,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]
+[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]  
+
 ## அது
 
 :::: {#word-athu layout="[1]"}
@@ -1321,7 +1375,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]
+[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]  
+
 ## பண்பும்
 
 :::: {#word-panbum layout="[1]"}
@@ -1349,7 +1404,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]
+[இல்வாழ்க்கை @word-ilvaazhkkai] [அன்பும் @word-anbum] [அறனும் @word-aranum] [உடைத்தாயின் @word-udaitthayin] [அது @word-athu] [பண்பும் @word-panbum] [பயனும் @word-payanum]  
+
 ## பயனும்
 
 :::: {#word-payanum layout="[1]"}
@@ -1380,19 +1436,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 56  
 
-# Kural 1
+:::: {#kural-56 layout="[1]"}  
+56. தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற  
+சொற்காத்துச் சோர்விலாள் பெண்.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/56.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 56  
+::::  
 
-Kural 1
-::::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+# Kural with word links
+
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## தன்
 
 :::: {#word-than layout="[1]"}
@@ -1423,7 +1483,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## காத்துத்
 
 :::: {#word-kaatthuth layout="[1]"}
@@ -1450,7 +1511,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## தன்
 
 :::: {#word-than layout="[1]"}
@@ -1481,7 +1543,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## கொண்டான்
 
 :::: {#word-kondaan layout="[1]"}
@@ -1509,7 +1572,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## பேணி
 
 :::: {#word-peni layout="[1]"}
@@ -1540,7 +1604,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## தகை
 
 :::: {#word-thagai layout="[1]"}
@@ -1571,7 +1636,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## சான்ற
 
 :::: {#word-saandra layout="[1]"}
@@ -1602,7 +1668,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## சொல்
 
 :::: {#word-sol layout="[1]"}
@@ -1633,7 +1700,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## காத்து
 
 :::: {#word-kaatthu layout="[1]"}
@@ -1663,7 +1731,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## சோர்வு
 
 :::: {#word-sorvu layout="[1]"}
@@ -1694,7 +1763,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## இலாள்
 
 :::: {#word-ilaal layout="[1]"}
@@ -1721,7 +1791,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]
+[தன் @word-than] [காத்துத் @word-kaatthuth] [தன் @word-than] [கொண்டான் @word-kondaan] [பேணி @word-peni] [தகை @word-thagai] [சான்ற @word-saandra] [சொல் @word-sol] [காத்து @word-kaatthu] [சோர்வு @word-sorvu] [இலாள் @word-ilaal] [பெண் @word-pen]  
+
 ## பெண்
 
 :::: {#word-pen layout="[1]"}
@@ -1754,19 +1825,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 67  
 
-# Kural 1
+:::: {#kural-67 layout="[1]"}  
+67. தந்தை மகற்காற்று நன்றி அவையத்து  
+முந்தி இருப்பச் செயல்.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/67.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 67  
+::::  
 
-Kural 1
-::::
 
-[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]
+# Kural with word links
+
+[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]  
+
 ## தந்தை
 
 :::: {#word-thandhai layout="[1]"}
@@ -1794,7 +1869,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]
+[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]  
+
 ## மகற்கு
 
 :::: {#word-magarku layout="[1]"}
@@ -1822,7 +1898,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]
+[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]  
+
 ## ஆற்றும்
 
 :::: {#word-aatrum layout="[1]"}
@@ -1853,7 +1930,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]
+[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]  
+
 ## நன்றி
 
 :::: {#word-nandri layout="[1]"}
@@ -1884,7 +1962,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]
+[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]  
+
 ## அவையத்து
 
 :::: {#word-avaiyatthu layout="[1]"}
@@ -1911,7 +1990,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]
+[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]  
+
 ## முந்தி
 
 :::: {#word-mundhi layout="[1]"}
@@ -1938,7 +2018,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]
+[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]  
+
 ## இருப்பச்
 
 :::: {#word-iruppach layout="[1]"}
@@ -1965,7 +2046,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]
+[தந்தை @word-thandhai] [மகற்கு @word-magarku] [ஆற்றும் @word-aatrum] [நன்றி @word-nandri] [அவையத்து @word-avaiyatthu] [முந்தி @word-mundhi] [இருப்பச் @word-iruppach] [செயல் @word-seyal]  
+
 ## செயல்
 
 :::: {#word-seyal layout="[1]"}
@@ -1998,19 +2080,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 78  
 
-# Kural 1
+:::: {#kural-78 layout="[1]"}  
+78. அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்  
+வற்றல் மரந்தளிர்த் தற்று.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/78.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 78  
+::::  
 
-Kural 1
-::::
 
-[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]
+# Kural with word links
+
+[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]  
+
 ## அகத்து
 
 :::: {#word-agathu layout="[1]"}
@@ -2041,7 +2127,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]
+[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]  
+
 ## அன்பு
 
 :::: {#word-anbu layout="[1]"}
@@ -2072,7 +2159,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]
+[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]  
+
 ## இல்லா
 
 :::: {#word-illa layout="[1]"}
@@ -2103,7 +2191,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]
+[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]  
+
 ## உயிர்
 
 :::: {#word-uyir layout="[1]"}
@@ -2134,7 +2223,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]
+[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]  
+
 ## வாழ்க்கை
 
 :::: {#word-vaazhkkai layout="[1]"}
@@ -2165,7 +2255,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]
+[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]  
+
 ## வன்பாற்கண்
 
 :::: {#word-vanpaarkkan layout="[1]"}
@@ -2192,7 +2283,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]
+[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]  
+
 ## வற்றல்
 
 :::: {#word-vatral layout="[1]"}
@@ -2219,7 +2311,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]
+[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]  
+
 ## மரம்
 
 :::: {#word-maram layout="[1]"}
@@ -2250,7 +2343,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]
+[அகத்து @word-agathu] [அன்பு @word-anbu] [இல்லா @word-illa] [உயிர் @word-uyir] [வாழ்க்கை @word-vaazhkkai] [வன்பாற்கண் @word-vanpaarkkan] [வற்றல் @word-vatral] [மரம் @word-maram] [தளிர்த்தற்று @word-thalirthattru]  
+
 ## தளிர்த்தற்று
 
 :::: {#word-thalirthattru layout="[1]"}
@@ -2279,19 +2373,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 89  
 
-# Kural 1
+:::: {#kural-89 layout="[1]"}  
+89. உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா  
+மடமை மடவார்கண் உண்டு.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/89.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 89  
+::::  
 
-Kural 1
-::::
 
-[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]
+# Kural with word links
+
+[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]  
+
 ## உடைமையுள்
 
 :::: {#word-udaimaiyul layout="[1]"}
@@ -2318,7 +2416,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]
+[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]  
+
 ## இன்மை
 
 :::: {#word-inmai layout="[1]"}
@@ -2349,7 +2448,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]
+[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]  
+
 ## விருந்தோம்பல்
 
 :::: {#word-virundhomabal layout="[1]"}
@@ -2376,7 +2476,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]
+[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]  
+
 ## ஓம்பா
 
 :::: {#word-ombaa layout="[1]"}
@@ -2404,7 +2505,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]
+[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]  
+
 ## மடமை
 
 :::: {#word-madamai layout="[1]"}
@@ -2431,7 +2533,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]
+[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]  
+
 ## மடவார்கண்
 
 :::: {#word-madavaarkkan layout="[1]"}
@@ -2458,7 +2561,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]
+[உடைமையுள் @word-udaimaiyul] [இன்மை @word-inmai] [விருந்தோம்பல் @word-virundhomabal] [ஓம்பா @word-ombaa] [மடமை @word-madamai] [மடவார்கண் @word-madavaarkkan] [உண்டு @word-undu]  
+
 ## உண்டு
 
 :::: {#word-undu layout="[1]"}
@@ -2491,19 +2595,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 100  
 
-# Kural 1
+:::: {#kural-100 layout="[1]"}  
+100. இனிய உளவாக இன்னாத கூறல்  
+கனிஇருப்பக் காய்கவர்ந் தற்று.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/100.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 100  
+::::  
 
-Kural 1
-::::
 
-[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]
+# Kural with word links
+
+[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]  
+
 ## இனிய
 
 :::: {#word-iniya layout="[1]"}
@@ -2534,7 +2642,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]
+[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]  
+
 ## உளவாக
 
 :::: {#word-ulavaaga layout="[1]"}
@@ -2561,7 +2670,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]
+[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]  
+
 ## இன்னாத
 
 :::: {#word-innaatha layout="[1]"}
@@ -2592,7 +2702,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]
+[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]  
+
 ## கூறல்
 
 :::: {#word-kooral layout="[1]"}
@@ -2621,7 +2732,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]
+[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]  
+
 ## கனி
 
 :::: {#word-kani layout="[1]"}
@@ -2650,7 +2762,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]
+[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]  
+
 ## இருப்பக்
 
 :::: {#word-iruppak layout="[1]"}
@@ -2677,7 +2790,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]
+[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]  
+
 ## காய்
 
 :::: {#word-kaay layout="[1]"}
@@ -2706,7 +2820,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]
+[இனிய @word-iniya] [உளவாக @word-ulavaaga] [இன்னாத @word-innaatha] [கூறல் @word-kooral] [கனி @word-kani] [இருப்பக் @word-iruppak] [காய் @word-kaay] [கவர்ந்தற்று @word-kavarndhattru]  
+
 ## கவர்ந்தற்று
 
 :::: {#word-kavarndhattru layout="[1]"}
@@ -2735,19 +2850,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 101  
 
-# Kural 1
+:::: {#kural-101 layout="[1]"}  
+101. செய்யாமல் செய்த உதவிக்கு வையகமும்  
+வானகமும் ஆற்றல் அரிது.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/101.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 101  
+::::  
 
-Kural 1
-::::
 
-[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]
+# Kural with word links
+
+[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]  
+
 ## செய்யாமல்
 
 :::: {#word-seyyaamal layout="[1]"}
@@ -2775,7 +2894,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]
+[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]  
+
 ## செய்த
 
 :::: {#word-seytha layout="[1]"}
@@ -2806,7 +2926,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]
+[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]  
+
 ## உதவிக்கு
 
 :::: {#word-uthavikku layout="[1]"}
@@ -2833,7 +2954,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]
+[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]  
+
 ## வையகமும்
 
 :::: {#word-vaiyagamum layout="[1]"}
@@ -2860,7 +2982,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]
+[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]  
+
 ## வானகமும்
 
 :::: {#word-vaanagamum layout="[1]"}
@@ -2887,7 +3010,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]
+[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]  
+
 ## ஆற்றல்
 
 :::: {#word-aatral layout="[1]"}
@@ -2918,7 +3042,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]
+[செய்யாமல் @word-seyyaamal] [செய்த @word-seytha] [உதவிக்கு @word-uthavikku] [வையகமும் @word-vaiyagamum] [வானகமும் @word-vaanagamum] [ஆற்றல் @word-aatral] [அரிது @word-arithu]  
+
 ## அரிது
 
 :::: {#word-arithu layout="[1]"}
@@ -2951,19 +3076,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 112  
 
-# Kural 1
+:::: {#kural-112 layout="[1]"}  
+112. செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி  
+எச்சத்திற் கேமாப்பு உடைத்து.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/112.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 112  
+::::  
 
-Kural 1
-::::
 
-[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]
+# Kural with word links
+
+[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]  
+
 ## செப்பம்
 
 :::: {#word-seppam layout="[1]"}
@@ -2991,7 +3120,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]
+[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]  
+
 ## உடையவன்
 
 :::: {#word-udaiyavan layout="[1]"}
@@ -3018,7 +3148,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]
+[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]  
+
 ## ஆக்கம்
 
 :::: {#word-aakkam layout="[1]"}
@@ -3049,7 +3180,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]
+[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]  
+
 ## சிதைவு
 
 :::: {#word-sithaivu layout="[1]"}
@@ -3076,7 +3208,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]
+[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]  
+
 ## இன்றி
 
 :::: {#word-indri layout="[1]"}
@@ -3107,7 +3240,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]
+[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]  
+
 ## எச்சத்திற்கு
 
 :::: {#word-echchathirku layout="[1]"}
@@ -3134,7 +3268,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]
+[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]  
+
 ## ஏமாப்பு
 
 :::: {#word-emaappu layout="[1]"}
@@ -3165,7 +3300,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]
+[செப்பம் @word-seppam] [உடையவன் @word-udaiyavan] [ஆக்கம் @word-aakkam] [சிதைவு @word-sithaivu] [இன்றி @word-indri] [எச்சத்திற்கு @word-echchathirku] [ஏமாப்பு @word-emaappu] [உடைத்து @word-udaitthu]  
+
 ## உடைத்து
 
 :::: {#word-udaitthu layout="[1]"}
@@ -3198,19 +3334,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 123  
 
-# Kural 1
+:::: {#kural-123 layout="[1]"}  
+123. செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து  
+ஆற்றின் அடங்கப் பெறின்.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/123.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 123  
+::::  
 
-Kural 1
-::::
 
-[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]
+# Kural with word links
+
+[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]  
+
 ## அறிவு
 
 :::: {#word-arivu layout="[1]"}
@@ -3241,7 +3381,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]
+[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]  
+
 ## அறிந்து
 
 :::: {#word-arindhu layout="[1]"}
@@ -3272,7 +3413,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]
+[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]  
+
 ## ஆற்றின்
 
 :::: {#word-aatrin layout="[1]"}
@@ -3303,7 +3445,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]
+[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]  
+
 ## அடங்கப்
 
 :::: {#word-adangap layout="[1]"}
@@ -3330,7 +3473,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]
+[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]  
+
 ## பெறின்
 
 :::: {#word-perin layout="[1]"}
@@ -3361,7 +3505,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]
+[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]  
+
 ## செறிவு
 
 :::: {#word-serivu layout="[1]"}
@@ -3390,7 +3535,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]
+[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]  
+
 ## அறிந்து
 
 :::: {#word-arindhu layout="[1]"}
@@ -3421,7 +3567,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]
+[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]  
+
 ## சீர்மை
 
 :::: {#word-seermai layout="[1]"}
@@ -3449,7 +3596,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]
+[அறிவு @word-arivu] [அறிந்து @word-arindhu] [ஆற்றின் @word-aatrin] [அடங்கப் @word-adangap] [பெறின் @word-perin] [செறிவு @word-serivu] [அறிந்து @word-arindhu] [சீர்மை @word-seermai] [பயக்கும் @word-payakkum]  
+
 ## பயக்கும்
 
 :::: {#word-payakkum layout="[1]"}
@@ -3482,19 +3630,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 134  
 
-# Kural 1
+:::: {#kural-134 layout="[1]"}  
+134. மறப்பினும் ஓத்துக் கொளலாகும் பார்ப்பான்  
+பிறப்பொழுக்கங் குன்றக் கெடும்.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/134.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 134  
+::::  
 
-Kural 1
-::::
 
-[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]
+# Kural with word links
+
+[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]  
+
 ## ஓத்து
 
 :::: {#word-otthu layout="[1]"}
@@ -3521,7 +3673,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]
+[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]  
+
 ## மறப்பினும்
 
 :::: {#word-marappinum layout="[1]"}
@@ -3548,7 +3701,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]
+[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]  
+
 ## கொளலாகும்
 
 :::: {#word-kolalaagum layout="[1]"}
@@ -3575,7 +3729,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]
+[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]  
+
 ## பார்ப்பான்
 
 :::: {#word-paarpaan layout="[1]"}
@@ -3602,7 +3757,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]
+[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]  
+
 ## பிறப்பு
 
 :::: {#word-pirappu layout="[1]"}
@@ -3633,7 +3789,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]
+[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]  
+
 ## ஒழுக்கம்
 
 :::: {#word-ozhukkam layout="[1]"}
@@ -3664,7 +3821,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]
+[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]  
+
 ## குன்றக்
 
 :::: {#word-kundrak layout="[1]"}
@@ -3691,7 +3849,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]
+[ஓத்து @word-otthu] [மறப்பினும் @word-marappinum] [கொளலாகும் @word-kolalaagum] [பார்ப்பான் @word-paarpaan] [பிறப்பு @word-pirappu] [ஒழுக்கம் @word-ozhukkam] [குன்றக் @word-kundrak] [கெடும் @word-kedum]  
+
 ## கெடும்
 
 :::: {#word-kedum layout="[1]"}
@@ -3724,19 +3883,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 145  
 
-# Kural 1
+:::: {#kural-145 layout="[1]"}  
+145. எளிதென இல்லிறப்பான் எய்துமெஞ் ஞான்றும்  
+விளியாது நிற்கும் பழி.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/145.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 145  
+::::  
 
-Kural 1
-::::
 
-[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]
+# Kural with word links
+
+[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]  
+
 ## எளிது
 
 :::: {#word-elithu layout="[1]"}
@@ -3766,7 +3929,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]
+[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]  
+
 ## என
 
 :::: {#word-ena layout="[1]"}
@@ -3797,7 +3961,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]
+[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]  
+
 ## இல்
 
 :::: {#word-il layout="[1]"}
@@ -3828,7 +3993,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]
+[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]  
+
 ## இறப்பான்
 
 :::: {#word-irappaan layout="[1]"}
@@ -3856,7 +4022,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]
+[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]  
+
 ## விளியாது
 
 :::: {#word-viliyaadhu layout="[1]"}
@@ -3883,7 +4050,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]
+[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]  
+
 ## எஞ்ஞான்றும்
 
 :::: {#word-engnjaandrum layout="[1]"}
@@ -3914,7 +4082,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]
+[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]  
+
 ## நிற்கும்
 
 :::: {#word-nirkum layout="[1]"}
@@ -3945,7 +4114,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]
+[எளிது @word-elithu] [என @word-ena] [இல் @word-il] [இறப்பான் @word-irappaan] [விளியாது @word-viliyaadhu] [எஞ்ஞான்றும் @word-engnjaandrum] [நிற்கும் @word-nirkum] [பழி @word-pazhi]  
+
 ## பழி
 
 :::: {#word-pazhi layout="[1]"}
@@ -3978,19 +4148,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 156  
 
-# Kural 1
+:::: {#kural-156 layout="[1]"}  
+156. ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப்  
+பொன்றுந் துணையும் புகழ்.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/156.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 156  
+::::  
 
-Kural 1
-::::
 
-[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]
+# Kural with word links
+
+[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]  
+
 ## எய்தும்
 
 :::: {#word-eydhum layout="[1]"}
@@ -4021,7 +4195,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]
+[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]  
+
 ## ஒறுத்தார்க்கு
 
 :::: {#word-oruttaarkku layout="[1]"}
@@ -4048,7 +4223,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]
+[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]  
+
 ## ஒருநாளை
 
 :::: {#word-orunaalai layout="[1]"}
@@ -4075,7 +4251,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]
+[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]  
+
 ## இன்பம்
 
 :::: {#word-inbam layout="[1]"}
@@ -4106,7 +4283,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]
+[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]  
+
 ## பொறுத்தார்க்குப்
 
 :::: {#word-poruttaarkkup layout="[1]"}
@@ -4133,7 +4311,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]
+[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]  
+
 ## பொன்னும்
 
 :::: {#word-ponnum layout="[1]"}
@@ -4160,7 +4339,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]
+[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]  
+
 ## துணையும்
 
 :::: {#word-thunayum layout="[1]"}
@@ -4191,7 +4371,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]
+[எய்தும் @word-eydhum] [ஒறுத்தார்க்கு @word-oruttaarkku] [ஒருநாளை @word-orunaalai] [இன்பம் @word-inbam] [பொறுத்தார்க்குப் @word-poruttaarkkup] [பொன்னும் @word-ponnum] [துணையும் @word-thunayum] [புகழ் @word-pugazh]  
+
 ## புகழ்
 
 :::: {#word-pugazh layout="[1]"}
@@ -4224,19 +4405,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 167  
 
-# Kural 1
+:::: {#kural-167 layout="[1]"}  
+167. அவ்வித்து அழுக்காறு உடையானைச் செய்யவள்  
+தவ்வையைக் காட்டி விடும்.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/167.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 167  
+::::  
 
-Kural 1
-::::
 
-[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]
+# Kural with word links
+
+[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]  
+
 ## அழுக்காறு
 
 :::: {#word-azhukkaaru layout="[1]"}
@@ -4267,7 +4452,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]
+[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]  
+
 ## உடையானை
 
 :::: {#word-udaiyaanai layout="[1]"}
@@ -4294,7 +4480,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]
+[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]  
+
 ## செய்யவள்
 
 :::: {#word-seyyaval layout="[1]"}
@@ -4321,7 +4508,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]
+[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]  
+
 ## அவ்வித்துத்
 
 :::: {#word-avviththuth layout="[1]"}
@@ -4348,7 +4536,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]
+[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]  
+
 ## தவ்வையைக்
 
 :::: {#word-thavvaiyaik layout="[1]"}
@@ -4375,7 +4564,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]
+[அழுக்காறு @word-azhukkaaru] [உடையானை @word-udaiyaanai] [செய்யவள் @word-seyyaval] [அவ்வித்துத் @word-avviththuth] [தவ்வையைக் @word-thavvaiyaik] [காட்டிவிடும் @word-kaattividum]  
+
 ## காட்டிவிடும்
 
 :::: {#word-kaattividum layout="[1]"}
@@ -4405,19 +4595,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 178  
 
-# Kural 1
+:::: {#kural-178 layout="[1]"}  
+178. அஃகாமை செல்வத்திற் கியாதெனின் வெஃகாமை  
+வேண்டும் பிறன்கைப் பொருள்.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/178.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 178  
+::::  
 
-Kural 1
-::::
 
-[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]
+# Kural with word links
+
+[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]  
+
 ## செல்வத்திற்கு
 
 :::: {#word-selvaththirku layout="[1]"}
@@ -4444,7 +4638,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]
+[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]  
+
 ## அஃகாமை
 
 :::: {#word-aqkaamai layout="[1]"}
@@ -4471,7 +4666,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]
+[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]  
+
 ## யாதெனின்
 
 :::: {#word-yaadhenin layout="[1]"}
@@ -4500,7 +4696,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]
+[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]  
+
 ## பிறர்
 
 :::: {#word-pirar layout="[1]"}
@@ -4531,7 +4728,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]
+[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]  
+
 ## வேண்டும்
 
 :::: {#word-vendum layout="[1]"}
@@ -4562,7 +4760,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]
+[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]  
+
 ## கைப்பொருள்
 
 :::: {#word-kaipporul layout="[1]"}
@@ -4589,7 +4788,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]
+[செல்வத்திற்கு @word-selvaththirku] [அஃகாமை @word-aqkaamai] [யாதெனின் @word-yaadhenin] [பிறர் @word-pirar] [வேண்டும் @word-vendum] [கைப்பொருள் @word-kaipporul] [வெஃகாமை @word-veqkaamai]  
+
 ## வெஃகாமை
 
 :::: {#word-veqkaamai layout="[1]"}
@@ -4618,19 +4818,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 189  
 
-# Kural 1
+:::: {#kural-189 layout="[1]"}  
+189. அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப்  
+புன்சொல் உரைப்பான் பொறை.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/189.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 189  
+::::  
 
-Kural 1
-::::
 
-[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]
+# Kural with word links
+
+[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]  
+
 ## புறன்
 
 :::: {#word-puran layout="[1]"}
@@ -4658,7 +4862,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]
+[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]  
+
 ## நோக்கிப்
 
 :::: {#word-nokkip layout="[1]"}
@@ -4685,7 +4890,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]
+[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]  
+
 ## புன்சொல்
 
 :::: {#word-punsol layout="[1]"}
@@ -4712,7 +4918,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]
+[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]  
+
 ## உரைப்பான்
 
 :::: {#word-uraippaan layout="[1]"}
@@ -4743,7 +4950,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]
+[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]  
+
 ## பொறை
 
 :::: {#word-porai layout="[1]"}
@@ -4774,7 +4982,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]
+[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]  
+
 ## வையம்
 
 :::: {#word-vaiyam layout="[1]"}
@@ -4801,7 +5010,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]
+[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]  
+
 ## அறன்
 
 :::: {#word-aran layout="[1]"}
@@ -4832,7 +5042,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]
+[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]  
+
 ## நோக்கி
 
 :::: {#word-nokki layout="[1]"}
@@ -4863,7 +5074,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]
+[புறன் @word-puran] [நோக்கிப் @word-nokkip] [புன்சொல் @word-punsol] [உரைப்பான் @word-uraippaan] [பொறை @word-porai] [வையம் @word-vaiyam] [அறன் @word-aran] [நோக்கி @word-nokki] [ஆற்றுங்கொல் @word-aatrrungkol]  
+
 ## ஆற்றுங்கொல்
 
 :::: {#word-aatrrungkol layout="[1]"}
@@ -4892,19 +5104,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 200  
 
-# Kural 1
+:::: {#kural-200 layout="[1]"}  
+200. சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க  
+சொல்லிற் பயனிலாச் சொல்.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/200.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 200  
+::::  
 
-Kural 1
-::::
 
-[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]
+# Kural with word links
+
+[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]  
+
 ## சொல்லில்
 
 :::: {#word-sollil layout="[1]"}
@@ -4932,7 +5148,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]
+[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]  
+
 ## பயன்
 
 :::: {#word-payan layout="[1]"}
@@ -4963,7 +5180,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]
+[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]  
+
 ## உடைய
 
 :::: {#word-udaiya layout="[1]"}
@@ -4994,7 +5212,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]
+[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]  
+
 ## சொல்லுக
 
 :::: {#word-solluga layout="[1]"}
@@ -5025,7 +5244,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]
+[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]  
+
 ## சொல்லில்
 
 :::: {#word-sollil layout="[1]"}
@@ -5053,7 +5273,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]
+[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]  
+
 ## பயனில்லாச்
 
 :::: {#word-payanillaach layout="[1]"}
@@ -5080,7 +5301,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]
+[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]  
+
 ## சொல்
 
 :::: {#word-sol layout="[1]"}
@@ -5111,7 +5333,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]
+[சொல்லில் @word-sollil] [பயன் @word-payan] [உடைய @word-udaiya] [சொல்லுக @word-solluga] [சொல்லில் @word-sollil] [பயனில்லாச் @word-payanillaach] [சொல் @word-sol] [சொல்லற்க @word-sollarka]  
+
 ## சொல்லற்க
 
 :::: {#word-sollarka layout="[1]"}
@@ -5142,19 +5365,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 201  
 
-# Kural 1
+:::: {#kural-201 layout="[1]"}  
+201. தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்  
+தீவினை என்னும் செருக்கு.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/201.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 201  
+::::  
 
-Kural 1
-::::
 
-[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]
+# Kural with word links
+
+[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]  
+
 ## தீவினை
 
 :::: {#word-theevinai layout="[1]"}
@@ -5183,7 +5410,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]
+[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]  
+
 ## என்னும்
 
 :::: {#word-ennum layout="[1]"}
@@ -5214,7 +5442,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]
+[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]  
+
 ## செருக்கு
 
 :::: {#word-serukku layout="[1]"}
@@ -5245,7 +5474,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]
+[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]  
+
 ## தீவினையார்
 
 :::: {#word-theevinaiyaar layout="[1]"}
@@ -5272,7 +5502,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]
+[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]  
+
 ## அஞ்சார்
 
 :::: {#word-anjaar layout="[1]"}
@@ -5299,7 +5530,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]
+[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]  
+
 ## விழுமியார்
 
 :::: {#word-vizhumiyaar layout="[1]"}
@@ -5326,7 +5558,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]
+[தீவினை @word-theevinai] [என்னும் @word-ennum] [செருக்கு @word-serukku] [தீவினையார் @word-theevinaiyaar] [அஞ்சார் @word-anjaar] [விழுமியார் @word-vizhumiyaar] [அஞ்சுவர் @word-anjuvar]  
+
 ## அஞ்சுவர்
 
 :::: {#word-anjuvar layout="[1]"}
@@ -5355,19 +5588,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 212  
 
-# Kural 1
+:::: {#kural-212 layout="[1]"}  
+212. தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு  
+வேளாண்மை செய்தற் பொருட்டு.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/212.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 212  
+::::  
 
-Kural 1
-::::
 
-[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]
+# Kural with word links
+
+[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]  
+
 ## தக்கார்க்கு
 
 :::: {#word-thakkaarkku layout="[1]"}
@@ -5395,7 +5632,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]
+[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]  
+
 ## தான்
 
 :::: {#word-thaan layout="[1]"}
@@ -5426,7 +5664,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]
+[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]  
+
 ## ஆற்றித்
 
 :::: {#word-aattrit layout="[1]"}
@@ -5453,7 +5692,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]
+[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]  
+
 ## தந்த
 
 :::: {#word-thantha layout="[1]"}
@@ -5484,7 +5724,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]
+[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]  
+
 ## பொருள்
 
 :::: {#word-porul layout="[1]"}
@@ -5515,7 +5756,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]
+[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]  
+
 ## எல்லாம்
 
 :::: {#word-ellaam layout="[1]"}
@@ -5546,7 +5788,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]
+[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]  
+
 ## வேளாண்மை
 
 :::: {#word-velaanmai layout="[1]"}
@@ -5576,7 +5819,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]
+[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]  
+
 ## செய்தற்
 
 :::: {#word-seydhar layout="[1]"}
@@ -5606,7 +5850,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]
+[தக்கார்க்கு @word-thakkaarkku] [தான் @word-thaan] [ஆற்றித் @word-aattrit] [தந்த @word-thantha] [பொருள் @word-porul] [எல்லாம் @word-ellaam] [வேளாண்மை @word-velaanmai] [செய்தற் @word-seydhar] [பொருட்டு @word-poruttu]  
+
 ## பொருட்டு
 
 :::: {#word-poruttu layout="[1]"}
@@ -5639,19 +5884,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 223  
 
-# Kural 1
+:::: {#kural-223 layout="[1]"}  
+223. இலனென்னும் எவ்வம் உரையாமை ஈதல்  
+குலனுடையான் கண்ணே யுள.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/223.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 223  
+::::  
 
-Kural 1
-::::
 
-[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]
+# Kural with word links
+
+[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]  
+
 ## இலன்
 
 :::: {#word-ilan layout="[1]"}
@@ -5682,7 +5931,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]
+[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]  
+
 ## என்னும்
 
 :::: {#word-ennum layout="[1]"}
@@ -5713,7 +5963,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]
+[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]  
+
 ## எவ்வம்
 
 :::: {#word-evvam layout="[1]"}
@@ -5740,7 +5991,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]
+[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]  
+
 ## உரையாமை
 
 :::: {#word-uraiyaamai layout="[1]"}
@@ -5767,7 +6019,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]
+[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]  
+
 ## ஈதல்
 
 :::: {#word-eethal layout="[1]"}
@@ -5798,7 +6051,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]
+[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]  
+
 ## குலன்
 
 :::: {#word-kulan layout="[1]"}
@@ -5825,7 +6079,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]
+[இலன் @word-ilan] [என்னும் @word-ennum] [எவ்வம் @word-evvam] [உரையாமை @word-uraiyaamai] [ஈதல் @word-eethal] [குலன் @word-kulan] [உடையான்கண்ணே @word-udaiyaankaṇṇe]  
+
 ## உடையான்கண்ணே
 
 :::: {#word-udaiyaankaṇṇe layout="[1]"}
@@ -5854,19 +6109,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 234  
 
-# Kural 1
+:::: {#kural-234 layout="[1]"}  
+234. நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்  
+போற்றாது புத்தேள் உலகு.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/234.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 234  
+::::  
 
-Kural 1
-::::
 
-[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]
+# Kural with word links
+
+[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]  
+
 ## ஒன்றா
 
 :::: {#word-ondraa layout="[1]"}
@@ -5897,7 +6156,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]
+[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]  
+
 ## உயர்ந்த
 
 :::: {#word-uyarndha layout="[1]"}
@@ -5926,7 +6186,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]
+[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]  
+
 ## புகழ்
 
 :::: {#word-pugazh layout="[1]"}
@@ -5957,7 +6218,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]
+[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]  
+
 ## அல்லால்
 
 :::: {#word-allaal layout="[1]"}
@@ -5988,7 +6250,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]
+[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]  
+
 ## உலகத்துப்
 
 :::: {#word-ulagathup layout="[1]"}
@@ -6015,7 +6278,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]
+[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]  
+
 ## பொன்றாது
 
 :::: {#word-pondraadhu layout="[1]"}
@@ -6042,7 +6306,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]
+[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]  
+
 ## நிற்பது
 
 :::: {#word-nirpadhu layout="[1]"}
@@ -6069,7 +6334,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]
+[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]  
+
 ## ஒன்று
 
 :::: {#word-ondru layout="[1]"}
@@ -6100,7 +6366,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]
+[ஒன்றா @word-ondraa] [உயர்ந்த @word-uyarndha] [புகழ் @word-pugazh] [அல்லால் @word-allaal] [உலகத்துப் @word-ulagathup] [பொன்றாது @word-pondraadhu] [நிற்பது @word-nirpadhu] [ஒன்று @word-ondru] [இல் @word-il]  
+
 ## இல்
 
 :::: {#word-il layout="[1]"}
@@ -6133,19 +6400,23 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 
 
 ---
+  
+# Kural 245  
 
-# Kural 1
+:::: {#kural-245 layout="[1]"}  
+245. அல்லல் அருளாள்வார்க் கில்லை வளிவழங்கும்  
+மல்லன்மா ஞாலங் கரி.  
 
-:::: {#kural-1 layout="[1]"}
-1. அகர முதல எழுத்தெல்லாம் ஆதி
-பகவன் முதற்றே உலகு.
+![](https://www.valaitamil.com/upload/kural_audio/245.mp3){.audio controls="false" autoplay="false"}  
 
-![](https://www.valaitamil.com/upload/kural_audio/1.mp3){.audio controls="false" autoplay="false"}
+Kural 245  
+::::  
 
-Kural 1
-::::
 
-[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]
+# Kural with word links
+
+[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]  
+
 ## நல்
 
 :::: {#word-nal layout="[1]"}
@@ -6176,7 +6447,8 @@ Kural 1
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]
+[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]  
+
 ## ஆற்றான்
 
 :::: {#word-aatraan layout="[1]"}
@@ -6206,7 +6478,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]
+[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]  
+
 ## நாடி
 
 :::: {#word-naadi layout="[1]"}
@@ -6237,7 +6510,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]
+[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]  
+
 ## அருள்
 
 :::: {#word-arul layout="[1]"}
@@ -6268,7 +6542,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]
+[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]  
+
 ## ஆள்க
 
 :::: {#word-aalga layout="[1]"}
@@ -6296,7 +6571,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]
+[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]  
+
 ## பல
 
 :::: {#word-pala layout="[1]"}
@@ -6327,7 +6603,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]
+[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]  
+
 ## ஆற்றான்
 
 :::: {#word-aatraan layout="[1]"}
@@ -6357,7 +6634,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]
+[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]  
+
 ## தேரினும்
 
 :::: {#word-therinum layout="[1]"}
@@ -6385,7 +6663,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]
+[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]  
+
 ## துணை
 
 :::: {#word-thunai layout="[1]"}
@@ -6416,7 +6695,8 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
-[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]
+[நல் @word-nal] [ஆற்றான் @word-aatraan] [நாடி @word-naadi] [அருள் @word-arul] [ஆள்க @word-aalga] [பல @word-pala] [ஆற்றான் @word-aatraan] [தேரினும் @word-therinum] [துணை @word-thunai] [அஃதே @word-aqdhe]  
+
 ## அஃதே
 
 :::: {#word-aqdhe layout="[1]"}
@@ -6445,5 +6725,2881 @@ Discuss the cultural context of these phrases. Highlight any collocations or com
 Discuss the cultural context of these phrases. Highlight any collocations or common word pairings. Encourage students to look up the full kurals for more context.
 :::
 
+### Kural 2  
 
----
+:::: {#kural-2 layout="[1]"}  
+2. கற்றதனால் ஆய பயனென்கொல் வாலறிவன்  
+நற்றாள் தொழாஅர் எனின்.  
+
+Kural 2  
+::::  
+
+  
+### Kural 1026  
+
+:::: {#kural-1026 layout="[1]"}  
+1026 நல்லாண்மை என்பது ஒருவற்குத் தான்பிறந்த  
+இல்லாண்மை ஆக்கிக் கொளல்.  
+
+Kural 1026  
+::::  
+
+  
+### Kural 5  
+
+:::: {#kural-5 layout="[1]"}  
+5. இருள்சேர் இருவினையும் சேரா இறைவன்  
+பொருள்சேர் புகழ்புரிந்தார் மாட்டு.  
+
+Kural 5  
+::::  
+
+  
+### Kural 6  
+
+:::: {#kural-6 layout="[1]"}  
+6. பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க  
+நெறிநின்றார் நீடுவாழ் வார்.  
+
+Kural 6  
+::::  
+
+  
+### Kural 7  
+
+:::: {#kural-7 layout="[1]"}  
+7. தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்  
+மனக்கவலை மாற்றல் அரிது.  
+
+Kural 7  
+::::  
+
+  
+### Kural 8  
+
+:::: {#kural-8 layout="[1]"}  
+8. அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால்  
+பிறவாழி நீந்தல் அரிது.  
+
+Kural 8  
+::::  
+
+  
+### Kural 9  
+
+:::: {#kural-9 layout="[1]"}  
+9. கோளில் பொறியின் குணமிலவே எண்குணத்தான்  
+தாளை வணங்காத் தலை.  
+
+Kural 9  
+::::  
+
+  
+### Kural 11  
+
+:::: {#kural-11 layout="[1]"}  
+11. வான்நின்று உலகம் வழங்கி வருதலால்  
+தான்அமிழ்தம் என்றுணரற் பாற்று.  
+
+Kural 11  
+::::  
+
+  
+### Kural 14  
+
+:::: {#kural-14 layout="[1]"}  
+14. ஏரின் உழாஅர் உழவர் புயல்என்னும்  
+வாரி வளங்குன்றிக் கால்.  
+
+Kural 14  
+::::  
+
+  
+### Kural 15  
+
+:::: {#kural-15 layout="[1]"}  
+15. கெடுப்பதூஉம் கெட்டார்க்குச் சார்வாய்மற் றாங்கே  
+எடுப்பதூஉம் எல்லாம் மழை.  
+
+Kural 15  
+::::  
+
+  
+### Kural 16  
+
+:::: {#kural-16 layout="[1]"}  
+16. விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே  
+பசும்புல் தலைகாண்பு அரிது.  
+
+Kural 16  
+::::  
+
+  
+### Kural 17  
+
+:::: {#kural-17 layout="[1]"}  
+17. நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி  
+தான்நல்கா தாகி விடின்.  
+
+Kural 17  
+::::  
+
+  
+### Kural 18  
+
+:::: {#kural-18 layout="[1]"}  
+18. சிறப்பொடு பூசனை செல்லாது வானம்  
+வறக்குமேல் வானோர்க்கும் ஈண்டு.  
+
+Kural 18  
+::::  
+
+  
+### Kural 19  
+
+:::: {#kural-19 layout="[1]"}  
+19. தானம் தவம்இரண்டும் தங்கா வியன்உலகம்  
+வானம் வழங்கா தெனின்.  
+
+Kural 19  
+::::  
+
+  
+### Kural 20  
+
+:::: {#kural-20 layout="[1]"}  
+20. நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்  
+வான்இன்று அமையாது ஒழுக்கு.  
+
+Kural 20  
+::::  
+
+  
+### Kural 21  
+
+:::: {#kural-21 layout="[1]"}  
+21. ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து  
+வேண்டும் பனுவல் துணிவு.  
+
+Kural 21  
+::::  
+
+  
+### Kural 22  
+
+:::: {#kural-22 layout="[1]"}  
+22. துறந்தார் பெருமை துணைக்கூறின் வையத்து  
+இறந்தாரை எண்ணிக்கொண் டற்று.  
+
+Kural 22  
+::::  
+
+  
+### Kural 24  
+
+:::: {#kural-24 layout="[1]"}  
+24. உரனென்னும் தோட்டியான் ஓரைந்தும் காப்பான்  
+வரனென்னும் வைப்பிற்கோர் வித்து.  
+
+Kural 24  
+::::  
+
+  
+### Kural 25  
+
+:::: {#kural-25 layout="[1]"}  
+25. ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்  
+இந்திரனே சாலுங் கரி.  
+
+Kural 25  
+::::  
+
+  
+### Kural 27  
+
+:::: {#kural-27 layout="[1]"}  
+27. சுவைஒளி ஊறுஓசை நாற்றமென ஐந்தின்  
+வகைதெரிவான் கட்டே உலகு.  
+
+Kural 27  
+::::  
+
+  
+### Kural 28  
+
+:::: {#kural-28 layout="[1]"}  
+28. நிறைமொழி மாந்தர் பெருமை நிலத்து  
+மறைமொழி காட்டி விடும்.  
+
+Kural 28  
+::::  
+
+  
+### Kural 29  
+
+:::: {#kural-29 layout="[1]"}  
+29. குணமென்னும் குன்றேறி நின்றார் வெகுளி  
+கணமேயும் காத்தல் அரிது.  
+
+Kural 29  
+::::  
+
+  
+### Kural 30  
+
+:::: {#kural-30 layout="[1]"}  
+30. அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்  
+செந்தண்மை பூண்டொழுக லான்.  
+
+Kural 30  
+::::  
+
+  
+### Kural 31  
+
+:::: {#kural-31 layout="[1]"}  
+31. சிறப்பீனுஞ் செல்வமும் ஈனும் அறத்தினூஉங்  
+காக்கம் எவனோ உயிர்க்கு.  
+
+Kural 31  
+::::  
+
+  
+### Kural 32  
+
+:::: {#kural-32 layout="[1]"}  
+32. அறத்தினூஉங் காக்கமும் இல்லை அதனை  
+மறத்தலின் ஊங்கில்லை கேடு.  
+
+Kural 32  
+::::  
+
+  
+### Kural 33  
+
+:::: {#kural-33 layout="[1]"}  
+33. ஒல்லும் வகையான் அறவினை ஓவாதே  
+செல்லும்வாய் எல்லாஞ் செயல்.  
+
+Kural 33  
+::::  
+
+  
+### Kural 35  
+
+:::: {#kural-35 layout="[1]"}  
+35. அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும்  
+இழுக்கா இயன்றது அறம்.  
+
+Kural 35  
+::::  
+
+  
+### Kural 36  
+
+:::: {#kural-36 layout="[1]"}  
+36. அன்றறிவாம் என்னாது அறஞ்செய்க மற்றது  
+பொன்றுங்கால் பொன்றாத் துணை.  
+
+Kural 36  
+::::  
+
+  
+### Kural 38  
+
+:::: {#kural-38 layout="[1]"}  
+38. வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்  
+வாழ்நாள் வழியடைக்கும் கல்.  
+
+Kural 38  
+::::  
+
+  
+### Kural 39  
+
+:::: {#kural-39 layout="[1]"}  
+39. அறத்தான் வருவதே இன்பமற் றெல்லாம்  
+புறத்த புகழும் இல.  
+
+Kural 39  
+::::  
+
+  
+### Kural 40  
+
+:::: {#kural-40 layout="[1]"}  
+40. செயற்பால தோரும் அறனே ஒருவற்கு  
+உயற்பால தோரும் பழி.  
+
+Kural 40  
+::::  
+
+  
+### Kural 41  
+
+:::: {#kural-41 layout="[1]"}  
+41. இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்  
+நல்லாற்றின் நின்ற துணை.  
+
+Kural 41  
+::::  
+
+  
+### Kural 42  
+
+:::: {#kural-42 layout="[1]"}  
+42. துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்  
+இல்வாழ்வான் என்பான் துணை.  
+
+Kural 42  
+::::  
+
+  
+### Kural 43  
+
+:::: {#kural-43 layout="[1]"}  
+43. தென்புலத்தார் தெய்வம் விருந்தொக்கல் தானென்றாங்  
+கைம்புலத்தா றோம்பல் தலை.  
+
+Kural 43  
+::::  
+
+  
+### Kural 44  
+
+:::: {#kural-44 layout="[1]"}  
+44. பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை  
+வழியெஞ்சல் எஞ்ஞான்றும் இல்.  
+
+Kural 44  
+::::  
+
+  
+### Kural 46  
+
+:::: {#kural-46 layout="[1]"}  
+46. அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றில்  
+போஒய்ப் பெறுவ தெவன்?  
+
+Kural 46  
+::::  
+
+  
+### Kural 47  
+
+:::: {#kural-47 layout="[1]"}  
+47. இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான்  
+முயல்வாருள் எல்லாம் தலை.  
+
+Kural 47  
+::::  
+
+  
+### Kural 48  
+
+:::: {#kural-48 layout="[1]"}  
+48. ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கை  
+நோற்பாரின் நோன்மை உடைத்து.  
+
+Kural 48  
+::::  
+
+  
+### Kural 49  
+
+:::: {#kural-49 layout="[1]"}  
+49. அறனெனப் பட்டதே யில்வாழ்க்கை யஃதும்  
+பிறன்பழிப்ப தில்லாயின் நன்று.  
+
+Kural 49  
+::::  
+
+  
+### Kural 1065  
+
+:::: {#kural-1065 layout="[1]"}  
+1065 தெண்ணீர் அடுபுற்கை ஆயினும் தாள்தந்த  
+துண்ணலின் ஊங்கினிய தில்.  
+
+Kural 1065  
+::::  
+
+  
+### Kural 51  
+
+:::: {#kural-51 layout="[1]"}  
+51. மனைக்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்  
+வளத்தக்காள் வாழ்க்கைத் துணை.  
+
+Kural 51  
+::::  
+
+  
+### Kural 52  
+
+:::: {#kural-52 layout="[1]"}  
+52. மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கை  
+எனைமாட்சித் தாயினும் இல்.  
+
+Kural 52  
+::::  
+
+  
+### Kural 54  
+
+:::: {#kural-54 layout="[1]"}  
+54. பெண்ணின் பெருந்தக்க யாவுள கற்பென்னும்  
+திண்மைஉண் டாகப் பெறின்.  
+
+Kural 54  
+::::  
+
+  
+### Kural 55  
+
+:::: {#kural-55 layout="[1]"}  
+55. தெய்வம் தொழாஅள் கொழுநன் தொழுதெழுவாள்  
+பெய்யெனப் பெய்யும் மழை.  
+
+Kural 55  
+::::  
+
+  
+### Kural 58  
+
+:::: {#kural-58 layout="[1]"}  
+58. பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப்  
+புத்தேளிர் வாழும் உலகு.  
+
+Kural 58  
+::::  
+
+  
+### Kural 59  
+
+:::: {#kural-59 layout="[1]"}  
+59. புகழ்புரிந்த இல்லிலோர்க்கு இல்லை இகழ்வார்முன்  
+ஏறுபோல் பீடு நடை.  
+
+Kural 59  
+::::  
+
+  
+### Kural 60  
+
+:::: {#kural-60 layout="[1]"}  
+60. மங்கலம் என்ப மனைமாட்சி மற்றதன்  
+நன்கலம் நன்மக்கட் பேறு.  
+
+Kural 60  
+::::  
+
+  
+### Kural 61  
+
+:::: {#kural-61 layout="[1]"}  
+61. பெறுமவற்றுள் யாமறிவ தில்லை அறிவறிந்த  
+மக்கட்பே றல்ல பிற.  
+
+Kural 61  
+::::  
+
+  
+### Kural 62  
+
+:::: {#kural-62 layout="[1]"}  
+62. எழுபிறப்பும் தீயவை தீண்டா பழிபிறங்காப்  
+பண்புடை மக்கட் பெறின்.  
+
+Kural 62  
+::::  
+
+  
+### Kural 63  
+
+:::: {#kural-63 layout="[1]"}  
+63. தம்பொருள் என்பதம் மக்கள் அவர்பொருள்  
+தம்தம் வினையான் வரும்.  
+
+Kural 63  
+::::  
+
+  
+### Kural 65  
+
+:::: {#kural-65 layout="[1]"}  
+65. மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றவர்  
+சொற்கேட்டல் இன்பம் செவிக்கு.  
+
+Kural 65  
+::::  
+
+  
+### Kural 66  
+
+:::: {#kural-66 layout="[1]"}  
+66. குழலினிதி யாழ்இனி தென்பதம் மக்கள்  
+மழலைச்சொல் கேளா தவர்.  
+
+Kural 66  
+::::  
+
+  
+### Kural 68  
+
+:::: {#kural-68 layout="[1]"}  
+68. தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து  
+மன்னுயிர்க் கெல்லாம் இனிது.  
+
+Kural 68  
+::::  
+
+  
+### Kural 69  
+
+:::: {#kural-69 layout="[1]"}  
+69. ஈன்ற பொழுதின் பெரிதுவக்கும் தன்மகனைச்  
+சான்றோன் எனக்கேட்ட தாய்.  
+
+Kural 69  
+::::  
+
+  
+### Kural 70  
+
+:::: {#kural-70 layout="[1]"}  
+70. மகன்றந்தைக் காற்று முதவி யிவன்றந்தை  
+என்நோற்றான் கொல்எனும் சொல்.  
+
+Kural 70  
+::::  
+
+  
+### Kural 72  
+
+:::: {#kural-72 layout="[1]"}  
+72. அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்  
+என்பும் உரியர் பிறர்க்கு.  
+
+Kural 72  
+::::  
+
+  
+### Kural 73  
+
+:::: {#kural-73 layout="[1]"}  
+73. அன்போடு இயைந்த வழக்கென்ப ஆருயிர்க்கு  
+என்போடு இயைந்த தொடர்பு.  
+
+Kural 73  
+::::  
+
+  
+### Kural 74  
+
+:::: {#kural-74 layout="[1]"}  
+74. அன்பீனு ஆர்வம் உடைமை அதுஈனும்  
+நண்பென்னும் நாடாச் சிறப்பு.  
+
+Kural 74  
+::::  
+
+  
+### Kural 75  
+
+:::: {#kural-75 layout="[1]"}  
+75. அன்புற்று அமர்ந்த வழக்கென்ப வையகத்து  
+இன்புற்றார் எய்தும் சிறப்பு.  
+
+Kural 75  
+::::  
+
+  
+### Kural 76  
+
+:::: {#kural-76 layout="[1]"}  
+76. அறத்திற்கே அன்புசார் பென்ப அறியார்  
+மறத்திற்கும் அஃதே துணை.  
+
+Kural 76  
+::::  
+
+  
+### Kural 77  
+
+:::: {#kural-77 layout="[1]"}  
+77. என்பி லதனை வெயில்போலக் காயுமே  
+அன்பி லதனை அறம்.  
+
+Kural 77  
+::::  
+
+  
+### Kural 79  
+
+:::: {#kural-79 layout="[1]"}  
+79. புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை  
+அகத்துறுப்பு அன்பி லவர்க்கு.  
+
+Kural 79  
+::::  
+
+  
+### Kural 80  
+
+:::: {#kural-80 layout="[1]"}  
+80. அன்பின் வழியது உயிர்நிலை அஃதிலார்க்கு  
+என்புதோல் போர்த்த உடம்பு.  
+
+Kural 80  
+::::  
+
+  
+### Kural 81  
+
+:::: {#kural-81 layout="[1]"}  
+81. இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி  
+வேளாண்மை செய்தற் பொருட்டு.  
+
+Kural 81  
+::::  
+
+  
+### Kural 1100  
+
+:::: {#kural-1100 layout="[1]"}  
+1100 கண்ணொடு கண்ணிணை நோக்கொக்கின் வாய்ச்சொற்க  
+ளென்ன பயனு மில.  
+
+Kural 1100  
+::::  
+
+  
+### Kural 84  
+
+:::: {#kural-84 layout="[1]"}  
+84. அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து  
+நல்விருந்து ஓம்புவான் இல்.  
+
+Kural 84  
+::::  
+
+  
+### Kural 86  
+
+:::: {#kural-86 layout="[1]"}  
+86. செல்விருந்து ஓம்பி வருவிருந்து பார்த்திருப்பான்  
+நல்விருந்து வானத் தவர்க்கு.  
+
+Kural 86  
+::::  
+
+  
+### Kural 87  
+
+:::: {#kural-87 layout="[1]"}  
+87. இனைத்துணைத் தென்பதொன் றில்லை விருந்தின்  
+துணைத்துணை வேள்விப் பயன்.  
+
+Kural 87  
+::::  
+
+  
+### Kural 91  
+
+:::: {#kural-91 layout="[1]"}  
+91. இன்சொலால் ஈரம் அளைஇப் படிறிலவாம்  
+செம்பொருள் கண்டார்வாய்ச் சொல்.  
+
+Kural 91  
+::::  
+
+  
+### Kural 92  
+
+:::: {#kural-92 layout="[1]"}  
+92. அகன்அமர்ந்து ஈதலின் நன்றே முகனமர்ந்து  
+இன்சொலன் ஆகப் பெறின்.  
+
+Kural 92  
+::::  
+
+  
+### Kural 93  
+
+:::: {#kural-93 layout="[1]"}  
+93. முகத்தான் அமர்ந்தினிது நோக்கி அகத்தானாம்  
+இன்சொ லினதே அறம்.  
+
+Kural 93  
+::::  
+
+  
+### Kural 94  
+
+:::: {#kural-94 layout="[1]"}  
+94. துன்புறூஉம் துவ்வாமை இல்லாகும் யார்மாட்டும்  
+இன்புறூஉம் இன்சொ லவர்க்கு.  
+
+Kural 94  
+::::  
+
+  
+### Kural 95  
+
+:::: {#kural-95 layout="[1]"}  
+95. பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்கு  
+அணியல்ல மற்றுப் பிற.  
+
+Kural 95  
+::::  
+
+  
+### Kural 96  
+
+:::: {#kural-96 layout="[1]"}  
+96. அல்லவை தேய அறம்பெருகும் நல்லவை  
+நாடி இனிய சொலின்.  
+
+Kural 96  
+::::  
+
+  
+### Kural 97  
+
+:::: {#kural-97 layout="[1]"}  
+97. நயனீன்று நன்றி பயக்கும் பயன்ஈன்று  
+பண்பின் தலைப்பிரியாச் சொல்.  
+
+Kural 97  
+::::  
+
+  
+### Kural 98  
+
+:::: {#kural-98 layout="[1]"}  
+98. சிறுமையுள் நீங்கிய இன்சொல் மறுமையும்  
+இம்மையும் இன்பம் தரும்.  
+
+Kural 98  
+::::  
+
+  
+### Kural 102  
+
+:::: {#kural-102 layout="[1]"}  
+102. காலத்தி னாற்செய்த நன்றி சிறிதெனினும்  
+ஞாலத்தின் மாணப் பெரிது.  
+
+Kural 102  
+::::  
+
+  
+### Kural 103  
+
+:::: {#kural-103 layout="[1]"}  
+103. பயன்தூக்கார் செய்த உதவி நயன்தூக்கின்  
+நன்மை கடலின் பெரிது.  
+
+Kural 103  
+::::  
+
+  
+### Kural 104  
+
+:::: {#kural-104 layout="[1]"}  
+104. தினைத்துணை நன்றி செயினும் பனைத்துணையாக்  
+கொள்வர் பயன்தெரி வார்.  
+
+Kural 104  
+::::  
+
+  
+### Kural 106  
+
+:::: {#kural-106 layout="[1]"}  
+106. மறவற்க மாசற்றார் கேண்மை துறவற்க  
+துன்பத்துள் துப்பாயார் நட்பு.  
+
+Kural 106  
+::::  
+
+  
+### Kural 107  
+
+:::: {#kural-107 layout="[1]"}  
+107. எழுமை எழுபிறப்பும் உள்ளுவர் தங்கண்  
+விழுமந் துடைத்தவர் நட்பு.  
+
+Kural 107  
+::::  
+
+  
+### Kural 108  
+
+:::: {#kural-108 layout="[1]"}  
+108. நன்றி மறப்பது நன்றன்று நன்றல்ல  
+தன்றே மறப்பது நன்று.  
+
+Kural 108  
+::::  
+
+  
+### Kural 109  
+
+:::: {#kural-109 layout="[1]"}  
+109. கொன்றன்ன இன்னா செயினும் அவர்செய்த  
+ஒன்றுநன்று உள்ளக் கெடும்.  
+
+Kural 109  
+::::  
+
+  
+### Kural 110  
+
+:::: {#kural-110 layout="[1]"}  
+110. எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம் உய்வில்லை  
+செய்ந்நன்றி கொன்ற மகற்கு.  
+
+Kural 110  
+::::  
+
+  
+### Kural 111  
+
+:::: {#kural-111 layout="[1]"}  
+111. தகுதி எனவொன்று நன்றே பகுதியால்  
+பாற்பட்டு ஒழுகப் பெறின்.  
+
+Kural 111  
+::::  
+
+  
+### Kural 115  
+
+:::: {#kural-115 layout="[1]"}  
+115. கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக்  
+கோடாமை சான்றோர்க் கணி.  
+
+Kural 115  
+::::  
+
+  
+### Kural 118  
+
+:::: {#kural-118 layout="[1]"}  
+118. சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபால்  
+கோடாமை சான்றோர்க் கணி.  
+
+Kural 118  
+::::  
+
+  
+### Kural 119  
+
+:::: {#kural-119 layout="[1]"}  
+119. சொற்கோட்டம் இல்லது செப்பம் ஒருதலையா  
+உட்கோட்டம் இன்மை பெறின்.  
+
+Kural 119  
+::::  
+
+  
+### Kural 120  
+
+:::: {#kural-120 layout="[1]"}  
+120. வாணிகம் செய்வார்க்கு வாணிகம் பேணிப்  
+பிறவும் தமபோல் செயின்.  
+
+Kural 120  
+::::  
+
+  
+### Kural 122  
+
+:::: {#kural-122 layout="[1]"}  
+122. காக்க பொருளா அடக்கத்தை ஆக்கம்  
+அதனினூஉங் கில்லை உயிர்க்கு.  
+
+Kural 122  
+::::  
+
+  
+### Kural 125  
+
+:::: {#kural-125 layout="[1]"}  
+125. எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்  
+செல்வர்க்கே செல்வம் தகைத்து.  
+
+Kural 125  
+::::  
+
+  
+### Kural 126  
+
+:::: {#kural-126 layout="[1]"}  
+126. ஒரும்யுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்  
+எழும்யும் ஏமாப் புடைத்து.  
+
+Kural 126  
+::::  
+
+  
+### Kural 128  
+
+:::: {#kural-128 layout="[1]"}  
+128. ஒன்றானுந் தீச்சொல் பொருட்பயன் உண்டாயின்  
+நன்றாகா தாகி விடும்.  
+
+Kural 128  
+::::  
+
+  
+### Kural 130  
+
+:::: {#kural-130 layout="[1]"}  
+130. கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி  
+அறம்பார்க்கும் ஆற்றின் நுழைந்து.  
+
+Kural 130  
+::::  
+
+  
+### Kural 131  
+
+:::: {#kural-131 layout="[1]"}  
+131. ஒழுக்கம் விழுப்பந் தரலான் ஒழுக்கம்  
+உயிரினும் ஓம்பப் படும்.  
+
+Kural 131  
+::::  
+
+  
+### Kural 132  
+
+:::: {#kural-132 layout="[1]"}  
+132. பரிந்தோம்பிக் காக்க ஒழுக்கம் தெரிந்தோம்பித்  
+தேரினும் அஃதே துணை.  
+
+Kural 132  
+::::  
+
+  
+### Kural 133  
+
+:::: {#kural-133 layout="[1]"}  
+133. ஒழுக்கம் உடைமை குடிமை இழுக்கம்  
+இழிந்த பிறப்பாய் விடும்.  
+
+Kural 133  
+::::  
+
+  
+### Kural 135  
+
+:::: {#kural-135 layout="[1]"}  
+135. அழுக்கா றுடையான்கண் ஆக்கம்போன் றில்லை  
+ஒழுக்க மிலான்கண் உயர்வு.  
+
+Kural 135  
+::::  
+
+  
+### Kural 136  
+
+:::: {#kural-136 layout="[1]"}  
+136. ஒழுக்கத்தின் ஒல்கார் உரவோர் இழுக்கத்தின்  
+ஏதம் படுபாக் கறிந்து.  
+
+Kural 136  
+::::  
+
+  
+### Kural 137  
+
+:::: {#kural-137 layout="[1]"}  
+137. ஒழுக்கத்தின் எய்துவர் மேன்மை இழுக்கத்தின்  
+எய்துவர் எய்தாப் பழி.  
+
+Kural 137  
+::::  
+
+  
+### Kural 140  
+
+:::: {#kural-140 layout="[1]"}  
+140. உலகத்தோ டொட்ட ஒழுகல் பலகற்றும்  
+கல்லார் அறிவிலா தார்.  
+
+Kural 140  
+::::  
+
+  
+### Kural 141  
+
+:::: {#kural-141 layout="[1]"}  
+141. பிறன்பொருளாள் பெட்டொழுகும் பேதைமை ஞாலத்து  
+அறம்பொருள் கண்டார்கண் இல்.  
+
+Kural 141  
+::::  
+
+  
+### Kural 142  
+
+:::: {#kural-142 layout="[1]"}  
+142. அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை  
+நின்றாரின் பேதையார் இல்.  
+
+Kural 142  
+::::  
+
+  
+### Kural 144  
+
+:::: {#kural-144 layout="[1]"}  
+144 எனைத்துணையர் ஆயினும் என்னாம் தினைத்துணையும்  
+தேரான் பிறனில் புகல்.  
+
+Kural 144  
+::::  
+
+  
+### Kural 146  
+
+:::: {#kural-146 layout="[1]"}  
+146. பகைபாவம் அச்சம் பழியென நான்கும்  
+இகவாவாம் இல்லிறப்பான் கண்.  
+
+Kural 146  
+::::  
+
+  
+### Kural 147  
+
+:::: {#kural-147 layout="[1]"}  
+147. அறனியலான் இல்வாழ்வான் என்பான் பிறனியலாள்  
+பெண்மை நயவா தவன்.  
+
+Kural 147  
+::::  
+
+  
+### Kural 148  
+
+:::: {#kural-148 layout="[1]"}  
+148. பிறன்மனை நோக்காத பேராண்மை சான்றோர்க்கு  
+அறனொன்றோ ஆன்ற வொழுக்கு.  
+
+Kural 148  
+::::  
+
+  
+### Kural 149  
+
+:::: {#kural-149 layout="[1]"}  
+149. நலக்குரியார் யாரெனின் நாமநீர் வைப்பின்  
+பிறர்க்குரியாள் தோள்தோயா தார்.  
+
+Kural 149  
+::::  
+
+  
+### Kural 150  
+
+:::: {#kural-150 layout="[1]"}  
+150. அறன்வரையான் அல்ல செயினும் பிறன்வரையாள்  
+பெண்மை நயவாமை நன்று.  
+
+Kural 150  
+::::  
+
+  
+### Kural 1172  
+
+:::: {#kural-1172 layout="[1]"}  
+1172 தெரிந்துணரா நோக்கிய வுண்கண் பரிந்துணராப்  
+பைத லுழப்ப தெவன்?  
+
+Kural 1172  
+::::  
+
+  
+### Kural 153  
+
+:::: {#kural-153 layout="[1]"}  
+153. இன்¨ம்யுள் இன்மை விருந்தொரால் வன்மையுள்  
+வன்மை மடவார்ப் பொறை.  
+
+Kural 153  
+::::  
+
+  
+### Kural 154  
+
+:::: {#kural-154 layout="[1]"}  
+154. நிறையுடைமை நீங்காமை வேண்டின் பொறையுடைமை  
+போற்றி யொழுகப் படும்.  
+
+Kural 154  
+::::  
+
+  
+### Kural 155  
+
+:::: {#kural-155 layout="[1]"}  
+155. ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர்  
+பொறுத்தாரைப் பொன்போற் பொதிந்து.  
+
+Kural 155  
+::::  
+
+  
+### Kural 157  
+
+:::: {#kural-157 layout="[1]"}  
+157. திறனல்ல தற்பிறர் செய்யினும் நோநொந்து  
+அறனல்ல செய்யாமை நன்று.  
+
+Kural 157  
+::::  
+
+  
+### Kural 160  
+
+:::: {#kural-160 layout="[1]"}  
+160. உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்  
+இன்னாச்சொல் நோற்பாரின் பின்.  
+
+Kural 160  
+::::  
+
+  
+### Kural 161  
+
+:::: {#kural-161 layout="[1]"}  
+161. ஒழுக்காறாக் கொள்க ஒருவன்தன் நெஞ்சத்து  
+அழுக்காறு இலாத இயல்பு.  
+
+Kural 161  
+::::  
+
+  
+### Kural 163  
+
+:::: {#kural-163 layout="[1]"}  
+163. அறன்ஆக்கம் வேண்டாதான் என்பான் பிறனாக்கம்  
+பேணாது அழுக்கறுப் பான்.  
+
+Kural 163  
+::::  
+
+  
+### Kural 164  
+
+:::: {#kural-164 layout="[1]"}  
+164. அழுக்காற்றின் அல்லவை செய்யார் இழுக்காற்றின்  
+ஏதம் படுபாக்கு அறிந்து.  
+
+Kural 164  
+::::  
+
+  
+### Kural 165  
+
+:::: {#kural-165 layout="[1]"}  
+165. அழுக்காறு உடையார்க்கு அதுசாலும் ஒன்னார்  
+வழுக்கியும் கேடீன் பது.  
+
+Kural 165  
+::::  
+
+  
+### Kural 166  
+
+:::: {#kural-166 layout="[1]"}  
+166. கொடுப்பது அழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்  
+உண்பதூஉம் இன்றிக் கெடும்.  
+
+Kural 166  
+::::  
+
+  
+### Kural 1191  
+
+:::: {#kural-1191 layout="[1]"}  
+1191 தாம்வீழ்வார் தம்வீழப் பெற்றவர் பெற்றாரே  
+காமத்துக் காழில் கனி.  
+
+Kural 1191  
+::::  
+
+  
+### Kural 171  
+
+:::: {#kural-171 layout="[1]"}  
+171. நடுவின்றி நன்பொருள் வெஃகின் குடிபொன்றிக்  
+குற்றமும் ஆங்கே தரும்.  
+
+Kural 171  
+::::  
+
+  
+### Kural 173  
+
+:::: {#kural-173 layout="[1]"}  
+173. சிற்றின்பம் வெஃகி அறனல்ல செய்யாரே  
+மற்றின்பம் வேண்டு பவர்.  
+
+Kural 173  
+::::  
+
+  
+### Kural 175  
+
+:::: {#kural-175 layout="[1]"}  
+175. அஃகி அகன்ற அறிவென்னாம் யார்மாட்டும்  
+வெஃகி வெறிய செயின்.  
+
+Kural 175  
+::::  
+
+  
+### Kural 176  
+
+:::: {#kural-176 layout="[1]"}  
+176. அருள்வெஃகி ஆற்றின்கண் நின்றான் பொருள்வெஃகிப்  
+பொல்லாத சூழக் கெடும்.  
+
+Kural 176  
+::::  
+
+  
+### Kural 179  
+
+:::: {#kural-179 layout="[1]"}  
+179. அறனறிந்து வெஃகா அறிவுடையார்ச் சேரும்  
+திறன்அறிந் தாங்கே திரு.  
+
+Kural 179  
+::::  
+
+  
+### Kural 180  
+
+:::: {#kural-180 layout="[1]"}  
+180. இறலீனும் எண்ணாது வெஃகின் விறல்ஈனும்  
+வேண்டாமை என்னுஞ் செருக்கு.  
+
+Kural 180  
+::::  
+
+  
+### Kural 182  
+
+:::: {#kural-182 layout="[1]"}  
+182. அறனழீஇ அல்லவை செய்தலின் தீதே  
+புறனழீஇப் பொய்த்து நகை.  
+
+Kural 182  
+::::  
+
+  
+### Kural 184  
+
+:::: {#kural-184 layout="[1]"}  
+184. கண்ணின்று கண்ணறச் சொல்லினும் சொல்லற்க  
+முன்னின்று பின்நோக்காச் சொல்.  
+
+Kural 184  
+::::  
+
+  
+### Kural 1208  
+
+:::: {#kural-1208 layout="[1]"}  
+1208 எனைத்து நினைப்பினுங் காயா ரனைத்தன்றோ  
+காதலர் செய்யுஞ் சிறப்பு.  
+
+Kural 1208  
+::::  
+
+  
+### Kural 186  
+
+:::: {#kural-186 layout="[1]"}  
+186. பிறன்பழி கூறுவான் தன்பழி யுள்ளும்  
+திறன்தெரிந்து கூறப் படும்.  
+
+Kural 186  
+::::  
+
+  
+### Kural 191  
+
+:::: {#kural-191 layout="[1]"}  
+191. பல்லார் முனியப் பயனில சொல்லுவான்  
+எல்லாரும் எள்ளப் படும்.  
+
+Kural 191  
+::::  
+
+  
+### Kural 192  
+
+:::: {#kural-192 layout="[1]"}  
+192. பயனில பல்லார்முன் சொல்லல் நயனில  
+நட்டார்கண் செய்தலிற் றீது.  
+
+Kural 192  
+::::  
+
+  
+### Kural 193  
+
+:::: {#kural-193 layout="[1]"}  
+193. நயனிலன் என்பது சொல்லும் பயனில  
+பாரித் துரைக்கும் உரை.  
+
+Kural 193  
+::::  
+
+  
+### Kural 194  
+
+:::: {#kural-194 layout="[1]"}  
+194. நயன்சாரா நன்மையின் நீக்கும் பயன்சாராப்  
+பண்பில்சொல் பல்லா ரகத்து.  
+
+Kural 194  
+::::  
+
+  
+### Kural 195  
+
+:::: {#kural-195 layout="[1]"}  
+195. சீர்மை சிறப்பொடு நீங்கும் பயனில  
+நீர்மை யுடையார் சொலின்.  
+
+Kural 195  
+::::  
+
+  
+### Kural 197  
+
+:::: {#kural-197 layout="[1]"}  
+197. நயனில சொல்லினுஞ் சொல்லுக சான்றோர்  
+பயனில சொல்லாமை நன்று.  
+
+Kural 197  
+::::  
+
+  
+### Kural 199  
+
+:::: {#kural-199 layout="[1]"}  
+199. பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்த  
+மாசறு காட்சி யவர்.  
+
+Kural 199  
+::::  
+
+  
+### Kural 205  
+
+:::: {#kural-205 layout="[1]"}  
+205. இலனென்று தீயவை செய்யற்க செய்யின்  
+இலனாகும் மற்றும் பெயர்த்து.  
+
+Kural 205  
+::::  
+
+  
+### Kural 209  
+
+:::: {#kural-209 layout="[1]"}  
+209. தன்னைத்தான் காதல னாயின் எனைத்தொன்றும்  
+துன்னற்க தீவினைப் பால்.  
+
+Kural 209  
+::::  
+
+  
+### Kural 210  
+
+:::: {#kural-210 layout="[1]"}  
+210. அருங்கேடன் என்பது அறிக மருங்கோடித்  
+தீவினை செய்யான் எனின்.  
+
+Kural 210  
+::::  
+
+  
+### Kural 211  
+
+:::: {#kural-211 layout="[1]"}  
+211. கைம்மாறு வேண்டா கடப்பாடு மாரிமாட்டு  
+என்னாற்றுங் கொல்லோ உலகு.  
+
+Kural 211  
+::::  
+
+  
+### Kural 213  
+
+:::: {#kural-213 layout="[1]"}  
+213. புத்தே ளுலகத்தும் ஈண்டும் பெறலரிதே  
+ஒப்புரவின் நல்ல பிற.  
+
+Kural 213  
+::::  
+
+  
+### Kural 1236  
+
+:::: {#kural-1236 layout="[1]"}  
+1236 தொடியொடு தோணெகிழ நோவ லவரைக்  
+கொடிய ரெனக்கூற ணொந்து.  
+
+Kural 1236  
+::::  
+
+  
+### Kural 1239  
+
+:::: {#kural-1239 layout="[1]"}  
+1239 முயக்கிடைத் தண்வளி போழப் பசப்புற்ற  
+பேதை பெருமழைக் கண்.  
+
+Kural 1239  
+::::  
+
+  
+### Kural 216  
+
+:::: {#kural-216 layout="[1]"}  
+216. பயன்மரம் உள்ளூர்ப் பழுத்தற்றால் செல்வம்  
+நயனுடை யான்கண் படின்.  
+
+Kural 216  
+::::  
+
+  
+### Kural 217  
+
+:::: {#kural-217 layout="[1]"}  
+217. மருந்தாகித் தப்பா மரத்தற்றால் செல்வம்  
+பெருந்தகை யான்கண் படின்.  
+
+Kural 217  
+::::  
+
+  
+### Kural 219  
+
+:::: {#kural-219 layout="[1]"}  
+219. நயனுடையான் நல்கூர்ந்தா னாதல் செயும்நீர  
+செய்யாது அமைகலா வாறு.  
+
+Kural 219  
+::::  
+
+  
+### Kural 220  
+
+:::: {#kural-220 layout="[1]"}  
+220. ஒப்புரவி னால்வரும் கேடெனின் அஃதொருவன்  
+விற்றுக்கோள் தக்க துடைத்து.  
+
+Kural 220  
+::::  
+
+  
+### Kural 221  
+
+:::: {#kural-221 layout="[1]"}  
+221. வறியார்க்கொன் றீவதே ஈகைமற் றெல்லாம்  
+குறியெதிர்ப்பை நீர துடைத்து.  
+
+Kural 221  
+::::  
+
+  
+### Kural 1246  
+
+:::: {#kural-1246 layout="[1]"}  
+1246 கலந்துணர்த்தும் காதலர்க் கண்டாற் புலந்துணராய்  
+பொய்க்காய்வு காய்தியென் னெஞ்சு.  
+
+Kural 1246  
+::::  
+
+  
+### Kural 224  
+
+:::: {#kural-224 layout="[1]"}  
+224. இன்னாது இரக்கப் படுதல் இரந்தவர்  
+இன்முகங் காணும் அளவு.  
+
+Kural 224  
+::::  
+
+  
+### Kural 225  
+
+:::: {#kural-225 layout="[1]"}  
+225. ஆற்றுவார் ஆற்றல் பசிஆற்றல் அப்பசியை  
+மாற்றுவார் ஆற்றலின் பின்.  
+
+Kural 225  
+::::  
+
+  
+### Kural 229  
+
+:::: {#kural-229 layout="[1]"}  
+229. இரத்தலின் இன்னாது மன்ற நிரப்பிய  
+தாமே தமியர் உணல்.  
+
+Kural 229  
+::::  
+
+  
+### Kural 230  
+
+:::: {#kural-230 layout="[1]"}  
+230. சாதலின் இன்னாத தில்லை இனிததூஉம்  
+ஈதல் இயையாக் கடை.  
+
+Kural 230  
+::::  
+
+  
+### Kural 231  
+
+:::: {#kural-231 layout="[1]"}  
+231. ஈதல் இசைபட வாழ்தல் அதுவல்ல  
+தூதியம் இல்லை உயிர்க்கு.  
+
+Kural 231  
+::::  
+
+  
+### Kural 232  
+
+:::: {#kural-232 layout="[1]"}  
+232. உரைப்பார் உரைப்பவை எல்லாம் இரப்பார்க்கொன்  
+றீவார்மேல் நிற்கும் புகழ்.  
+
+Kural 232  
+::::  
+
+  
+### Kural 233  
+
+:::: {#kural-233 layout="[1]"}  
+233. ஒன்றா உலகத்து உயர்ந்த புகழல்லால்  
+பொன்றாது நிற்பதொன் றில்.  
+
+Kural 233  
+::::  
+
+  
+### Kural 235  
+
+:::: {#kural-235 layout="[1]"}  
+235. நத்தம்போல் கேடும் உளதாகும் சாக்காடும்  
+வித்தகர்க் கல்லால் அரிது.  
+
+Kural 235  
+::::  
+
+  
+### Kural 242  
+
+:::: {#kural-242 layout="[1]"}  
+242. நல்லாற்றாள் நாடி அருளாள்க பல்லாற்றால்  
+தேரினும் அஃதே துணை.  
+
+Kural 242  
+::::  
+
+  
+### Kural 243  
+
+:::: {#kural-243 layout="[1]"}  
+243. அருள்சேர்ந்த நெஞ்சினார்க் கில்லை இருள்சேர்ந்த  
+இன்னா உலகம் புகல்.  
+
+Kural 243  
+::::  
+
+  
+### Kural 244  
+
+:::: {#kural-244 layout="[1]"}  
+244. மன்னுயிர் ஓம்பி அருளாள்வார்க் கில்லென்ப  
+தன்னுயிர் அஞ்சும் வினை.  
+
+Kural 244  
+::::  
+
+  
+### Kural 248  
+
+:::: {#kural-248 layout="[1]"}  
+248. பொருளற்றார் பூப்பர் ஒருகால் அருளற்றார்  
+அற்றார்மற் றாதல் அரிது.  
+
+Kural 248  
+::::  
+
+  
+### Kural 254  
+
+:::: {#kural-254 layout="[1]"}  
+254. அருளல்ல தியாதெனின் கொல்லாமை கோறல்  
+பொருளல்ல தவ்வூன் தினல்.  
+
+Kural 254  
+::::  
+
+  
+### Kural 256  
+
+:::: {#kural-256 layout="[1]"}  
+256. தினற்பொருட்டால் கொல்லாது உலகெனின் யாரும்  
+விலைப்பொருட்டால் ஊன்றருவா ரில்.  
+
+Kural 256  
+::::  
+
+  
+### Kural 257  
+
+:::: {#kural-257 layout="[1]"}  
+257. உண்ணாமை வேண்டும் புலாஅல் பிறிதொன்றன்  
+புண்ணது உணர்வார்ப் பெறின்.  
+
+Kural 257  
+::::  
+
+  
+### Kural 1282  
+
+:::: {#kural-1282 layout="[1]"}  
+1282 தினைத்துணையு மூடாமை வேண்டும் பனைத்துணையுங்  
+காமம் நிறைய வரின்.  
+
+Kural 1282  
+::::  
+
+  
+### Kural 263  
+
+:::: {#kural-263 layout="[1]"}  
+263. துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொல்  
+மற்றை யவர்கள் தவம்.  
+
+Kural 263  
+::::  
+
+  
+### Kural 265  
+
+:::: {#kural-265 layout="[1]"}  
+265. வேண்டிய வேண்டியாங் கெய்தலால் செய்தவம்  
+ஈண்டு முயலப் படும்.  
+
+Kural 265  
+::::  
+
+  
+### Kural 269  
+
+:::: {#kural-269 layout="[1]"}  
+269 கூற்றம் குதித்தலும் கைகூடும் நோற்றலின்  
+ஆற்றல் தலைப்பட் டவர்க்கு.  
+
+Kural 269  
+::::  
+
+  
+### Kural 278  
+
+:::: {#kural-278 layout="[1]"}  
+278. மனத்தது மாசாக மாண்டார் நீராடி  
+மறைந்தொழுகு மாந்தர் பலர்.  
+
+Kural 278  
+::::  
+
+  
+### Kural 1303  
+
+:::: {#kural-1303 layout="[1]"}  
+1303 அலந்தாரை யல்லனோய் செய்தற்றாற் றம்மைப்  
+புலந்தாரைப் புல்லா விடல்.  
+
+Kural 1303  
+::::  
+
+  
+### Kural 1306  
+
+:::: {#kural-1306 layout="[1]"}  
+1306 துனியும் புலவியு மில்லாயிற் காமங்  
+கனியுங் கருக்காயு மற்று.  
+
+Kural 1306  
+::::  
+
+  
+### Kural 283  
+
+:::: {#kural-283 layout="[1]"}  
+283. களவினால் ஆகிய ஆக்கம் அளவிறந்து  
+ஆவது போலக் கெடும்.  
+
+Kural 283  
+::::  
+
+  
+### Kural 285  
+
+:::: {#kural-285 layout="[1]"}  
+285. அருள்கருதி அன்புடைய ராதல் பொருள்கருதிப்  
+பொச்சாப்புப் பார்ப்பார்கண் இல்.  
+
+Kural 285  
+::::  
+
+  
+### Kural 287  
+
+:::: {#kural-287 layout="[1]"}  
+287. களவென்னும் காரறி வாண்மை அளவென்னும்  
+ஆற்றல் புரிந்தார்கண் இல்.  
+
+Kural 287  
+::::  
+
+  
+### Kural 288  
+
+:::: {#kural-288 layout="[1]"}  
+288. அளவற§ந்தார் நெஞ்சத் தறம்போல நிற்கும்  
+களவறிந்தார் நெஞ்சில் கரவு.  
+
+Kural 288  
+::::  
+
+  
+### Kural 292  
+
+:::: {#kural-292 layout="[1]"}  
+292. பொய்மையும் வாய்மை யிடத்த புரைதீர்ந்த  
+நன்மை பயக்கும் எனின்.  
+
+Kural 292  
+::::  
+
+  
+### Kural 304  
+
+:::: {#kural-304 layout="[1]"}  
+304. நகையும் உவகையும் கொல்லும் சினத்தின்  
+பகையும் உளவோ பிற.  
+
+Kural 304  
+::::  
+
+  
+### Kural 309  
+
+:::: {#kural-309 layout="[1]"}  
+309. உள்ளிய தெல்லாம் உடனெய்தும் உள்ளத்தால்  
+உள்ளான் வெகுளி எனின்.  
+
+Kural 309  
+::::  
+
+  
+### Kural 311  
+
+:::: {#kural-311 layout="[1]"}  
+311. சிறப்பீனும் செல்வம் பெறினும் பிறர்க்கின்னா  
+செய்யாமை மாசற்றார் கோள்.  
+
+Kural 311  
+::::  
+
+  
+### Kural 313  
+
+:::: {#kural-313 layout="[1]"}  
+313. செய்யாமல் செற்றார்க்கும் இன்னாத செய்தபின்  
+உய்யா விழுமந் தரும்.  
+
+Kural 313  
+::::  
+
+  
+### Kural 316  
+
+:::: {#kural-316 layout="[1]"}  
+316. இன்னா எனத்தான் உணர்ந்தவை துன்னாமை  
+வேண்டும் பிறன்கண் செயல்.  
+
+Kural 316  
+::::  
+
+  
+### Kural 317  
+
+:::: {#kural-317 layout="[1]"}  
+317. எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்  
+மாணாசெய் யாமை தலை.  
+
+Kural 317  
+::::  
+
+  
+### Kural 318  
+
+:::: {#kural-318 layout="[1]"}  
+318. தன்னுயிர்க் கின்னாமை தானறிவான் என்கொலோ  
+மன்னுயிர்க் கின்னா செயல்.  
+
+Kural 318  
+::::  
+
+  
+### Kural 320  
+
+:::: {#kural-320 layout="[1]"}  
+320. நோயெல்லாம் நோய்செய்தார் மேலவாம் நோய்செய்யார்  
+நோயின்மை வேண்டு பவர்.  
+
+Kural 320  
+::::  
+
+  
+### Kural 322  
+
+:::: {#kural-322 layout="[1]"}  
+322. பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்  
+தொகுத்தவற்றுள் எல்லாந் தலை.  
+
+Kural 322  
+::::  
+
+  
+### Kural 323  
+
+:::: {#kural-323 layout="[1]"}  
+323. ஒன்றாக நல்லது கொல்லாமை மற்றதன்  
+பின்சாரப் பொய்யாமை நன்று.  
+
+Kural 323  
+::::  
+
+  
+### Kural 329  
+
+:::: {#kural-329 layout="[1]"}  
+329. கொலைவினைய ராகிய மாக்கள் புலைவினையர்  
+புன்மை தெரிவா ரகத்து.  
+
+Kural 329  
+::::  
+
+  
+### Kural 333  
+
+:::: {#kural-333 layout="[1]"}  
+333. அற்கா இயல்பிற்றுச் செல்வம் அதுபெற்றால்  
+அற்குப ஆங்கே செயல்.  
+
+Kural 333  
+::::  
+
+  
+### Kural 336  
+
+:::: {#kural-336 layout="[1]"}  
+336. நெருநல் உளனொருவன் இன்றில்லை என்னும்  
+பெருமை உடைத்துஇவ் வுலகு.  
+
+Kural 336  
+::::  
+
+  
+### Kural 339  
+
+:::: {#kural-339 layout="[1]"}  
+339. உறங்கு வதுபோலுஞ் சாக்காடு உறங்கி  
+விழிப்பது போலும் பிறப்பு.  
+
+Kural 339  
+::::  
+
+  
+### Kural 341  
+
+:::: {#kural-341 layout="[1]"}  
+341. யாதனின் யாதனின் நீங்கியான் நோதல்  
+அதனின் அதனின் இலன்.  
+
+Kural 341  
+::::  
+
+  
+### Kural 342  
+
+:::: {#kural-342 layout="[1]"}  
+342. வேண்டின் உண்டாகத் துறக்க துறந்தபின்  
+ஈண்டுஇயற் பால பல.  
+
+Kural 342  
+::::  
+
+  
+### Kural 343  
+
+:::: {#kural-343 layout="[1]"}  
+343 அடல்வேண்டும் ஐந்தன் புலத்தை விடல்வேண்டும்  
+வேண்டிய வெல்லாம் ஒருங்கு.  
+
+Kural 343  
+::::  
+
+  
+### Kural 344  
+
+:::: {#kural-344 layout="[1]"}  
+344. இயல்பாகும் நோன்பிற்கொன் றின்மை உடைமை  
+மயலாகும் மற்றும் பெயர்த்து.  
+
+Kural 344  
+::::  
+
+  
+### Kural 345  
+
+:::: {#kural-345 layout="[1]"}  
+345. மற்றும் தொடர்ப்பாடு எவன்கொல் பிறப்பறுக்கல்  
+உற்றார்க்கு உடம்பும் மிகை.  
+
+Kural 345  
+::::  
+
+  
+### Kural 346  
+
+:::: {#kural-346 layout="[1]"}  
+346. யான்என தென்னுஞ் செருக்கறுப்பான் வானோர்க்  
+உயர்ந்த உலகம் புகும்.  
+
+Kural 346  
+::::  
+
+  
+### Kural 352  
+
+:::: {#kural-352 layout="[1]"}  
+352. இருள்நீங்கி இன்பம் பயக்கும் மருள்நீங்கி  
+மாசறு காட்சி யவர்க்கு.  
+
+Kural 352  
+::::  
+
+  
+### Kural 361  
+
+:::: {#kural-361 layout="[1]"}  
+361. அவாஎன்ப எல்லா உயிர்க்கும் எஞ்ஞான்றும்  
+தவாஅப் பிறப்பீனும் வித்து.  
+
+Kural 361  
+::::  
+
+  
+### Kural 367  
+
+:::: {#kural-367 layout="[1]"}  
+367. அவாவினை ஆற்ற அறுப்பின் தவாவினை  
+தான்வேண்டு மாற்றான் வரும்.  
+
+Kural 367  
+::::  
+
+  
+### Kural 377  
+
+:::: {#kural-377 layout="[1]"}  
+377. வகுத்தான் வகுத்த வகையல்லால் கோடி  
+தொகுத்தார்க்கு துய்த்தல் அரிது.  
+
+Kural 377  
+::::  
+
+  
+### Kural 378  
+
+:::: {#kural-378 layout="[1]"}  
+378. துறப்பார்மன் துப்புர வில்லார் உறற்பால  
+ஊட்டா கழியு மெனின்.  
+
+Kural 378  
+::::  
+
+  
+### Kural 392  
+
+:::: {#kural-392 layout="[1]"}  
+392. எண்ணென்ப வேனை யெழுத்தென்ப விவ்விரண்டு  
+கண்ணென்ப வாழு முயிர்க்கு.  
+
+Kural 392  
+::::  
+
+  
+### Kural 396  
+
+:::: {#kural-396 layout="[1]"}  
+396. தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்  
+கற்றனைத் தூறு மறிவு.  
+
+Kural 396  
+::::  
+
+  
+### Kural 397  
+
+:::: {#kural-397 layout="[1]"}  
+397. யாதானு நாடாமா லூராமா லென்னொருவன்  
+சாந்துணையுங் கல்லாத வாறு.  
+
+Kural 397  
+::::  
+
+  
+### Kural 398  
+
+:::: {#kural-398 layout="[1]"}  
+398. ஒருமைக்கட் டான்கற்ற கல்வி யொருவற்  
+கெழுமையும் ஏமாப் புடைத்து.  
+
+Kural 398  
+::::  
+
+  
+### Kural 401  
+
+:::: {#kural-401 layout="[1]"}  
+401. அரங்கின்றி வட்டாடி யற்றே நிரம்பிய  
+நூலின்றிக் கோட்டி கொளல்.  
+
+Kural 401  
+::::  
+
+  
+### Kural 405  
+
+:::: {#kural-405 layout="[1]"}  
+405. கல்லா வொருவன் றகைமை தலைப்பெய்து  
+சொல்லாடச் சோர்வு படும்.  
+
+Kural 405  
+::::  
+
+  
+### Kural 409  
+
+:::: {#kural-409 layout="[1]"}  
+409. மேற்பிறந்தா ராயினுங் கல்லாதார் கீழ்ப்பிறந்துங்  
+கற்றா ரனைத்திலர் பாடு.  
+
+Kural 409  
+::::  
+
+  
+### Kural 418  
+
+:::: {#kural-418 layout="[1]"}  
+418. கேட்பினுங் கேளாத் தகையவே கேள்வியால்  
+தோட்கப் படாத செவி.  
+
+Kural 418  
+::::  
+
+  
+### Kural 431  
+
+:::: {#kural-431 layout="[1]"}  
+431. செருக்குஞ் சினமும் சிறுமையும் இல்லார்  
+பெருக்கம் பெருமித நீர்த்து.  
+
+Kural 431  
+::::  
+
+  
+### Kural 439  
+
+:::: {#kural-439 layout="[1]"}  
+439. வியவற்க எஞ்ஞான்றும் தன்னை நயவற்க  
+நன்றி பயவா வினை.  
+
+Kural 439  
+::::  
+
+  
+### Kural 441  
+
+:::: {#kural-441 layout="[1]"}  
+441. அறனறிந்து மூத்த அறிவுடையார் கேண்மை  
+திறனறிந்து தேர்ந்து கொளல்.  
+
+Kural 441  
+::::  
+
+  
+### Kural 442  
+
+:::: {#kural-442 layout="[1]"}  
+442. உற்றநோய் நீக்கி உறாஅமை முற்காக்கும்  
+பெற்றியார்ப் பேணிக் கொளல்.  
+
+Kural 442  
+::::  
+
+  
+### Kural 443  
+
+:::: {#kural-443 layout="[1]"}  
+443. அரியவற்று ளெல்லாம் அரிதே பெரியாரைப்  
+பேணித் தமராக் கொளல்.  
+
+Kural 443  
+::::  
+
+  
+### Kural 449  
+
+:::: {#kural-449 layout="[1]"}  
+449. முதலிலார்க ஊதிய மில்லை மதலையாஞ்  
+சார்பிலார்க் கில்லை நிலை.  
+
+Kural 449  
+::::  
+
+  
+### Kural 458  
+
+:::: {#kural-458 layout="[1]"}  
+458 மனநலம் நன்குடைய ராயினும் சான்றோர்க்கு  
+இனநலம் ஏமாப் புடைத்து.  
+
+Kural 458  
+::::  
+
+  
+### Kural 459  
+
+:::: {#kural-459 layout="[1]"}  
+459 மனநலத்தின் ஆகும் மறுமைமற் றஃதும்  
+இனநலத்தின் ஏமாப் புடைத்து.  
+
+Kural 459  
+::::  
+
+  
+### Kural 460  
+
+:::: {#kural-460 layout="[1]"}  
+460 நல்லினத்தி னுங்குந் துணையில்லை தீயினத்தின்  
+அல்லற் படுப்பதூஉம் இல்.  
+
+Kural 460  
+::::  
+
+  
+### Kural 461  
+
+:::: {#kural-461 layout="[1]"}  
+461 அழிவதூஉம் ஆவதூஉம் ஆகி வழிபயக்கும்  
+ஊதியமும் சூழ்ந்து செயல்.  
+
+Kural 461  
+::::  
+
+  
+### Kural 463  
+
+:::: {#kural-463 layout="[1]"}  
+463 ஆக்கம் கருதி முதலிழக்கும் செய்வினை  
+ஊக்கார் அறிவுடை யார்.  
+
+Kural 463  
+::::  
+
+  
+### Kural 469  
+
+:::: {#kural-469 layout="[1]"}  
+469 நன்றாற்ற லுள்ளுந் தவுறுண்டு அவரவர்  
+பண்பறிந் தாற்றாக் கடை.  
+
+Kural 469  
+::::  
+
+  
+### Kural 489  
+
+:::: {#kural-489 layout="[1]"}  
+489 எய்தற் கரியது இயைந்தக்கால் அந்நிலையே  
+செய்தற் கரிய செயல்.  
+
+Kural 489  
+::::  
+
+  
+### Kural 495  
+
+:::: {#kural-495 layout="[1]"}  
+495 நெடும்புனலுள் வெல்லும் முதலை அடும்புனலின்  
+நீங்கின் அதனைப் பிற.  
+
+Kural 495  
+::::  
+
+  
+### Kural 501  
+
+:::: {#kural-501 layout="[1]"}  
+501 அறம்பொருள் இன்பம் உயிரச்சம் நான்கின்  
+திறந்தெரிந்து தேறப் படும்.  
+
+Kural 501  
+::::  
+
+  
+### Kural 504  
+
+:::: {#kural-504 layout="[1]"}  
+504 குணம்நாடிக் குற்றமும் நாடி அவற்றுள்  
+மிகைநாடி மிக்க கொளல்.  
+
+Kural 504  
+::::  
+
+  
+### Kural 511  
+
+:::: {#kural-511 layout="[1]"}  
+511 நன்மையும் தீமையும் நாடி நலம்புரிந்த  
+தன்மையான் ஆளப் படும்.  
+
+Kural 511  
+::::  
+
+  
+### Kural 516  
+
+:::: {#kural-516 layout="[1]"}  
+516 செய்வானை நாடி வினைநாடிக் காலத்தோ  
+டெய்த உணர்ந்து செயல்.  
+
+Kural 516  
+::::  
+
+  
+### Kural 523  
+
+:::: {#kural-523 layout="[1]"}  
+523 அளவளா வில்லாதான் வாழ்க்கை குளவளாக்  
+கோடின்றி நீர்நிறைந் தற்று.  
+
+Kural 523  
+::::  
+
+  
+### Kural 528  
+
+:::: {#kural-528 layout="[1]"}  
+528 பொதுநோக்கான் வேந்தன் வரிசையா நோக்கின்  
+அதுநோக்கி வாழ்வார் பலர்.  
+
+Kural 528  
+::::  
+
+  
+### Kural 531  
+
+:::: {#kural-531 layout="[1]"}  
+531 இறந்த வெகுளியின் தீதே சிறந்த  
+உவகை மகிழ்ச்சியிற் சோர்வு.  
+
+Kural 531  
+::::  
+
+  
+### Kural 540  
+
+:::: {#kural-540 layout="[1]"}  
+540 உள்ளியது எய்தல் எளிதுமன் மற்றுந்தான்  
+உள்ளியது உள்ளப் பெறின்.  
+
+Kural 540  
+::::  
+
+  
+### Kural 542  
+
+:::: {#kural-542 layout="[1]"}  
+542 வானோக்கி வாழும் உலகெல்லாம் மன்னவன்  
+கோல்நோக்கி வாழுங் குடி.  
+
+Kural 542  
+::::  
+
+  
+### Kural 543  
+
+:::: {#kural-543 layout="[1]"}  
+543 அந்தணர் நூற்கும் அறத்திற்கும் ஆதியாய்  
+நின்றது மன்னவன் கோல்.  
+
+Kural 543  
+::::  
+
+  
+### Kural 544  
+
+:::: {#kural-544 layout="[1]"}  
+544 குடிதழீஇக் கோலோச்சும் மாநில மன்னன்  
+அடிதழீஇ நிற்கும் உலகு.  
+
+Kural 544  
+::::  
+
+  
+### Kural 549  
+
+:::: {#kural-549 layout="[1]"}  
+549 குடிபுறங் காத்தோம்பிக் குற்றம் கடிதல்  
+வடுவன்று வேந்தன் தொழில்.  
+
+Kural 549  
+::::  
+
+  
+### Kural 570  
+
+:::: {#kural-570 layout="[1]"}  
+570 கல்லார்ப் பிணிக்கும் கடுங்கோல் அதுவல்ல  
+தில்லை நிலக்குப் பொறை.  
+
+Kural 570  
+::::  
+
+  
+### Kural 571  
+
+:::: {#kural-571 layout="[1]"}  
+571 கண்ணோட்டம் என்னும் கழிபெருங் காரிகை  
+உண்மையான் உண்டிவ் வுலகு.  
+
+Kural 571  
+::::  
+
+  
+### Kural 572  
+
+:::: {#kural-572 layout="[1]"}  
+572 கண்ணோட்டத் துள்ளது உலகியல் அஃதிலார்  
+உண்மை நிலக்குப் பொறை.  
+
+Kural 572  
+::::  
+
+  
+### Kural 579  
+
+:::: {#kural-579 layout="[1]"}  
+579 ஒறுத்தாற்றும் பண்பினார் கண்ணும்கண் ணோடிப்  
+பொறுத்தாற்றும் பண்பே தலை.  
+
+Kural 579  
+::::  
+
+  
+### Kural 580  
+
+:::: {#kural-580 layout="[1]"}  
+580 பெயக்கண்டும் நஞ்சுண் டமைவர் நயத்தக்க  
+நாகரிகம் வேண்டு பவர்.  
+
+Kural 580  
+::::  
+
+  
+### Kural 586  
+
+:::: {#kural-586 layout="[1]"}  
+586 துறந்தார் படிவத்த ராகி இறந்தாராய்ந்  
+தென்செயினும் சோர்விலது ஒற்று.  
+
+Kural 586  
+::::  
+
+  
+### Kural 588  
+
+:::: {#kural-588 layout="[1]"}  
+588 ஒற்றொற்றித் தந்த பொருளையும் மற்றுமோர்  
+ஒற்றினால் ஒற்றிக் கொளல்.  
+
+Kural 588  
+::::  
+
+  
+### Kural 589  
+
+:::: {#kural-589 layout="[1]"}  
+589 ஒற்றெற் றுணராமை ஆள்க உடன்மூவர்  
+சொற்றொக்க தேறப் படும்.  
+
+Kural 589  
+::::  
+
+  
+### Kural 598  
+
+:::: {#kural-598 layout="[1]"}  
+598 உள்ளம் இலாதவர் எய்தார் உலகத்து  
+வள்ளியம் என்னுஞ் செருக்கு.  
+
+Kural 598  
+::::  
+
+  
+### Kural 600  
+
+:::: {#kural-600 layout="[1]"}  
+600 உரமொருவற் குள்ள வெறுக்கை அஃதில்லார்  
+மரம்மக்க ளாதலே வேறு.  
+
+Kural 600  
+::::  
+
+  
+### Kural 610  
+
+:::: {#kural-610 layout="[1]"}  
+610 மடியிலா மன்னவன் எய்தும் அடியளந்தான்  
+தாஅய தெல்லாம் ஒருங்கு.  
+
+Kural 610  
+::::  
+
+  
+### Kural 613  
+
+:::: {#kural-613 layout="[1]"}  
+613 தாளாண்மை என்னும் தகைமைக்கண் தங்கிற்றே  
+வேளாண்மை என்னுஞ் செருக்கு.  
+
+Kural 613  
+::::  
+
+  
+### Kural 614  
+
+:::: {#kural-614 layout="[1]"}  
+614 தாளாண்மை இல்லாதான் வேளாண்மை பேடிகை  
+வாளாண்மை போலக் கெடும்.  
+
+Kural 614  
+::::  
+
+  
+### Kural 633  
+
+:::: {#kural-633 layout="[1]"}  
+633 பிரித்தலும் பேணிக் கொளலும் பிரிந்தார்ப்  
+பொருத்தலும் வல்ல தமைச்சு.  
+
+Kural 633  
+::::  
+
+  
+### Kural 638  
+
+:::: {#kural-638 layout="[1]"}  
+638 அறிகொன்று அறியான் எனினும் உறுதி  
+உழையிருந்தான் கூறல் கடன்.  
+
+Kural 638  
+::::  
+
+  
+### Kural 642  
+
+:::: {#kural-642 layout="[1]"}  
+642 ஆக்கமுங் கேடும் அதனால் வருதலால்  
+காத்தோம்பல் சொல்லின்கட் சோர்வு.  
+
+Kural 642  
+::::  
+
+  
+### Kural 644  
+
+:::: {#kural-644 layout="[1]"}  
+644 திறனறிந்து சொல்லுக சொல்லை அறனும்  
+பொருளும் அதனினூஉங் கில்.  
+
+Kural 644  
+::::  
+
+  
+### Kural 645  
+
+:::: {#kural-645 layout="[1]"}  
+645 சொல்லுக சொல்லைப் பிறிதோர்சொல் அச்சொல்லை  
+வெல்லுஞ்சொல் இன்மை அறிந்து.  
+
+Kural 645  
+::::  
+
+  
+### Kural 673  
+
+:::: {#kural-673 layout="[1]"}  
+673 ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால்  
+செல்லும்வாய் நோக்கிச் செயல்.  
+
+Kural 673  
+::::  
+
+  
+### Kural 676  
+
+:::: {#kural-676 layout="[1]"}  
+676 முடிவும் இடையூறும் முற்றியாங்கு எய்தும்  
+படுபயனும் பார்த்துச் செயல்.  
+
+Kural 676  
+::::  
+
+  
+### Kural 678  
+
+:::: {#kural-678 layout="[1]"}  
+678 வினையான் வினையாக்கிக் கோடல் நனைகவுள்  
+யானையால் யானையாத் தற்று.  
+
+Kural 678  
+::::  
+
+  
+### Kural 681  
+
+:::: {#kural-681 layout="[1]"}  
+681 அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம்  
+பண்புடைமை தூதுரைப்பான் பண்பு.  
+
+Kural 681  
+::::  
+
+  
+### Kural 683  
+
+:::: {#kural-683 layout="[1]"}  
+683 நூலாருள் நூல்வல்லன் ஆகுதல் வேலாருள்  
+வென்றி வினையுரைப்பான் பண்பு.  
+
+Kural 683  
+::::  
+
+  
+### Kural 684  
+
+:::: {#kural-684 layout="[1]"}  
+684 அறிவுரு வாராய்ந்த கல்விஇம் மூன்றன்  
+செறிவுடையான் செல்க வினைக்கு.  
+
+Kural 684  
+::::  
+
+  
+### Kural 687  
+
+:::: {#kural-687 layout="[1]"}  
+687 கடனறிந்து காலங் கருதி இடனறிந்து  
+எண்ணி உரைப்பான் தலை.  
+
+Kural 687  
+::::  
+
+  
+### Kural 688  
+
+:::: {#kural-688 layout="[1]"}  
+688 தூய்மை துணைமை துணிவுடைமை இம்மூன்றின்  
+வாய்மை வழியுரைப்பான் பண்பு.  
+
+Kural 688  
+::::  
+
+  
+### Kural 691  
+
+:::: {#kural-691 layout="[1]"}  
+691 அகலாது அணுகாது தீக்காய்வார் போல்க  
+இகல்வேந்தர்ச் சேர்ந்தொழுகு வார்.  
+
+Kural 691  
+::::  
+
+  
+### Kural 711  
+
+:::: {#kural-711 layout="[1]"}  
+711 அவையறிந்து ஆராய்ந்து சொல்லுக சொல்லின்  
+தொகையறிந்த தூய்மை யவர்.  
+
+Kural 711  
+::::  
+
+  
+### Kural 712  
+
+:::: {#kural-712 layout="[1]"}  
+712 இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின்  
+நடைதெரிந்த நன்மை யவர்.  
+
+Kural 712  
+::::  
+
+  
+### Kural 715  
+
+:::: {#kural-715 layout="[1]"}  
+715 நன்றென்ற வற்றுள்ளும் நன்றே முதுவருள்  
+முந்து கிளவாச் செறிவு.  
+
+Kural 715  
+::::  
+
+  
+### Kural 719  
+
+:::: {#kural-719 layout="[1]"}  
+719 புல்லவையுள் பொச்சாந்தும் சொல்லற்க நல்லவையுள்  
+நன்குசலச் சொல்லு வார்.  
+
+Kural 719  
+::::  
+
+  
+### Kural 725  
+
+:::: {#kural-725 layout="[1]"}  
+725 ஆற்றின் அளவறிந்து கற்க அவையஞ்சா  
+மாற்றங் கொடுத்தற் பொருட்டு.  
+
+Kural 725  
+::::  
+
+  
+### Kural 765  
+
+:::: {#kural-765 layout="[1]"}  
+765 கூற்றுடன்று மேல்வரினும் கூடி எதிர்நிற்கும்  
+ஆற்ற லதுவே படை.  
+
+Kural 765  
+::::  
+
+  
+### Kural 784  
+
+:::: {#kural-784 layout="[1]"}  
+784 நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண்  
+மேற்செனறு இடித்தற் பொருட்டு.  
+
+Kural 784  
+::::  
+
+  
+### Kural 789  
+
+:::: {#kural-789 layout="[1]"}  
+789 நட்பிற்கு வீற்றிருக்கை யாதெனின் கொட்பின்றி  
+ஒல்லும்வாய் ஊன்றும் நிலை.  
+
+Kural 789  
+::::  
+
+  
+### Kural 824  
+
+:::: {#kural-824 layout="[1]"}  
+824 முகத்தின் இனிய நகாஅ அகத்தின்னா  
+வஞ்சரை அஞ்சப் படும்.  
+
+Kural 824  
+::::  
+
+  
+### Kural 828  
+
+:::: {#kural-828 layout="[1]"}  
+828 தொழுதகை யுள்ளும் படையொடுங்கும் ஒன்னார்  
+அழுதகண் ணீரும் அனைத்து.  
+
+Kural 828  
+::::  
+
+  
+### Kural 835  
+
+:::: {#kural-835 layout="[1]"}  
+835 ஒருமைச் செயலாற்றும் பேதை எழுமையும்  
+தான்புக் கழுந்தும் அளறு.  
+
+Kural 835  
+::::  
+
+  
+### Kural 842  
+
+:::: {#kural-842 layout="[1]"}  
+842 அறிவிலான் நெஞ்சுவந்து ஈதல் பிறிதியாதும்  
+இல்லை பெறுவான் தவம்.  
+
+Kural 842  
+::::  
+
+  
+### Kural 861  
+
+:::: {#kural-861 layout="[1]"}  
+861 வலியார்க்கு மாறேற்றல் ஓம்புக ஓம்பா  
+மெலியார்மேல் மேக பகை.  
+
+Kural 861  
+::::  
+
+  
+### Kural 862  
+
+:::: {#kural-862 layout="[1]"}  
+862 அன்பிலன் ஆன்ற துணையிலன் தான்துவ்வான்  
+என்பரியும் ஏதிலான் துப்பு.  
+
+Kural 862  
+::::  
+
+  
+### Kural 864  
+
+:::: {#kural-864 layout="[1]"}  
+864 நீங்கான் வெகுளி நிறையிலன் எஞ்ஞான்றும்  
+யாங்கணும் யார்க்கும் எளிது.  
+
+Kural 864  
+::::  
+
+  
+### Kural 879  
+
+:::: {#kural-879 layout="[1]"}  
+879 இளைதாக முள்மரம் கொல்க களையுநர்  
+கைகொல்லும் காழ்த்த இடத்து.  
+
+Kural 879  
+::::  
+
+  
+### Kural 886  
+
+:::: {#kural-886 layout="[1]"}  
+886 ஒன்றாமை ஒன்றியார் கட்படின் எஞ்ஞான்றும்  
+பொன்றாமை ஒன்றல் அரிது.  
+
+Kural 886  
+::::  
+
+  
+### Kural 937  
+
+:::: {#kural-937 layout="[1]"}  
+937 பழகிய செல்வமும் பண்பும் கெடுக்கும்  
+கழகத்துக் காலை புகின்.  
+
+Kural 937  
+::::  
+
+  
+### Kural 941  
+
+:::: {#kural-941 layout="[1]"}  
+941 மிகினும் குறையினும் நோய்செய்யும் நூலோர்  
+வளிமுதலா எண்ணிய மூன்று.  
+
+Kural 941  
+::::  
+
+  
+### Kural 957  
+
+:::: {#kural-957 layout="[1]"}  
+957 குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்  
+மதக்கண் மறுப்போல் உயர்ந்து.  
+
+Kural 957  
+::::  
+
+  
+### Kural 987  
+
+:::: {#kural-987 layout="[1]"}  
+987 இன்னாசெய் தார்க்கும் இனியவே செய்யாக்கால்  
+என்ன பயத்ததோ சால்பு.  
+
+Kural 987  
+::::  
+
+  
+### Kural 991  
+
+:::: {#kural-991 layout="[1]"}  
+991 எண்பதத்தால் எய்தல் எளிதென்ப யார்மாட்டும்  
+பண்புடைமை என்னும் வழக்கு.  
+
+Kural 991  
+::::  
+
+  
+### Kural 997  
+
+:::: {#kural-997 layout="[1]"}  
+997 அரம்போலும் கூர்மைய ரேனும் மரம்போல்வர்  
+மக்கட்பண் பில்லா தவர்.  
+
+Kural 997  
+::::  
+
+  
+### Kural 1006  
+
+:::: {#kural-1006 layout="[1]"}  
+1006 ஏதம் பெருஞ்செல்வம் தான்துவ்வான் தக்கார்க்கொன்  
+றீதல் இயல்பிலா தான்.  
+
+Kural 1006  
+::::  

@@ -1,7 +1,11 @@
 ---
-title: "Summer"
+title: "Summer 2024"
 format: html
 ---
+
+# Complete Study Guide
+
+[Thirukkural Study Guide](thirukkural_study_guide.qmd) html page contains the summary of all slides used during the summer 2024 class with referrences to individual word meanings and usage examples of each words from other kurals with their links to support explorative, interactive curiosity lead learning.  
 
 # Summer Class Syllabus
 
@@ -165,3 +169,6 @@ In Class 5, we will learn syllables in all words in [Kural 201](kuralQuartoWords
 
 1. Navigation Added 
 2. Asai wise presentation added
+3. Add mindmap
+4. Add Complete Study Guide
+5. Fix missing links to reference kurals
